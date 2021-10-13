@@ -2,7 +2,7 @@
 This document aims to provide a list of lectures that are being offered this semester for the Informatics master at TUM, grouped by area of specialization:
 
 - TUM provides a list of modules in the Informatics master **by area of specialization** [here](https://www.in.tum.de/en/current-students/masters-programs/informatics/elective-modules/fpso-2018/) - *but without (reliable) information which modules are actually being offered*.
-- The TUMonline course search lists the courses that are actually being offered in the current semester - *but without information about the area the course is in*.
+- The TUMonline course search lists the courses that are **actually being offered in the current semester** - *but without information about the area the course is in*.
 
 This repo merges the two sources of information, to provide the list of lectures that are being offered, grouped by area of specialization.
 
