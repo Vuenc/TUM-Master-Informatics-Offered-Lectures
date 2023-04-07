@@ -55,6 +55,8 @@ STYLE = """
         width: 60%;
     }
     body {
+        width: 100%;
+        margin: 0px;
         display: inline-grid;
         justify-items: center;
     }
