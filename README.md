@@ -1,3 +1,6 @@
+**Warning!** TUM moved the Informatics website to the new CIT school and replaced their elective modules table with a TUM online tree view. At the same time there were new courses which are not yet reflected here. **Many new courses are currently missing from my table.**
+I'm trying to find a solution soon, but currently, don't rely on this table.
+
 # TUM Master Informatics: Offered Lectures
 This document aims to provide a list of lectures that are being offered this semester for the Informatics master at TUM, grouped by area of specialization:
 
