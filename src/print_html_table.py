@@ -29,6 +29,7 @@ STYLE = """
         width: 95%;
         display: inline-grid;
         justify-items: center;
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     }
     @media (min-width: 1150px) {
         .main-container {
