@@ -1,44 +1,33 @@
-**Warning!** TUM moved the Informatics website to the new CIT school and replaced their elective modules table with a TUM online tree view. At the same time there were new courses which are not yet reflected here. **Many new courses are currently missing from my table.**
-I'm trying to find a solution soon, but currently, don't rely on this table.
+# TUM Master Informatics, DEA: Offered Lectures
+This document aims to provide a **list of elective lectures** that are being offered this semester for the Informatics and DEA masters at TUM, grouped by area of specialization:
 
-# TUM Master Informatics: Offered Lectures
-This document aims to provide a list of lectures that are being offered this semester for the Informatics master at TUM, grouped by area of specialization:
-
-- TUM provides a list of modules in the Informatics master **by area of specialization** [here](https://www.in.tum.de/en/current-students/masters-programs/informatics/elective-modules/fpso-2018/) - *but without (reliable) information which modules are actually being offered*.
-- The TUMonline course search lists the courses that are **actually being offered in the current semester** - *but without information about the area the course is in*.
-
-This repo merges the two sources of information, to provide the list of lectures that are being offered, grouped by area of specialization.
+- **Informatics master**:
+    - [List of courses offered in the current semester (SS23)](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/informatics-ss23.html)
+    - [List of all courses and when last offered in the last 5 years](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/informatics-all.html)
+- **DEA master**:
+    - [List of courses offered in the current semester (SS23)](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-ss23.html)
+    - [List of all courses and when last offered in the last 5 years](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-all.html)
 
 *This list is not official, might be incomplete or have errors. Use with care!*
 
-I created this list by matching modules from TUMonline that will actually be offered with the
-list of elective modules. I only included lectures (VO) and lectures with integrated exercises (VI).
-There may be errors: For example, new courses might be missing if they are not yet associated
-with the correct curriculum on TUMonline.
-
+I created the list by scraping data from the TUM online curriculum tree view (all lectures sorted by area) and merging it with the data from the TUM online courses tabs, which gives me the currently offered lectures. 
 
 # Contributing
-You can send a pull request if you find a lecture is missing, or a lecture is wrongly included.
+If you find a mistake, like a lecture missing, you can create an issue.
 
-- lecture wrongly included: Strike it through (like e.g. *~~Patterns in Software Engineering~~*)
-- lecture missing:  Add a line on the second sheet with the INxxxx code and the lecture name. Then re-apply the the filter on the first sheet, cell J3. The lecture should appear either under an area of specialization, or at the bottom if it's not in the official elective modules table.
+If you find the list is out of date because some information changed in TUM online, you can recreate the table by running the scripts:
 
-Please re-generate the pdf afterwards by exporting columns A-H as pdf.
+1. Create a `src/.env` file with your TUM online credentials: This is needed to fetch an English-language curriculum table.
+```
+TUMONLINE_USERNAME="yourusername"
+TUMONLINE_PASSWORD="yourpassword"
+```
+2. Fetch data from the curriculum tree view by running `python fetch_tumonline_tree.py --curriculum master-informatics` (or `--master-dea`)
+3. Regenerate HTML tables - e.g. for Informatics:
+    - `python print_html_table.py --termid 198 --curriculum master-informatics --output ../informatics-ss23.html` for current semester table
+    - `python print_html_table.py --termid 198 --curriculum master-informatics --oldtermsfrom 188 --output ../informatics-all.html` for last offered table
+    - replace the term IDs: 198 is summer term 2023, 199 is winter term 2023/24, etc.
+    
+You can also regenerate all tables by running `sh src/regenerate-alls.sh`.
 
-
-### How to update the table
-I use the following steps to update the table of offered lectures every semester. I usually update the table one or two weeks before the lecture period starts to make sure that all courses are already visible in TUM online.
-
-1. Update the list of courses in the curriculum
-    - go to [https://www.in.tum.de/in/fuer-studierende/master-studiengaenge/informatik/wahlmodule/fpso-2018/](https://www.in.tum.de/in/fuer-studierende/master-studiengaenge/informatik/wahlmodule/fpso-2018/) (or whatever the current FPSO is) and copy the table, starting at the first heading Elective Modules of the Area ..." until the end of the section "Elective Modules not Assigned to any Area:"
-    - paste this table into the *Modules by Master Areas* sheet
-2. Fetch the list of currently offered courses
-    - run `python fetch_courses.py --termid <TERM_ID>`. For `<TERM_ID>`, substitute the number of the current semester: For winter 2022/23, this is 197, for summer 2023 this is 198, and so on.
-    - the script first fetches all courses associated with the Master Informatics curriculum, then all courses not associated with the curriculum but which have a `INxxxx` module number. For each of the two, it first outputs a list of `INxxxx` numbers followed by a list of course names
-3. Update the offered courses
-    - in the "Offered modules from TUM online (Master)" and "Offered modules from TUM online (Other IN)" sheets, clear the data in the "Module No." and the "Title" columns
-    - copy-paste the first block of `INxxxx` numbers from the script output into the "Module No." column of the first sheet, and the second block of `INxxxx` numbers from the script output into the "Module No." column of the second sheet
-    - copy-paste the first block of course names from the script output into the "Title" column of the first sheet, and the second block of course names from the script output into the "Title" column of the second sheet
-    - in the "Modules by Master Areas" sheet, re-apply the filter in the "Offered in the current semester?" column
-4. Export the pdf
-    - in the "Modules by Master Areas" sheet, select the columns until "THEO" and export the selection as pdf.
+If you want a similar list for other study programs, I'm happy to collaborate! Just open an issue and we can have a look. The scripts should be easy to generalize to other programs.
