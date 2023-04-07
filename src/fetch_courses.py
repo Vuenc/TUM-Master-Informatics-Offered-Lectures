@@ -3,6 +3,7 @@ import requests
 import re
 import tqdm
 import argparse
+import multiprocessing.pool
 
 def fetch_course_dtos(term_id, only_master_informatics=False) -> List[Dict]:
     # termId = "196" # SS 2022
@@ -13,17 +14,28 @@ def fetch_course_dtos(term_id, only_master_informatics=False) -> List[Dict]:
     total_count = None
     course_dtos = []
     pbar = None
-    while total_count is None or len(course_dtos) < total_count:
-        response = requests.get(url % (filter, len(course_dtos)), headers={"Accept": "application/json"}).json()
-        old_total_count, total_count = total_count, response["totalCount"]
-        if old_total_count is None:
-            pbar = tqdm.tqdm(total=total_count, leave=False)
-        course_dtos += [resource_json["content"]["cpCourseDto"] for resource_json in response["resource"]]
-        if pbar is not None:
-            pbar.update(len(course_dtos) - pbar.n)
-    if pbar is not None:
-        pbar.close()
+    pool = multiprocessing.pool.ThreadPool()
+    batch_range = range(0, 10000, 100)
+    course_dtos = sum(pool.map(fetch_course_dto_batch, zip(batch_range, [filter] * len(batch_range))), [])
+    # while total_count is None or len(course_dtos) < total_count:
+    #     response = requests.get(url % (filter, len(course_dtos)), headers={"Accept": "application/json"}).json()
+    #     old_total_count, total_count = total_count, response["totalCount"]
+    #     if old_total_count is None:
+    #         pbar = tqdm.tqdm(total=total_count, leave=False)
+    #     course_dtos += [resource_json["content"]["cpCourseDto"] for resource_json in response["resource"]]
+    #     if pbar is not None:
+    #         pbar.update(len(course_dtos) - pbar.n)
+    # if pbar is not None:
+    #     pbar.close()
+    print(len(course_dtos), "courses found in total for term", term_id)
     return course_dtos
+
+def fetch_course_dto_batch(skip_filter):
+    skip, filter = skip_filter
+    url = "https://campus.tum.de/tumonline/ee/rest/slc.tm.cp/student/courses?%s$orderBy=title=ascnf&$skip=%d&$top=100"
+    response = requests.get(url % (filter, skip), headers={"Accept": "application/json"}).json()
+    return [resource_json["content"]["cpCourseDto"] for resource_json in response["resource"]]
+
 
 allowed_course_types = ["VI", "VO"]
 
