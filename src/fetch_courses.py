@@ -1,7 +1,6 @@
 from typing import Dict, List, Tuple
 import requests
 import re
-import tqdm
 import argparse
 import multiprocessing.pool
 
