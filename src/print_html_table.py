@@ -48,6 +48,10 @@ STYLE = """
     td, th {
         border: 0px;
     }
+    td {
+      padding-top: 0.7rem;
+      padding-bottom: 0.7rem;
+    }
     th {
         text-align: left;
     }
@@ -59,9 +63,34 @@ STYLE = """
         margin: 0px;
         display: inline-grid;
         justify-items: center;
+        font-size: 1rem;
     }
     tbody tr:nth-child(odd) {
       background-color: #f6f6f6;
+    }
+    @media (min-resolution: 150dpi) {
+      body {
+        font-size: 1.7rem;
+      }
+      table {
+        font-size: calc(1.9*0.92rem);
+        line-height: calc(1.9*1.3rem);
+      }
+      .titleheader {
+          width: 40%;
+      }
+    }
+    @media (min-resolution: 300dpi) {
+      body {
+        font-size: 2rem;
+      }
+      table {
+        font-size: calc(2.1*0.92rem);
+        line-height: calc(2.1*1.3rem);
+      }
+      .titleheader {
+          width: 40%;
+      }
     }
 </style>
 """
