@@ -31,9 +31,13 @@ def login_tum_online(driver: webdriver.Firefox, username, password):
     driver.find_element(value=password_field_id).send_keys(password)
     driver.find_element(value=login_button_id).click
 
-def descendant_plus_buttons(element):
+def descendant_plus_buttons(element, parent_id: str|None=None):
     # Plus buttons are distinguished by their element id containing "toggle"
-    return element.find_elements(By.XPATH, "//a[contains(@id,'toggle')]")
+    if parent_id is not None:
+        return element.find_elements(By.XPATH,
+                                     f"//tr[@id='{parent_id}']/following-sibling::*//a[contains(@id,'toggle')]")
+    else:
+        return element.find_elements(By.XPATH, "//a[contains(@id,'toggle')]")
 
 def print_tree(tree, prefix="|--"):
     print(prefix[:-1], tree["name"])
@@ -114,6 +118,8 @@ def main():
     # estimate of how much of the work goes on in the subtree, vs. clicking the root
     SUBTREE_PROGRESS_RATIO = 0.98
 
+    crawl_successful = False
+
     try:
         # Perform depth-first search
         while len(next_nodes) > 0:
@@ -122,7 +128,9 @@ def main():
             if active_node["level"] < MAX_LEVELS:
                 button = active_node["object"]
                 click_button(driver, button)
-                new_plus_buttons = [button for button in descendant_plus_buttons(driver)
+                new_plus_buttons = [button for button 
+                                    in descendant_plus_buttons(driver,
+                                                               active_node.get("element_id"))
                                     if button not in seen_plus_buttons
                                     and "Master-Praktikum" not in button.text
                                     and "Practical Course" not in button.text]
@@ -134,8 +142,10 @@ def main():
                         "children": [],
                         "level": active_node["level"] + 1,
                         "progress_ratio": (
-                            active_node["progress_ratio"]*SUBTREE_PROGRESS_RATIO/num_children)
-                        }
+                            active_node["progress_ratio"]*SUBTREE_PROGRESS_RATIO/num_children),
+                        "element_id": str(plus_button.get_attribute("id")
+                                          ).removesuffix("-toggle")
+                    }
                     for plus_button in new_plus_buttons
                 ]
                 next_nodes.extend(reversed(active_node["children"]))
@@ -145,7 +155,7 @@ def main():
                                     else active_node["progress_ratio"])
             else:
                 progress_bar.update(active_node["progress_ratio"])
-
+        crawl_successful = True
     except Exception as e:
         print(e)
     finally:
@@ -164,6 +174,8 @@ def main():
         with open(curriculum.tree_file, "wb") as f:
             pickle.dump(tree, f)
         print(f"""Results written to pickle file '{curriculum.tree_file}'""")
+        if not crawl_successful:
+            print("Warning! There was an error, tree crawl incomplete (see above)")
         driver.close()
         return tree
 
