@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 import os
 from curriculums import curriculums
 import argparse
+import tqdm
+
 def click_button(driver, button):
     # The toggle buttons execute some script on `onclick` to expand the tree.
     # Therefore we extract this piece of code and execute it directly, to the same
@@ -73,7 +75,6 @@ def main():
     
     # Find the "Elective Modules" subtree (ignore other top-level subtrees)
     plus_buttons = descendant_plus_buttons(driver)
-    print([button.text for button in plus_buttons])
     (electives_button, ) = [button for button in plus_buttons
                             if ("Elective Modules" in button.text
                                  or "Wahlmodulkatalog" in button.text
@@ -83,48 +84,73 @@ def main():
     # Since we don't have a lot of control or implicit information about the HTML
     # representation of the tree (it's flat in the HTML, not nested in tree form),
     # we need some tricks.
-    # We perform a breadth-first search as follows:
-    # - click all "toggle" buttons on the current level
-    #   - after each click, search for all buttons and identify the newly added ones
-    #     (for this purpose, keep track of all previously seen buttons)
-    #   - this way, we build up tree information (parent/child relationships between
-    #     buttons) and identify buttons that lie on the next level
-    # - when a level is exhausted, repeat the procedure for all identified buttons on
-    #   the next level, until the max. number of levels is reached
+    # We perform a depth-first search as follows:
+    # - pop current node from stack and click its "toggle" button. Then find all
+    #   buttons and identify the newly added ones (for this purpose, keep track of all
+    #   previously seen buttons).
+    #   - this way, we build up a tree (parent/child relationships between buttons)
+    #   - add children to search stack
+    # - repeat until stack is exhausted
     seen_plus_buttons = set([button for button in plus_buttons])
-    tree = {"name": electives_button.text, "object": electives_button, "children": []}
-    active_nodes = [tree]
+    tree = {"name": electives_button.text,
+            "object": electives_button,
+            "children": [],
+            "level": 0,
+             # progress_ratio: by how much progress goes up once this node is completed
+            "progress_ratio": 1.0
+            }
+    next_nodes = [tree]
 
     MAX_LEVELS = 4
-    num_levels = 0
+
+    # We update the progress bar like this (given we don't know the total beforehand):
+    # - every node has a "progress_ratio" in [0, 1]
+    # - on completing this node, increase progress by a (1-SUBTREE_PROGRESS_RATIO) ratio
+    #   of progress_ratio (or 1*progress_ratio if it is a leaf node)
+    # - equally distribute the remainder of progress ratio to the children
+    progress_bar = tqdm.tqdm(total=1,
+                             bar_format="{desc}: {percentage:3.0f}%|{bar}|" +
+                                        "[{elapsed}<{remaining}]")
+    # estimate of how much of the work goes on in the subtree, vs. clicking the root
+    SUBTREE_PROGRESS_RATIO = 0.98
 
     try:
-        # Perform breadth-first search
-        while len(active_nodes) > 0 and num_levels < MAX_LEVELS:
-            new_active_nodes = []
-            # For nodes on current level, toggle them and collect child nodes
-            for active_node in active_nodes:
+        # Perform depth-first search
+        while len(next_nodes) > 0:
+            # Toggle the current nodes and collect its child nodes
+            active_node = next_nodes.pop() # pop last node (-> DFS)
+            if active_node["level"] < MAX_LEVELS:
                 button = active_node["object"]
                 click_button(driver, button)
                 new_plus_buttons = [button for button in descendant_plus_buttons(driver)
                                     if button not in seen_plus_buttons
-                                    and "Master-Praktikum" not in button.text]
+                                    and "Master-Praktikum" not in button.text
+                                    and "Practical Course" not in button.text]
+                num_children = len(new_plus_buttons)
                 active_node["children"] = [
                     {"name": plus_button.text,
-                     "object": plus_button,
-                     "credits": get_number_of_credits(plus_button),
-                     "children": []}
+                        "object": plus_button,
+                        "credits": get_number_of_credits(plus_button),
+                        "children": [],
+                        "level": active_node["level"] + 1,
+                        "progress_ratio": (
+                            active_node["progress_ratio"]*SUBTREE_PROGRESS_RATIO/num_children)
+                        }
                     for plus_button in new_plus_buttons
                 ]
-                new_active_nodes.extend(active_node["children"])
+                next_nodes.extend(reversed(active_node["children"]))
                 seen_plus_buttons = seen_plus_buttons.union(new_plus_buttons)
+                progress_bar.update(active_node["progress_ratio"]*(1-SUBTREE_PROGRESS_RATIO)
+                                    if num_children > 0
+                                    else active_node["progress_ratio"])
+            else:
+                progress_bar.update(active_node["progress_ratio"])
 
-            # Replace current level with next level
-            active_nodes = new_active_nodes
-            num_levels += 1
     except Exception as e:
         print(e)
     finally:
+        progress_bar.close()
+
         # Print text representation of tree
         print_tree(tree)
 
@@ -137,6 +163,7 @@ def main():
         clean_tree(tree)
         with open(curriculum.tree_file, "wb") as f:
             pickle.dump(tree, f)
+        print(f"""Results written to pickle file '{curriculum.tree_file}'""")
         driver.close()
         return tree
 
