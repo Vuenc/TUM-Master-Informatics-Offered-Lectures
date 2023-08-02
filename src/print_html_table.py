@@ -107,7 +107,7 @@ DISCLAIMER = """
 </p>
 <ul>
   <li>a course is missing the course identifier (INxxxx etc.) from its name</li>
-  <li>a course was still missing from the tree view at the time of creation</li>
+  <li>a new course was not yet present in the tree view at the time this list was created</li>
 </ul>
 </div>
 """
