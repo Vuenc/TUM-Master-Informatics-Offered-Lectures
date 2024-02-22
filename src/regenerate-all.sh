@@ -1,6 +1,6 @@
 # Informatics
-TERMID=199
-TERMNAME=ws23-24
+TERMID=200
+TERMNAME=ss24
 FIRSTTERMID=171 # no data before WS09/10
 
 python fetch_tumonline_tree.py --curriculum master-informatics
