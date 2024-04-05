@@ -87,6 +87,9 @@ STYLE = """
           width: 40%;
       }
     }
+    .tagIcon {
+      cursor: default
+    }
 </style>
 """
 
@@ -115,6 +118,16 @@ GITHUB_LINK = """
     </a>
 </span>
 """
+
+NEW_COURSE_TAG_HTML_FACTORY = lambda _: """<span title="New course: offered for the first time!" class="tagIcon">🌟</span>"""
+
+RARE_COURSE_TAG_HTML_FACTORY = lambda tag_and_last_offered: f"""<span title="Rare course: last offered in {tag_and_last_offered['last_offered']}" class="tagIcon">💎</span>"""
+
+
+TAG_FACTORIES = {
+    "newCourse": NEW_COURSE_TAG_HTML_FACTORY,
+    "rareCourse": RARE_COURSE_TAG_HTML_FACTORY,
+}
 
 def main():
     parser = argparse.ArgumentParser(usage=
@@ -151,11 +164,16 @@ def main():
             tree = pickle.load(f)
         for electives_area_node in tree["children"]:
             file.write(f"<h3>{electives_area_node['name']}</h3>")
-            course_row_dicts = compute_course_row_dicts_recursively(electives_area_node, available_courses_dtos, include_non_offered=include_last_offered)
-            df = pd.DataFrame(data=course_row_dicts, columns=["ID", "Title", "Credits"]  + (["THEO"] if curriculum.use_theory_nodes else [])+ (["Last offered"] if include_last_offered else []))
+            course_row_dicts = compute_course_row_dicts_recursively(electives_area_node, available_courses_dtos, include_non_offered=include_last_offered,
+                                                                    current_term_id=args.termid, current_term_only=not include_last_offered)
+            df = pd.DataFrame(data=course_row_dicts, columns=["ID", "Title", "Credits"]
+                              + (["THEO"] if curriculum.use_theory_nodes else [])+ (["Last offered"] if include_last_offered else []))
             if include_last_offered:
                 df = df.loc[np.argsort(-np.vectorize(lambda x: terms_dict[x])(df["Last offered"].to_numpy())), :]
-            df["Title"] = df["Title"].apply(lambda title_url: f"<a href=\"{ title_url['url'] }\">{ title_url['title'] }</a>" if title_url['url'] is not None else title_url['title'])
+            df["ID"] = df["ID"].apply(lambda course_code_and_tags: course_code_and_tags["course_code"] + "   "
+                                      + " ".join(TAG_FACTORIES[tag["tag"]](tag) for tag in course_code_and_tags["tags"]))
+            df["Title"] = df["Title"].apply(lambda title_and_url:f"<a href=\"{ title_and_url['url'] }\">{ title_and_url['title'] }</a>"
+                                            if title_and_url['url'] is not None else title_and_url['title'])
             table_html = df.to_html(index=False, escape=False)
             table_html = table_html.replace("<th>Title</th>", "<th class='titleheader'>Title</th>")
             file.write(table_html)
@@ -165,35 +183,46 @@ def main():
         file.write("</html>")
     print("Wrote table to file", args.output)
 
-def compute_course_row_dicts_recursively(subtree: Dict, available_courses_dtos: List[Dict], include_non_offered: bool, is_theory_node=False) -> List[Dict]:
+def compute_course_row_dicts_recursively(subtree: Dict, available_courses_dtos: List[Dict], include_non_offered: bool, current_term_id: int,
+                                         current_term_only: bool, is_theory_node=False) -> List[Dict]:
     course_row_dicts = []
     course_code_match = COURSE_CODE_REGEX.match(subtree["name"])
     if course_code_match is not None:
         course_code = course_code_match.groups()[0]
-        available_course_dto = next(iter(sorted([dto for dto in available_courses_dtos if course_code in dto["title"]],
+        matching_dtos = sorted([dto for dto in available_courses_dtos if course_code in dto["title"]],
                 key=lambda dto: (dto["termName"], 1 if dto["courseTypeDto"]["key"] in ["VO", "VI"] else 0),
                 reverse=True)
-            ), None)
-        if available_course_dto is not None or include_non_offered:
-            if available_course_dto is not None:
-                base_title = available_course_dto["title"]
-                register_url = f"{COURSE_DETAILS_BASE_URL}{available_course_dto['id']}"
-                last_offered = available_course_dto["termName"]
+        most_recent_offered_course_dto = next(iter(matching_dtos), None)
+        semesters_offered = set(dto["semesterDto"]["id"] for dto in matching_dtos)
+        if (most_recent_offered_course_dto is not None or include_non_offered) and (current_term_id in semesters_offered or not current_term_only):
+            if most_recent_offered_course_dto is not None:
+                base_title = most_recent_offered_course_dto["title"]
+                register_url = f"{COURSE_DETAILS_BASE_URL}{most_recent_offered_course_dto['id']}"
+                last_offered = most_recent_offered_course_dto["termName"]
             else:
                 base_title = subtree["name"]
                 register_url = None
                 last_offered = "?"
+
+            tags = []
+            if len(semesters_offered) == 1 and current_term_id in semesters_offered:
+                tags.append(dict(tag="newCourse"))
+            if (len(semesters_offered) > 1 and current_term_id in semesters_offered
+                    and (current_term_id-1) not in semesters_offered and (current_term_id-2) not in semesters_offered):
+                tags.append(dict(tag="rareCourse", last_offered=util.term_id_to_name(max(term_id for term_id in semesters_offered if term_id != current_term_id))))
+
             title = regex.sub(f"[\\(\\[]{regex.escape(course_code)}[\\)\\]]", "", base_title).strip()
             course_row_dicts.append({
                 "Title": dict(title=title, url=register_url),
-                "ID": course_code,
+                "ID": dict(course_code=course_code, tags=tags),
                 "Credits": subtree["credits"],
                 "Last offered": last_offered,
                 "THEO": "THEO" if is_theory_node else "",
             })
     else:
         for child in subtree["children"]:
-            course_row_dicts.extend(compute_course_row_dicts_recursively(child, available_courses_dtos, include_non_offered, is_theory_node or subtree["name"] in THEORY_NODE_NAMES))
+            course_row_dicts.extend(compute_course_row_dicts_recursively(child, available_courses_dtos, include_non_offered, current_term_id, current_term_only,
+                                                                         is_theory_node or subtree["name"] in THEORY_NODE_NAMES))
     return course_row_dicts
 
 if __name__ == "__main__":

@@ -33,8 +33,8 @@ def fetch_course_dtos(term_id, only_master_informatics=False) -> List[Dict]:
     print(len(course_dtos), "courses found in total for", util.term_id_to_name(term_id))
     return course_dtos
 
-def fetch_course_dto_batch(skip_filter):
-    skip, filter = skip_filter
+def fetch_course_dto_batch(skip_and_filter):
+    skip, filter = skip_and_filter
     url = "https://campus.tum.de/tumonline/ee/rest/slc.tm.cp/student/courses?%s$orderBy=title=ascnf&$skip=%d&$top=100"
     response = requests.get(url % (filter, skip), headers={"Accept": "application/json"}).json()
     return [resource_json["content"]["cpCourseDto"] for resource_json in response["resource"]]
