@@ -1,14 +1,11 @@
 # TUM Master Informatics, DEA: Offered Lectures
 This document aims to provide a **list of elective lectures** that are being offered this semester for the Informatics and DEA masters at TUM, grouped by area of specialization:
 
-**Preliminary (Summer 2024)**
-Informatics [offered in summer semester 2024](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/informatics-ss24.html)
-
 - **Informatics master**:
-    - List of courses [offered in winter semester 2023/24](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/informatics-ws23-24.html)
+    - List of courses [offered in summer semester 2024](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/informatics-ss24.html)
     - [List of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/informatics-all.html)
 - **DEA master**:
-    - List of courses [offered in winter semester 2023/24](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-ws23-24.html)
+    - List of **elective** courses [offered in summer semester 2024](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-ss24.html)
     - [List of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-all.html)
 
 *This list is not official, might be incomplete or have errors. Use with care!*
