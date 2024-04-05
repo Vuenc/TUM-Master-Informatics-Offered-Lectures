@@ -51,7 +51,7 @@ def get_number_of_credits(button):
 def main():
     parser = argparse.ArgumentParser(usage=
     """
-    fetch_tumonline_tree.py [-h] --curriculum CURRICULUM
+    fetch_curriculum_tree.py [-h] --curriculum CURRICULUM
     Curriculum: valid options are `master-informatics', 'master-dea'
     """)
     parser.add_argument("--curriculum", required=True, default="master-informatics",

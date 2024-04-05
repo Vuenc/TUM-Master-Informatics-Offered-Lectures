@@ -1,6 +1,7 @@
 import argparse
+import json
 from typing import Dict, List
-import fetch_courses
+import fetch_offered_courses
 import pickle
 import pandas as pd
 import regex
@@ -8,17 +9,11 @@ import multiprocessing
 import numpy as np
 from types import SimpleNamespace
 from curriculums import curriculums
+import util
 
 COURSE_CODE_REGEX = regex.compile("\\[([A-Z]+\\d+)\\]")
 
 THEORY_NODE_NAMES = ["Theorie", "Theory"]
-
-# Informatics
-# USE_THEORY, TREE_FILE = True, "tumonline_tree_informatics.obj"
-# # DEA
-# USE_THEORY, TREE_FILE = False, "tumonline_tree_dea.obj"
-
-# INCLUDE_LAST_OFFERED = False
 
 # REGISTRATION_BASE_URL = "https://campus.tum.de/tumonline/ee/rest/pages/slc.tm.cp/course-registration/" 
 COURSE_DETAILS_BASE_URL = "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/"
@@ -121,18 +116,6 @@ GITHUB_LINK = """
 </span>
 """
 
-def fetch_courses_for_term(term_id_name):
-    term_id, term_name = term_id_name
-    term_course_dtos = fetch_courses.fetch_course_dtos(term_id=term_id, only_master_informatics=      False    )
-    for course_dto in term_course_dtos:
-        course_dto["termName"] = term_name
-        course_dto["title"] = next((t["value"] for t in course_dto["courseTitle"]["translations"]["translation"] if t["lang"] == "en" and "value" in t), course_dto["courseTitle"]["value"])
-    return term_course_dtos
-
-def term_id_to_name(term_id):
-    assert(term_id >= 152 and term_id <= 350)
-    return f"{'SS' if term_id % 2 == 0 else 'WS'}{str(23 + int((term_id - 198 - (term_id % 2))/2)).zfill(2)}{'/' + str(23 + int((term_id - 198 + 1)/2)).zfill(2) if term_id % 2 == 1 else ''}"
-
 def main():
     parser = argparse.ArgumentParser(usage=
     """
@@ -147,21 +130,25 @@ def main():
     args = parser.parse_args()
 
     curriculum = curriculums[args.curriculum]
-    terms = [(term_id, term_id_to_name(term_id)) for term_id in range(args.oldtermsfrom if args.oldtermsfrom is not None else args.termid, args.termid+1)]
+    terms = [(term_id, util.term_id_to_name(term_id)) for term_id in range(args.oldtermsfrom if args.oldtermsfrom is not None else args.termid, args.termid+1)]
     terms_dict = {term_name: term_id for term_id, term_name in terms}
     terms_dict["?"] = 0 # sort "unknown" last
     include_last_offered = args.oldtermsfrom is not None
 
-    pool = multiprocessing.Pool(len(terms))
-    available_courses_dtos = sum(pool.map(fetch_courses_for_term, reversed(terms)), [])
+    title = f"{curriculum.heading} - offered in {terms[-1][1]}{(' and since ' + terms[0][1]) if include_last_offered else ''}"
+    print(f"""Creating table "{title}"...""")
+
+    with open("../data/all_offered_courses.json") as f:
+        available_courses_dtos = json.load(f)
 
     with open(args.output, "w") as file:
         file.write("<!DOCTYPE html><html lang='en'><body>")
         file.write("<div class=\"main-container\">")
-        file.write(f"<h1>{curriculum.heading} - offered in {terms[-1][1]}{(' and since ' + terms[0][1]) if include_last_offered else ''}</h1>")
+        file.write(f"<h1>{title}</h1>")
         file.write(DISCLAIMER)
         file.write(GITHUB_LINK)
-        with open(curriculum.tree_file, "rb") as f: tree = pickle.load(f)
+        with open(curriculum.tree_file, "rb") as f:
+            tree = pickle.load(f)
         for electives_area_node in tree["children"]:
             file.write(f"<h3>{electives_area_node['name']}</h3>")
             course_row_dicts = compute_course_row_dicts_recursively(electives_area_node, available_courses_dtos, include_non_offered=include_last_offered)
@@ -176,6 +163,7 @@ def main():
         file.write("</body>")
         file.write(STYLE)
         file.write("</html>")
+    print("Wrote table to file", args.output)
 
 def compute_course_row_dicts_recursively(subtree: Dict, available_courses_dtos: List[Dict], include_non_offered: bool, is_theory_node=False) -> List[Dict]:
     course_row_dicts = []

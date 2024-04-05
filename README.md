@@ -25,7 +25,7 @@ If you find the list is out of date because some information changed in TUM onli
 TUMONLINE_USERNAME="yourusername"
 TUMONLINE_PASSWORD="yourpassword"
 ```
-2. Fetch data from the curriculum tree view by running `python fetch_tumonline_tree.py --curriculum master-informatics` (or `--master-dea`)
+2. Fetch data from the curriculum tree view by running `python fetch_curriculum_tree.py --curriculum master-informatics` (or `--master-dea`)
 3. Regenerate HTML tables - e.g. for Informatics:
     - `python print_html_table.py --termid 198 --curriculum master-informatics --output ../informatics-ss23.html` for current semester table
     - `python print_html_table.py --termid 198 --curriculum master-informatics --oldtermsfrom 188 --output ../informatics-all.html` for last offered table
