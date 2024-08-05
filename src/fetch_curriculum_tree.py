@@ -10,15 +10,7 @@ import argparse
 import tqdm
 
 def click_button(driver, button):
-    # The toggle buttons execute some script on `onclick` to expand the tree.
-    # Therefore we extract this piece of code and execute it directly, to the same
-    # effect as if the button had been clicked (but more reliable).
-    onclick = button.get_attribute("onclick")
-    script = (
-        f"""arguments[0].f = () => {{{onclick.replace('this', 'arguments[0]')}}};
-        arguments[0].f();"""
-    )
-    driver.execute_script(script, button)
+    driver.execute_script("arguments[0].click()", button)
 
 def login_tum_online(driver: webdriver.Firefox, username, password):
     # Login to TUM online with given credentials
