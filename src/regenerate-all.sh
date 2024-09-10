@@ -13,3 +13,9 @@ python print_html_table.py --termid $TERMID --curriculum master-informatics --ol
 python fetch_curriculum_tree.py --curriculum master-dea
 python print_html_table.py --termid $TERMID --curriculum master-dea --output "../dea-$TERMNAME.html"
 python print_html_table.py --termid $TERMID --curriculum master-dea --oldtermsfrom $FIRSTTERMID --output ../dea-all.html
+
+# Informatics, FSPO 2023
+python fetch_curriculum_tree.py --curriculum master-informatics-fspo2023
+python print_html_table.py --termid $TERMID --curriculum master-informatics-fspo2023 --output "../informatics-fspo2023-$TERMNAME.html"
+python print_html_table.py --termid $TERMID --curriculum master-informatics-fspo2023 --oldtermsfrom $FIRSTTERMID --output ../informatics-fspo2023-all.html
+

@@ -134,7 +134,7 @@ def main():
     """
     print_html_table.py [-h] --termid TERMID --curriculum CURRICULUM --output PATH [--oldtermsfrom OLDTERMID]
     Please provide the term id: winter 2022/23 is 197, summer 2023 is 198, winter 2023/24 is 199, etc.
-    Curriculum: valid options are `master-informatics', 'master-dea'
+    Curriculum: valid options are `master-informatics', 'master-dea', 'master-informatics-fspo2023'
     """)
     parser.add_argument('--termid', required=True, type=int, help="The term id (winter 2022/23 is 197, summer 2023 is 198, etc.)")
     parser.add_argument("--curriculum", required=True, type=str, help="One of ['master-informatics', 'master-dea']")
