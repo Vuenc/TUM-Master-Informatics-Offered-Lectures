@@ -44,24 +44,27 @@ sh regenerate-all.sh
 ```
 
 4. (alternatively:) Regenerate individual curriculum tables manually.
-   1. Fetch the offered courses from TUM online (update the --termid argument accordingly).
+
+- Fetch the offered courses from TUM online (update the --termid argument accordingly).
 
 ```sh
 cd src/
 python fetch_offered_courses.py --termid 203 --oldtermsfrom 171
 ```
 
-    2. Fetch the curriculum tree data (update the --curriculum argument accordingly, see `src/curriculums.py` for the supported options.)
+- Fetch the curriculum tree data (update the --curriculum argument accordingly, see `src/curriculums.py` for the supported options.)
 
 ```sh
 python fetch_curriculum_tree.py --curriculum master-informatics
 ```
 
-    3. Generate the HTML file with the table (update the --curriculum, --termid and --output arguments accordingly)
+- Generate the HTML file with the table (update the --curriculum, --termid and --output arguments accordingly)
 
 ```sh
 python print_html_table.py --termid 203 --curriculum master-informatics --output "../informatics-ws24-25.html"
 python print_html_table.py --termid 203 --curriculum master-informatics --oldtermsfrom 171 --output ../informatics-all.html
 ```
 
-If you want a similar list for other study programs, I'm happy to collaborate! Just open an issue and we can have a look. The scripts should be easy to generalize to other study programs.
+
+
+**If you want a similar list for other study programs, I'm happy to collaborate! Just open an issue and we can have a look. The scripts should be easy to generalize to other study programs.**
