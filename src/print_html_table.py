@@ -143,7 +143,7 @@ def main():
     args = parser.parse_args()
 
     curriculum = curriculums[args.curriculum]
-    terms = [(term_id, util.term_id_to_name(term_id)) for term_id in range(args.oldtermsfrom if args.oldtermsfrom is not None else args.termid, args.termid+1)]
+    terms = [(term_id, util.term_id_to_name(term_id)) for term_id in range(args.oldtermsfrom if args.oldtermsfrom is not None else args.termid, args.termid+1) if term_id not in [201, 202]]
     terms_dict = {term_name: term_id for term_id, term_name in terms}
     terms_dict["?"] = 0 # sort "unknown" last
     include_last_offered = args.oldtermsfrom is not None
@@ -208,7 +208,7 @@ def compute_course_row_dicts_recursively(subtree: Dict, available_courses_dtos: 
             if len(semesters_offered) == 1 and current_term_id in semesters_offered:
                 tags.append(dict(tag="newCourse"))
             if (len(semesters_offered) > 1 and current_term_id in semesters_offered
-                    and (current_term_id-1) not in semesters_offered and (current_term_id-2) not in semesters_offered):
+                and ((t:=current_term_id-1)-(2 if t in [201, 202] else 0)) not in semesters_offered and ((t:=current_term_id-2)-(2 if t in [201, 202] else 0)) not in semesters_offered):
                 tags.append(dict(tag="rareCourse", last_offered=util.term_id_to_name(max(term_id for term_id in semesters_offered if term_id != current_term_id))))
 
             title = regex.sub(f"[\\(\\[]{regex.escape(course_code)}[\\)\\]]", "", base_title).strip()

@@ -72,7 +72,7 @@ if __name__ == "__main__":
     parser.add_argument('--oldtermsfrom', required=False, type=int, help="The first included term when fetching courses for a range of terms (in this case, --termid specifies the last one)")
     args = parser.parse_args()
 
-    terms = [(term_id, util.term_id_to_name(term_id)) for term_id in range(args.oldtermsfrom if args.oldtermsfrom is not None else args.termid, args.termid+1)]
+    terms = [(term_id, util.term_id_to_name(term_id)) for term_id in range(args.oldtermsfrom if args.oldtermsfrom is not None else args.termid, args.termid+1) if term_id not in [201, 202]]
 
     print(f"Fetching offered courses from {terms[0][1]} to {terms[-1][1]}")
     # all offered courses are stored from newest to oldest
