@@ -1,0 +1,2017 @@
+{
+"name": "Elective Modules",
+"children": [
+{
+"name": "Data Engineering",
+"credits": "",
+"children": [
+{
+"name": "[IN99540] Accepted Elective Module in Data Engineering",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn1868853"
+},
+{
+"name": "[IN99541] Accepted Elective Module in Data Engineering",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn4109607"
+},
+{
+"name": "[IN99542] Accepted Elective Module in Data Engineering",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn4109615"
+},
+{
+"name": "[IN2073] Cloud Computing",
+"credits": "4",
+"children": [],
+"level": 2,
+"element_id": "kn1545225"
+},
+{
+"name": "[CIT3230002] Cloud Information Systems",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3493605"
+},
+{
+"name": "[IN2386] Cloud-Based Data Processing",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn2690405"
+},
+{
+"name": "[IN2118] Database Systems on Modern CPU Architectures",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn1545222"
+},
+{
+"name": "[IN2259] Distributed Systems",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545212"
+},
+{
+"name": "[IN2031] Application and Implementation of Database Systems",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3060817"
+},
+{
+"name": "[IN2140] Advanced Concepts of Distributed Databases - Programming Database Web Applications",
+"credits": "4",
+"children": [],
+"level": 2,
+"element_id": "kn1545239"
+},
+{
+"name": "[IN2013] High Performance Computing - Programming Models and Scalability",
+"credits": "4",
+"children": [],
+"level": 2,
+"element_id": "kn1545232"
+},
+{
+"name": "[CIT3330002] IT Security 2",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3494011"
+},
+{
+"name": "[IN2147] Parallel Programming",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545235"
+},
+{
+"name": "[IN2219] Query Optimization",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn1545216"
+}
+],
+"level": 1,
+"element_id": "kn1545211"
+},
+{
+"name": "Data Analytics",
+"credits": "",
+"children": [
+{
+"name": "[MA4802] Statistical Learning",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3896929"
+},
+{
+"name": "[IN99645] Accepted Elective Module from Abroad in Data Analysis",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn3253723"
+},
+{
+"name": "[IN99646] Accepted Elective Module from Abroad in Data Analytics",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn4076386"
+},
+{
+"name": "[EI7649] Approximate Dynamic Programming and Reinforcement Learning",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn2802327"
+},
+{
+"name": "[IN2124] Basic Mathematical Methods for Imaging and Visualization",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545638"
+},
+{
+"name": "[IN2023] Image Understanding I: Machine Vision Algorithms",
+"credits": "3",
+"children": [],
+"level": 2,
+"element_id": "kn1545647"
+},
+{
+"name": "[MA4402] Computational Statistics",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3896945"
+},
+{
+"name": "Data Analytics - 1 out of 4",
+"credits": "",
+"children": [
+{
+"name": "[IN2028] Business Analytics and Machine Learning",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn2863357"
+},
+{
+"name": "[IN2339] Data Analysis and Visualization in R",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545608"
+},
+{
+"name": "[IN2030] Data Mining and Knowledge Discovery",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn1545601"
+}
+],
+"level": 2,
+"element_id": "kn1545600"
+},
+{
+"name": "[IN2406] Fundamentals of Artificial Intelligence",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn3112076"
+},
+{
+"name": "[IN2062] Techniques in Artificial Intelligence",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545597"
+},
+{
+"name": "[IN2133] Principles of Computer Vision",
+"credits": "4",
+"children": [],
+"level": 2,
+"element_id": "kn1545635"
+},
+{
+"name": "[IN2369] Machine Vision",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn2910942"
+},
+{
+"name": "[CIT3330000] Introduction to Mobile Robotics",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3316037"
+},
+{
+"name": "[IN2357] Machine Learning for Computer Vision",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3896922"
+},
+{
+"name": "Machine Learning - 1 out of 2",
+"credits": "",
+"children": [
+{
+"name": "[IN2064] Machine Learning",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545613"
+}
+],
+"level": 2,
+"element_id": "kn1545612"
+},
+{
+"name": "Modelling and Simulation",
+"credits": "",
+"children": [
+{
+"name": "[IN2010] Modelling and Simulation",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545623"
+}
+],
+"level": 2,
+"element_id": "kn1545622"
+},
+{
+"name": "[EI70380] Signal Processing and Machine Learning",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3896940"
+},
+{
+"name": "[IN2026] Visual Data Analytics",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545632"
+},
+{
+"name": "[IN2071] Knowledge-based Systems for Industrial Applications",
+"credits": "4",
+"children": [],
+"level": 2,
+"element_id": "kn1545641"
+}
+],
+"level": 1,
+"element_id": "kn1545596"
+},
+{
+"name": "Data Analysis",
+"credits": "",
+"children": [
+{
+"name": "[MA2409] Probability Theory",
+"credits": "9",
+"children": [],
+"level": 2,
+"element_id": "kn1545359"
+},
+{
+"name": "[MA3001] Functional Analysis",
+"credits": "9",
+"children": [],
+"level": 2,
+"element_id": "kn1545363"
+},
+{
+"name": "[MA3403] Generalized Linear Models",
+"credits": "9",
+"children": [],
+"level": 2,
+"element_id": "kn1545379"
+},
+{
+"name": "[MA3503] Nonlinear Optimization",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545355"
+},
+{
+"name": "[MA4801] Mathematical Foundations of Machine Learning",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3896826"
+},
+{
+"name": "[MA4803] Probabilistic Techniques and Algorithms in Data Analysis",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn1617177"
+},
+{
+"name": "[MA5225] Polyhedral Combinatorics",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3896805"
+},
+{
+"name": "[IN99650] Accepted Elective Module from Abroad in Data Analysis",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn1545371"
+},
+{
+"name": "[IN99651] Accepted Elective Module from Abroad in Data Analysis",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn1545373"
+},
+{
+"name": "[CIT5130001] Applied Statistics and Data Analysis (TUM School of Computation, Information and Technology [CIT] and TUM School of Life Sciences [SoLS])",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3536639"
+},
+{
+"name": "[CIT4100003] Approximation Algorithms",
+"credits": "9",
+"children": [],
+"level": 2,
+"element_id": "kn3536646"
+},
+{
+"name": "[IN2410] Causality",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn3896837"
+},
+{
+"name": "[MA4402] Computational Statistics",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3211495"
+},
+{
+"name": "[MA5441] Fundamentals of Mathematical Statistics",
+"credits": "9",
+"children": [],
+"level": 2,
+"element_id": "kn3896819"
+},
+{
+"name": "[MA5439] Graphical Models in Statistics",
+"credits": "9",
+"children": [],
+"level": 2,
+"element_id": "kn2802103"
+},
+{
+"name": "[MA5442] High-dimensional Statistics",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3060063"
+},
+{
+"name": "[MA3505] Integer Optimization",
+"credits": "9",
+"children": [],
+"level": 2,
+"element_id": "kn3054903"
+},
+{
+"name": "[IN2378] Statistical Foundations of Learning",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1770576"
+},
+{
+"name": "[CIT4230004] Statistical Foundations of Learning",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn3499266"
+}
+],
+"level": 1,
+"element_id": "kn1545346"
+},
+{
+"name": "Advanced Topics in Data Engineering",
+"credits": "",
+"children": [
+{
+"name": "[IN2097] Advanced Computer Networking",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545250"
+},
+{
+"name": "[IN99655] Accpted Elective Module from Abroad",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn1545266"
+},
+{
+"name": "[IN99656] Accpted Elective Module from Abroad",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn1545268"
+},
+{
+"name": "[IN2328] Application Project",
+"credits": "10",
+"children": [],
+"level": 2,
+"element_id": "kn1545258"
+},
+{
+"name": "[IN2018] Augmented Reality",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn1545243"
+},
+{
+"name": "[CIT3230001] Code Generation for Data Processing",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3316473"
+},
+{
+"name": "[CIT3230004] Data Processing on Modern Hardware",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3794518"
+},
+{
+"name": "[CIT3230003] Data Structure Engineering",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3472127"
+},
+{
+"name": "[IN2288] Event Processing",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3054898"
+},
+{
+"name": "[IN2158] Advanced Network and Graph Algorithms",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn1545247"
+},
+{
+"name": "[IN2169] Guided Research",
+"credits": "10",
+"children": [],
+"level": 2,
+"element_id": "kn1545253"
+},
+{
+"name": "[IN2190] Programming of Supercomputers",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545261"
+}
+],
+"level": 1,
+"element_id": "kn1545242"
+},
+{
+"name": "Special Topics in Data Analytics",
+"credits": "",
+"children": [
+{
+"name": "[IN99560] Accepted Elective Module in Special Topics in Data Analytics",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn2973502"
+},
+{
+"name": "[IN99561] Accepted Elective Module in Special Topics in Data Analytics",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn3380932"
+},
+{
+"name": "[IN99562] Accepted Elective Module in Special Topics in Data Analytics",
+"credits": "",
+"children": [],
+"level": 2,
+"element_id": "kn3474616"
+},
+{
+"name": "[MA4502] Combinatorial Optimization",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545496"
+},
+{
+"name": "[MA4503] Modern Methods in Nonlinear Optimization",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545480"
+},
+{
+"name": "[MA5348] Numerical Methods for Uncertainty Quantification",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3897448"
+},
+{
+"name": "[MA5417] Large Deviations",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545484"
+},
+{
+"name": "[IN2389] Advanced Deep Learning for Computer Vision: Dynamic Vision",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn2826965"
+},
+{
+"name": "[IN2390] Advanced Deep Learning for Computer Vision: Visual Computing",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn2826972"
+},
+{
+"name": "[IN2298] Advanced Deep Learning for Physics",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn4137430"
+},
+{
+"name": "[CIT4230003] Advanced Machine Learning: Deep Generative Models",
+"credits": "3",
+"children": [],
+"level": 2,
+"element_id": "kn3471628"
+},
+{
+"name": "[CIT4230002] Advanced Natural Language Processing",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3435628"
+},
+{
+"name": "[IN2345] Algorithms for Uncertainty Quantification",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545514"
+},
+{
+"name": "[IN2239] Algorithmic Game Theory",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3897407"
+},
+{
+"name": "[IN2001] Algorithms for Scientific Computing",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn1545500"
+},
+{
+"name": "[IN2002] Algorithms for Scientific Computing II",
+"credits": "4",
+"children": [],
+"level": 2,
+"element_id": "kn1545460"
+},
+{
+"name": "[EI7641] Applied Reinforcement Learning",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn2803199"
+},
+{
+"name": "[IN2408] Artificial Intelligence in Medicine II",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn4137425"
+},
+{
+"name": "[CIT4230006] Causal Inference in Time Series",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3499403"
+},
+{
+"name": "[IN2007] Complexity Theory",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn3897390"
+},
+{
+"name": "[EI7638] Compressive Sampling",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn2802258"
+},
+{
+"name": "[IN2229] Computational Social Choice",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3897400"
+},
+{
+"name": "[IN2246] Computer Vision I: Variational Methods",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn1617131"
+},
+{
+"name": "[IN2228] Computer Vision II: Multiple View Geometry",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn3897395"
+},
+{
+"name": "[IN2375] Computer Vision III: Detection, Segmentation, and Tracking",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3897424"
+},
+{
+"name": "[IN2003] Efficient Algorithms and Data Structures",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn1545503"
+},
+{
+"name": "[MA4064] Fourier Analysis",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545488"
+},
+{
+"name": "[IN2252] High Performance Computing - Algorithms and Applications",
+"credits": "4",
+"children": [],
+"level": 2,
+"element_id": "kn1545463"
+},
+{
+"name": "[IN2360] Advanced Algorithms",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn1617149"
+},
+{
+"name": "[EI7223] Information Retrieval in High Dimensional Data",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn1545517"
+},
+{
+"name": "[IN2346] Introduction to Deep Learning",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn1617141"
+},
+{
+"name": "[MGT001299] Introduction to Deep Reinforcement Learning",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3897770"
+},
+{
+"name": "[CIT4330001] Machine Learning and IT-Security",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3272095"
+},
+{
+"name": "[EI70360] Machine Learning and Optimization",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3897669"
+},
+{
+"name": "[IN2323] Machine Learning for Graphs and Sequential Data",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1799701"
+},
+{
+"name": "[IN2393] Machine Learning for Regulatory Genomics",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3897341"
+},
+{
+"name": "[IN2392] Machine Learning for 3D Geometry",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3897434"
+},
+{
+"name": "[MA4408] Markov Processes",
+"credits": "9",
+"children": [],
+"level": 2,
+"element_id": "kn1545492"
+},
+{
+"name": "[IN2361] Natural Language Processing",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn1617146"
+},
+{
+"name": "[IN2384] Numerical Algorithms in Computer Vision and Machine Learning",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3897429"
+},
+{
+"name": "[IN2398] Numerical Algorithms for High Performance Computing",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn3536653"
+},
+{
+"name": "[IN2304] Online and Approximation Algorithms",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn1545511"
+},
+{
+"name": "[IN2011] Parallel Algorithms",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn1545466"
+},
+{
+"name": "[MA4406] Probability on Graphs",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn1545456"
+},
+{
+"name": "[IN2340] Quantitative Verification",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3897414"
+},
+{
+"name": "[IN2160] Randomized Algorithms",
+"credits": "8",
+"children": [],
+"level": 2,
+"element_id": "kn1545508"
+},
+{
+"name": "[EI71068] Solving Inverse Problems with Deep Learning",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3897765"
+},
+{
+"name": "[IN2349] Advanced Deep Learning for Robotics",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn3897419"
+}
+],
+"level": 1,
+"element_id": "kn1545455"
+},
+{
+"name": "Elective Modules Informatics",
+"credits": "",
+"children": [
+{
+"name": "Algorithms",
+"credits": "",
+"children": [
+{
+"name": "[IN2004] Efficient Algorithms and Data Structures II",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545666"
+},
+{
+"name": "[IN2007] Complexity Theory",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545669"
+},
+{
+"name": "[IN2239] Algorithmic Game Theory",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545691"
+},
+{
+"name": "[IN99549] Accepted Elective Module in Algorithms",
+"credits": "",
+"children": [],
+"level": 3,
+"element_id": "kn3567172"
+},
+{
+"name": "[IN2211] Auction Theory and Market Design",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545695"
+},
+{
+"name": "[IN3410] Selected Topics in Algorithms",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545699"
+},
+{
+"name": "[IN2229] Computational Social Choice",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545687"
+},
+{
+"name": "[IN0024] Operations Research",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545704"
+}
+],
+"level": 2,
+"element_id": "kn1545660"
+},
+{
+"name": "Computer Graphics and Vision",
+"credits": "",
+"children": [
+{
+"name": "[IN995021] Accepted Elective in Computer Graphics and Vision",
+"credits": "",
+"children": [],
+"level": 3,
+"element_id": "kn4110436"
+},
+{
+"name": "[IN3200] Selected Topics in Computer Graphics and Vision",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545740"
+},
+{
+"name": "[IN2238] Analysis of Three-Dimensional Shapes",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545715"
+},
+{
+"name": "[IN2016] Image Understanding II: Robot Vision",
+"credits": "4",
+"children": [],
+"level": 3,
+"element_id": "kn1545751"
+},
+{
+"name": "[IN2228] Computer Vision II: Multiple View Geometry",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545729"
+},
+{
+"name": "[IN2375] Computer Vision III: Detection, Segmentation, and Tracking",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1733993"
+},
+{
+"name": "[IN0037] Game Physics",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545776"
+},
+{
+"name": "[IN2297] Geometry Processing",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545754"
+},
+{
+"name": "[IN2015] Image Synthesis",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545721"
+},
+{
+"name": "[IN2409] Inverse Problems in Medical Imaging",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3145126"
+},
+{
+"name": "[IN2330] Convex Optimization for Computer Vision",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545760"
+},
+{
+"name": "[IN2392] Machine Learning for 3D Geometry",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn2808599"
+},
+{
+"name": "[IN2384] Numerical Algorithms in Computer Vision and Machine Learning",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn2632370"
+},
+{
+"name": "[IN2329] Probabilistic Graphical Models in Computer Vision",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545766"
+},
+{
+"name": "[IN2355] Robotic 3D Vision",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545769"
+},
+{
+"name": "[IN2210] Tracking and Detection in Computer Vision",
+"credits": "7",
+"children": [],
+"level": 3,
+"element_id": "kn1545718"
+},
+{
+"name": "[IN2236] Virtual Physics: Using Modern Modeling Methodologies for Computer Simulation",
+"credits": "4",
+"children": [],
+"level": 3,
+"element_id": "kn1545773"
+},
+{
+"name": "[IN2354] 3D Scanning & Motion Capture",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545735"
+}
+],
+"level": 2,
+"element_id": "kn1545708"
+},
+{
+"name": "Databases and Information Systems",
+"credits": "",
+"children": [
+{
+"name": "[IN2032] Electronic Publishing / Document Engineering and the World-Wide Web",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545810"
+},
+{
+"name": "[IN3100] Selected Topics in Databases and Information Systems",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545822"
+},
+{
+"name": "[IN2267] Transaction Systems",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545819"
+}
+],
+"level": 2,
+"element_id": "kn1545809"
+},
+{
+"name": "Digital Biology and Digital Medicine",
+"credits": "",
+"children": [
+{
+"name": "[IN995041] Elective 1 Digital Biology and Digital Medicine (DBM)",
+"credits": "",
+"children": [],
+"level": 3,
+"element_id": "kn4164233"
+},
+{
+"name": "[IN3420] Selected Topics in Digital Biology and Digital Medicine",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545851"
+},
+{
+"name": "[CIT4230001] Computational Modeling for System Genetics",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn3308445"
+},
+{
+"name": "[IN2319] Computational Physiology for Medical Image Computing",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545854"
+},
+{
+"name": "[IN2286] Image Guided Surgery",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545857"
+},
+{
+"name": "[IN2021] Computer Aided Medical Procedures",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545838"
+},
+{
+"name": "[IN2022] Computer Aided Medical Procedures II",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545835"
+},
+{
+"name": "[IN2292] Introduction to Surgical Robotics",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1616745"
+},
+{
+"name": "[IN2393] Machine Learning for Regulatory Genomics",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn2808309"
+},
+{
+"name": "[IN2293] Medical Augmented Reality",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545841"
+},
+{
+"name": "[IN2322] Protein Prediction I for Computer Scientists",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545844"
+},
+{
+"name": "[IN2291] Protein Prediction II for Computer Scientists",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545848"
+}
+],
+"level": 2,
+"element_id": "kn1545834"
+},
+{
+"name": "Engineering Software-intensive Systems",
+"credits": "",
+"children": [
+{
+"name": "[IN2309] Advanced Topics of Software Engineering",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545868"
+},
+{
+"name": "[IN3430] Selected Topics in Engineering Software-intensive Systems",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545885"
+},
+{
+"name": "[IN2367] Automated Programming",
+"credits": "2",
+"children": [],
+"level": 3,
+"element_id": "kn1631642"
+},
+{
+"name": "[IN2114] Automotive Software - Methods and Technology",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545888"
+},
+{
+"name": "[IN2359] Blockchain-based Systems Engineering",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1616808"
+},
+{
+"name": "[CIT4230005] Engineering Resilient Cognitive Systems",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn3480895"
+},
+{
+"name": "[IN2084] Advanced Topics of Software Testing",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545873"
+},
+{
+"name": "[IN2078] Foundations of Program and System Development",
+"credits": "4",
+"children": [],
+"level": 3,
+"element_id": "kn2674965"
+},
+{
+"name": "[IN2385] Safety and Security for Cyber-Physical Systems",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn2639254"
+},
+{
+"name": "[IN2079] IT-Consulting",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn1545899"
+},
+{
+"name": "[IN2080] Modelling of Distributed Systems",
+"credits": "4",
+"children": [],
+"level": 3,
+"element_id": "kn1545876"
+},
+{
+"name": "[IN2081] Patterns in Software Engineering",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1545879"
+},
+{
+"name": "[IN2083] Project Organisation and Management in Software Engineering",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545902"
+},
+{
+"name": "[IN2394] Requirements Engineering",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn2809405"
+},
+{
+"name": "[IN2087] Software Engineering for Business Applications - Master's Course: Web Application Engineering",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545913"
+},
+{
+"name": "[IN2235] Software Engineering in an Industrial Setting",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn1545895"
+},
+{
+"name": "[CIT4230000] Strategic IT Management",
+"credits": "4",
+"children": [],
+"level": 3,
+"element_id": "kn3260665"
+}
+],
+"level": 2,
+"element_id": "kn1545867"
+},
+{
+"name": "Formal Methods and their Applications",
+"credits": "",
+"children": [
+{
+"name": "[CIT3230000] Advanced Concepts of Programming Languages",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn3341551"
+},
+{
+"name": "[IN3350] Selected Topics in Formal Methods and their Applications",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546039"
+},
+{
+"name": "[IN2041] Automata and Formal Languages",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545995"
+},
+{
+"name": "[IN2042] Automata and Formal Languages II",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546035"
+},
+{
+"name": "[IN2227] Compiler Construction I",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546005"
+},
+{
+"name": "[IN2347] Functional Data Structures",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546016"
+},
+{
+"name": "[IN2296] Games on Graphs",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546044"
+},
+{
+"name": "Lambda-Kalk\u00fcl (1 aus 2)",
+"credits": "",
+"children": [
+{
+"name": "[IN2048] Equational Logic and Lambda Calculus",
+"credits": "8",
+"children": [],
+"level": 4,
+"element_id": "kn1545986"
+},
+{
+"name": "[IN2358] Lambda Calculus",
+"credits": "5",
+"children": [],
+"level": 4,
+"element_id": "kn1545989"
+}
+],
+"level": 3,
+"element_id": "kn1545985"
+},
+{
+"name": "[IN2049] Logic",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1545999"
+},
+{
+"name": "[IN2050] Model Checking",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1546019"
+},
+{
+"name": "[IN2045] Network Analysis - Statistical and Formal Models and Methods",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546002"
+},
+{
+"name": "[IN2052] Petri Nets",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546024"
+},
+{
+"name": "[IN2053] Program Optimization",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1546028"
+},
+{
+"name": "[IN2340] Quantitative Verification",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546013"
+},
+{
+"name": "[IN2055] Semantics",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1546031"
+},
+{
+"name": "[IN2040] Virtual Machines",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1545992"
+}
+],
+"level": 2,
+"element_id": "kn1545984"
+},
+{
+"name": "Machine Learning and Analytics",
+"credits": "",
+"children": [
+{
+"name": "[IN2298] Advanced Deep Learning for Physics",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546057"
+},
+{
+"name": "[IN2403] Artificial Intelligence in Medicine",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn2980296"
+},
+{
+"name": "[IN2408] Artificial Intelligence in Medicine II",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3145148"
+},
+{
+"name": "[IN3440] Selected Topics in Machine Learning and Analytics",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546068"
+},
+{
+"name": "[IN2410] Causality",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn3143816"
+},
+{
+"name": "[IN2357] Machine Learning for Computer Vision",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546071"
+},
+{
+"name": "[IN2349] Advanced Deep Learning for Robotics",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1816398"
+}
+],
+"level": 2,
+"element_id": "kn1546052"
+},
+{
+"name": "Computer Architecture, Computer Networks and Distributed Systems",
+"credits": "",
+"children": [
+{
+"name": "[IN2076] Advanced Computer Architecture",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546094"
+},
+{
+"name": "[IN3450] Selected Topics in Computer Architecture, Computer Networks and Distributed Systems",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546115"
+},
+{
+"name": "[IN2324] Connected Mobility Basics",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1546084"
+},
+{
+"name": "[CIT4330013] Design Automation and Simulation for Microfluidic Devices",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3499777"
+},
+{
+"name": "[EI70630] HW/SW Codesign",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1839966"
+},
+{
+"name": "[IN2075] Microprocessors",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546097"
+},
+{
+"name": "[IN2098] Mobile Distributed Systems",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546087"
+},
+{
+"name": "[IN2315] Network Coding",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546103"
+},
+{
+"name": "[IN2099] Network and System Management",
+"credits": "4",
+"children": [],
+"level": 3,
+"element_id": "kn1546106"
+},
+{
+"name": "[IN2333] Protocol Design",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn1826926"
+},
+{
+"name": "[IN2125] Virtualization Techniques",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546109"
+}
+],
+"level": 2,
+"element_id": "kn1546083"
+},
+{
+"name": "Robotics",
+"credits": "",
+"children": [
+{
+"name": "[IN99565] Accepted Elective in Robotics",
+"credits": "",
+"children": [],
+"level": 3,
+"element_id": "kn4110439"
+},
+{
+"name": "[IN2376] Advanced Robot Control and Learning",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1799960"
+},
+{
+"name": "[IN2352] Applied Biorobotics",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546206"
+},
+{
+"name": "[IN3460] Selected Topics in Robotics",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546210"
+},
+{
+"name": "[IN2356] Autonomous Driving",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn1546194"
+},
+{
+"name": "[IN2318] Autonomous Navigation for Flying Robots",
+"credits": "2",
+"children": [],
+"level": 3,
+"element_id": "kn1546197"
+},
+{
+"name": "[IN2222] Cognitive Systems",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546200"
+},
+{
+"name": "[IN2305] Cyber-Physical Systems",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546216"
+},
+{
+"name": "[IN2060] Real-Time Systems",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546177"
+},
+{
+"name": "[IN2061] Introduction to Digital Signal Processing",
+"credits": "7",
+"children": [],
+"level": 3,
+"element_id": "kn1546184"
+},
+{
+"name": "[IN2383] Formal Methods for Cyber-Physical Systems",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1870826"
+},
+{
+"name": "[MW2411] Concepts and Software Design for Cyber-Physical Systems",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1665216"
+},
+{
+"name": "[IN2405] Neuroprosthetics: Artificial Limbs",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3018481"
+},
+{
+"name": "[IN2308] Robot Programming and Control for Human Interaction",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546219"
+},
+{
+"name": "[IN2138] Robot Motion Planning",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546213"
+},
+{
+"name": "[IN2067] Robotics",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546203"
+},
+{
+"name": "[IN2068] Sensor-based Robotic Manipulation and Locomotion",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn1546181"
+}
+],
+"level": 2,
+"element_id": "kn1546176"
+},
+{
+"name": "Security and Privacy",
+"credits": "",
+"children": [
+{
+"name": "[IN99570] Accepted Elective in Social and Political Aspects of Data Science",
+"credits": "",
+"children": [],
+"level": 3,
+"element_id": "kn3499601"
+},
+{
+"name": "[EI71070] Advanced Cryptographic Implementations",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3898596"
+},
+{
+"name": "[IN3470] Selected Topics in Security and Privacy",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546249"
+},
+{
+"name": "[EI70520] Circuit Design for Security",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3898506"
+},
+{
+"name": "[IN2341] Current Trends in IT Security",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546252"
+},
+{
+"name": "[EI70530] Embedded Systems and Security",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3898562"
+},
+{
+"name": "[IN2407] Hardware Security",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3121259"
+},
+{
+"name": "[EI73451] Information Theoretic Security",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3898613"
+},
+{
+"name": "[CIT4330009] IoT Security",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3898578"
+},
+{
+"name": "[CIT3330003] Cryptography",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3494513"
+},
+{
+"name": "[IN2101] Network Security",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546230"
+},
+{
+"name": "[IN2161] Networks for Monetary Transactions",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn1546240"
+},
+{
+"name": "[IN2194] Peer-to-Peer-Systems and Security",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546233"
+},
+{
+"name": "[EI71029] Physical Unclonable Functions",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3898584"
+},
+{
+"name": "[EI71073] Quantum Computers and Quantum Secure Communications",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3898601"
+},
+{
+"name": "[EI75671] Lecture Series System Security",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn3898591"
+},
+{
+"name": "[IN2313] Secure Coding",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1546255"
+},
+{
+"name": "[IN2178] Security Engineering",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546237"
+},
+{
+"name": "[EI71060] Security in Communications and Storage",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3898572"
+},
+{
+"name": "[EI7243] Secure Implementation of Cryptographic Algorithms",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn3898554"
+},
+{
+"name": "[IN2362] Language-based Security",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546246"
+}
+],
+"level": 2,
+"element_id": "kn1546223"
+},
+{
+"name": "Scientific Computing and High Performance Computing",
+"credits": "",
+"children": [
+{
+"name": "[IN3480] Selected Topics in Scientific Computing and High Performance Computing",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546307"
+},
+{
+"name": "[IN2381] Introduction to Quantum Computing",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1816697"
+},
+{
+"name": "[IN2400] Advanced Concepts of Quantum Computing",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn2994024"
+},
+{
+"name": "[IN2398] Numerical Algorithms for High Performance Computing",
+"credits": "8",
+"children": [],
+"level": 3,
+"element_id": "kn2917238"
+},
+{
+"name": "[IN2012] Parallel Numerics",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546284"
+},
+{
+"name": "[IN2310] Parallel Program Engineering",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546297"
+},
+{
+"name": "[IN2365] Parallel Programming Systems",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn1548674"
+},
+{
+"name": "[IN2306] Scientific Computing in Circuit Simulation",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546310"
+},
+{
+"name": "[CIT4330012] Software for Quantum Computing",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn3479493"
+},
+{
+"name": "[IN2388] Tensor Networks",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn2809923"
+},
+{
+"name": "[IN2387] Time Integration and Differential Equations",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn2812896"
+},
+{
+"name": "[IN2311] Turbulent Flow Simulation on HPC-Systems",
+"credits": "5",
+"children": [],
+"level": 3,
+"element_id": "kn1546303"
+}
+],
+"level": 2,
+"element_id": "kn1546267"
+},
+{
+"name": "Human Centered Engineering",
+"credits": "",
+"children": [
+{
+"name": "[IN2093] eLearning - Techniques and Infrastructures",
+"credits": "3",
+"children": [],
+"level": 3,
+"element_id": "kn1570780"
+},
+{
+"name": "[IN2111] 3D User Interfaces",
+"credits": "6",
+"children": [],
+"level": 3,
+"element_id": "kn1570783"
+}
+],
+"level": 2,
+"element_id": "kn1570776"
+}
+],
+"level": 1,
+"element_id": "kn1545654"
+},
+{
+"name": "Further Elective Modules",
+"credits": "",
+"children": [
+{
+"name": "[IN2377] Concepts of C++ Programming",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn3211490"
+},
+{
+"name": "[IN2348] Lecture Series: What is digitalization?",
+"credits": "2",
+"children": [],
+"level": 2,
+"element_id": "kn1546320"
+}
+],
+"level": 1,
+"element_id": "kn1546313"
+}
+],
+"level": 0
+}
