@@ -2,7 +2,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service
-import pickle
+import json
 from dotenv import load_dotenv
 import os
 from curriculums import curriculums
@@ -158,14 +158,16 @@ def main():
 
         # Save tree as pickle file after cleaning it (i.e. remove selenium objects)
         def clean_tree(tree):
-            tree["object"] = None
+            del tree["object"]
+            del tree["progress_ratio"]
             tree["name"] = str(tree["name"])
             for child in tree["children"]:
                 clean_tree(child)
         clean_tree(tree)
-        with open(curriculum.tree_file, "wb") as f:
-            pickle.dump(tree, f)
-        print(f"""Results written to pickle file '{curriculum.tree_file}'""")
+        with open(curriculum.tree_file, "w") as f:
+            # save with indent=0 (will insert newlines, more diff-friendly)
+            json.dump(tree, f, indent=0)
+        print(f"""Results written to json file '{curriculum.tree_file}'""")
         if not crawl_successful:
             print("Warning! There was an error, tree crawl incomplete (see above)")
         driver.close()

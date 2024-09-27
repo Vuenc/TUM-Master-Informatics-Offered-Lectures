@@ -168,8 +168,8 @@ def main():
         file.write(f"<h1>{title}</h1>")
         file.write(HEADER)
         file.write(GITHUB_LINK_AND_KOFI_BUTTON)
-        with open(curriculum.tree_file, "rb") as f:
-            tree = pickle.load(f)
+        with open(curriculum.tree_file, "r") as f:
+            tree = json.load(f)
         for electives_area_node in tree["children"]:
             file.write(f"<h3>{electives_area_node['name']}</h3>")
             course_row_dicts = compute_course_row_dicts_recursively(electives_area_node, available_courses_dtos, include_non_offered=include_last_offered,
