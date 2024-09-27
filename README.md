@@ -15,6 +15,8 @@ I created the list by scraping data from the TUM online curriculum tree view (al
 
 <a href='https://ko-fi.com/K3K6135GAH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+**If you want a similar list for other study programs, I'm happy to collaborate! Just open an issue and we can have a look. The scripts should be easy to generalize to other study programs.**
+
 # Contributing
 
 If you find a mistake, like a lecture missing, you can create an issue.
@@ -64,7 +66,3 @@ python fetch_curriculum_tree.py --curriculum master-informatics
 python print_html_table.py --termid 203 --curriculum master-informatics --output "../informatics-ws24-25.html"
 python print_html_table.py --termid 203 --curriculum master-informatics --oldtermsfrom 171 --output ../informatics-all.html
 ```
-
-
-
-**If you want a similar list for other study programs, I'm happy to collaborate! Just open an issue and we can have a look. The scripts should be easy to generalize to other study programs.**
