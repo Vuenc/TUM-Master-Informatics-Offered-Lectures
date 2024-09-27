@@ -120,6 +120,8 @@ if __name__ == "__main__":
     available_courses_dtos = list(map(lambda d: clean_dto(d, field_selector), available_courses_dtos))
 
     with open(args.jsonpath, "w") as f:
-        json.dump(existing_data + available_courses_dtos, f)
+        # Sort data, and save it with indent=0 which will add newlines (more diff-friendly)
+        saved_data = sorted(existing_data + available_courses_dtos, key=lambda dto: (dto["semesterDto"]["id"], "id"))
+        json.dump(saved_data, f, indent=0)
 
     print(f"Results written to JSON file '{args.jsonpath}'")
