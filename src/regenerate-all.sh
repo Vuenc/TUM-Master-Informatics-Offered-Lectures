@@ -1,5 +1,5 @@
-TERMID=203
-TERMNAME=ws24-25
+TERMID=204
+TERMNAME=ss25
 FIRSTTERMID=171 # no data before WS09/10
 
 python fetch_offered_courses.py --termid $TERMID --oldtermsfrom $FIRSTTERMID

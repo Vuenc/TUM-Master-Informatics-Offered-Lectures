@@ -872,6 +872,13 @@
 "credits": "",
 "children": [
 {
+"name": "[IN99540] Accepted Elective Module in Algorithms",
+"credits": "",
+"children": [],
+"level": 3,
+"element_id": "kn3567172"
+},
+{
 "name": "[IN2004] Efficient Algorithms and Data Structures II",
 "credits": "8",
 "children": [],
@@ -891,13 +898,6 @@
 "children": [],
 "level": 3,
 "element_id": "kn1545691"
-},
-{
-"name": "[IN99549] Accepted Elective Module in Algorithms",
-"credits": "",
-"children": [],
-"level": 3,
-"element_id": "kn3567172"
 },
 {
 "name": "[IN2211] Auction Theory and Market Design",
@@ -936,7 +936,7 @@
 "credits": "",
 "children": [
 {
-"name": "[IN995021] Accepted Elective in Computer Graphics and Vision",
+"name": "[IN99505] Accepted Elective in Computer Graphics and Vision",
 "credits": "",
 "children": [],
 "level": 3,
@@ -1099,7 +1099,7 @@
 "credits": "",
 "children": [
 {
-"name": "[IN995041] Elective 1 Digital Biology and Digital Medicine (DBM)",
+"name": "[IN99550] Elective 1 Digital Biology and Digital Medicine (DBM)",
 "credits": "",
 "children": [],
 "level": 3,
@@ -1190,6 +1190,13 @@
 "name": "Engineering Software-intensive Systems",
 "credits": "",
 "children": [
+{
+"name": "[IN99530] Accepted Elective Module in Engineering Software-intensive Systems",
+"credits": "",
+"children": [],
+"level": 3,
+"element_id": "kn4395183"
+},
 {
 "name": "[IN2309] Advanced Topics of Software Engineering",
 "credits": "8",
@@ -1686,7 +1693,7 @@
 "element_id": "kn3018481"
 },
 {
-"name": "[IN2308] Robot Programming and Control for Human Interaction",
+"name": "[IN2308] Programming and Control for Human-Robot Interaction",
 "credits": "5",
 "children": [],
 "level": 3,

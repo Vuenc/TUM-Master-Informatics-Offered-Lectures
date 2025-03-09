@@ -621,6 +621,13 @@
 "element_id": "kn1529191"
 },
 {
+"name": "[CIT423002] AI Testing",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn4279961"
+},
+{
 "name": "[IN3430] Selected Topics in Engineering Software-intensive Systems",
 "credits": "5",
 "children": [],
@@ -647,6 +654,13 @@
 "children": [],
 "level": 2,
 "element_id": "kn1616768"
+},
+{
+"name": "[CIT423001] DevOps: Engineering for Deployment and Operations",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn4388328"
 },
 {
 "name": "[CIT4230005] Engineering Resilient Cognitive Systems",
@@ -961,7 +975,7 @@
 "element_id": "kn1529278"
 },
 {
-"name": "[CIT433027] Advanced Deep Learning in Robotics",
+"name": "[CIT433027] Advanced Deep Learning for Robotics",
 "credits": "8",
 "children": [],
 "level": 2,
@@ -1094,6 +1108,13 @@
 ],
 "level": 2,
 "element_id": "kn1529298"
+},
+{
+"name": "[CIT423003] Multimodal Deep Learning",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn4416056"
 },
 {
 "name": "[IN2361] Natural Language Processing",
@@ -1373,6 +1394,13 @@
 "element_id": "kn1799927"
 },
 {
+"name": "[CIT433037] Advanced Robot Learning and Decision-Making",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn4418795"
+},
+{
 "name": "[IN2352] Applied Biorobotics",
 "credits": "6",
 "children": [],
@@ -1450,6 +1478,13 @@
 "element_id": "kn3111953"
 },
 {
+"name": "[CIT433039] Intelligent Robots with a Sense of Smell",
+"credits": "7",
+"children": [],
+"level": 2,
+"element_id": "kn4398198"
+},
+{
 "name": "[CIT3330000] Introduction to Mobile Robotics",
 "credits": "6",
 "children": [],
@@ -1471,7 +1506,7 @@
 "element_id": "kn3018448"
 },
 {
-"name": "[IN2308] Robot Programming and Control for Human Interaction",
+"name": "[IN2308] Programming and Control for Human-Robot Interaction",
 "credits": "5",
 "children": [],
 "level": 2,
@@ -1578,6 +1613,13 @@
 "element_id": "kn3896081"
 },
 {
+"name": "[CIT333000] Applied Cryptography for Decentralized Systems (ACDS)",
+"credits": "5",
+"children": [],
+"level": 2,
+"element_id": "kn4346619"
+},
+{
 "name": "[IN3470] Selected Topics in Security and Privacy",
 "credits": "5",
 "children": [],
@@ -1611,6 +1653,13 @@
 "children": [],
 "level": 2,
 "element_id": "kn3895852"
+},
+{
+"name": "[CIT433040] Embedded Systems and Security",
+"credits": "6",
+"children": [],
+"level": 2,
+"element_id": "kn4407266"
 },
 {
 "name": "[IN2407] Hardware Security",
