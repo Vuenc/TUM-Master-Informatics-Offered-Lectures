@@ -198,7 +198,7 @@ def compute_course_row_dicts_recursively(subtree: Dict, available_courses_dtos: 
     if course_code_match is not None:
         course_code = course_code_match.groups()[0]
         matching_dtos = sorted([dto for dto in available_courses_dtos if course_code in dto["title"]],
-                key=lambda dto: (dto["termName"], 1 if dto["courseTypeDto"]["key"] in ["VO", "VI"] else 0),
+                key=lambda dto: (int(dto["semesterDto"]["id"]), 1 if dto["courseTypeDto"]["key"] in ["VO", "VI"] else 0),
                 reverse=True)
         most_recent_offered_course_dto = next(iter(matching_dtos), None)
         semesters_offered = set(dto["semesterDto"]["id"] for dto in matching_dtos)
