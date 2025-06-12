@@ -10,6 +10,7 @@ import numpy as np
 from types import SimpleNamespace
 from curriculums import curriculums
 import util
+import re
 
 COURSE_CODE_REGEX = regex.compile("\\[([A-Z]+\\d+)\\]")
 
@@ -197,7 +198,8 @@ def compute_course_row_dicts_recursively(subtree: Dict, available_courses_dtos: 
     course_code_match = COURSE_CODE_REGEX.match(subtree["name"])
     if course_code_match is not None:
         course_code = course_code_match.groups()[0]
-        matching_dtos = sorted([dto for dto in available_courses_dtos if course_code in dto["title"]],
+        course_code_contained_regex = re.compile(rf"\b{course_code}\b")
+        matching_dtos = sorted([dto for dto in available_courses_dtos if course_code_contained_regex.search(dto["title"]) is not None],
                 key=lambda dto: (int(dto["semesterDto"]["id"]), 1 if dto["courseTypeDto"]["key"] in ["VO", "VI"] else 0),
                 reverse=True)
         most_recent_offered_course_dto = next(iter(matching_dtos), None)
