@@ -1,28 +1,34 @@
-from types import SimpleNamespace
+from dataclasses import dataclass
+from typing import Dict
 
-curriculums = {
-    "master-informatics": SimpleNamespace(
+@dataclass
+class Curriculum:
+    use_theory_nodes: bool
+    heading: str
+    curriculum_id: int
+    tree_url: str
+    tree_file_path: str
+
+curriculums: Dict[str, Curriculum] = {
+    "master-informatics": Curriculum(
         use_theory_nodes=True,
-        tree_file="../data/curriculum_tree_informatics.json",
         heading="Elective Modules in Master Informatics",
-        tree_url="https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr=4731",
-    ),
-    "master-informatics-fspo2023": SimpleNamespace(
-        use_theory_nodes=True,
-        tree_file="../data/curriculum_tree_informatics_fspo2023.json",
-        heading="Elective Modules in Master Informatics (FSPO 2023)",
+        curriculum_id=5217,
         tree_url="https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr=5217",
+        tree_file_path="../data/curriculum_tree_informatics.json",
     ),
-    "master-dea": SimpleNamespace(
+    "master-dea": Curriculum(
         use_theory_nodes=False,
-        tree_file="../data/curriculum_tree_dea.json",
         heading="Elective Modules in Master Data Engineering and Analytics",
+        curriculum_id=4733,
         tree_url="https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStStudiumNr=&pSJNr=1615&pStpStpNr=4733&pStartSemester=",
+        tree_file_path="../data/curriculum_tree_dea.json",
     ),
-    "master-mathematics": SimpleNamespace(
+    "master-mathematics": Curriculum(
         use_theory_nodes=False,
-        tree_file="../data/curriculum_tree_math.json",
         heading="Elective Modules in Master Mathematics",
+        curriculum_id=4852,
         tree_url="https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr=4852&pSjNr=1617",
+        tree_file_path="../data/curriculum_tree_mathematics.json",
     )
 }
