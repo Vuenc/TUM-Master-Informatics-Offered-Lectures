@@ -31,16 +31,18 @@ def login_tum_online(driver: webdriver.Firefox, username, password):
     driver.find_element(value=password_field_id).send_keys(password)
     driver.find_element(value=login_button_id).click
 
-def descendant_plus_buttons(element, parent_id: str|None=None):
-    # Plus buttons are distinguished by their element id containing "toggle"
-    base_selector = "a[contains(@class,'KnotenLink')][not(contains(@style,'tee_minus'))]"
-    if parent_id is not None:
-        return element.find_elements(
-            By.XPATH,
-            f"//tr[@id='{parent_id}']/following-sibling::*//{base_selector}"
-        )
-    else:
-        return element.find_elements(By.XPATH, f"//{base_selector}")
+def get_offer_node_plus_buttons(driver):
+    # Find table rows that contain an offer node, and select their descendant plus buttons
+    offer_node_selector = "span[contains(@title, 'Offer node')]"
+    plus_button_selector = "a[contains(@class, 'KnotenLink')][not(contains(@style, 'tee_minus'))]"
+    return driver.find_elements(By.XPATH, f"//tr[.//{offer_node_selector}]//{plus_button_selector}")
+
+def get_previous_year_buttons_for_courses_without_entries(driver):
+    # Find course tables with no entries, and locate their "previous year" buttons
+    no_entries_table_selector = "td[contains(text(), 'No entries')]"
+    previous_year_button_selector = "a[contains(@title, 'Show previous academic year with entries')]"
+    return driver.find_elements(By.XPATH, f"//tr[.//{no_entries_table_selector}]//{previous_year_button_selector}")
+
 
 def print_tree(tree, prefix="|--"):
     print(prefix[:-1], tree["name"])
@@ -59,8 +61,7 @@ def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[Course
     entry on the page (since that might carry over to the next page), and the module name of the last entry (same here).
     """
     # Select both the rows belonging to credits (i.e. module nodes) as well as hrefs pointing to course links via the same XPath.
-    # credits_selector = "//table[@id = 'tgt']/tbody/tr[contains(@class, 'coRow')]/td[4][normalize-space() != '']//span"
-    module_selector = "//table[@id = 'tgt']/tbody/tr[contains(@class, 'coRow')][normalize-space(td[4]//span) != ''][td[1]//span//span]"
+    module_selector = "//tr[td[1]//span//span[contains(@title, 'Module node')]]"
     course_link_selector = "//a[contains(@href, 'pages/slc.tm.cp/course/')"
     module_or_course_link_selector = f"{module_selector} | {course_link_selector}]"
 
@@ -73,7 +74,8 @@ def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[Course
     for element in driver.find_elements(By.XPATH, module_or_course_link_selector):
         if element.tag_name == "tr":
             current_module_name = element.find_element(By.XPATH, "td[1]//span//span").text
-            current_credits = int(element.find_element(By.XPATH, "td[4]//span").text)
+            credits_elements = element.find_elements(By.XPATH, "td[4]//span")
+            current_credits = int(credits_elements[0].text) if len(credits_elements) > 0 and credits_elements[0].text.isdecimal() else None
             current_course = None
         else:
             course_link = element.get_attribute("href")
@@ -128,11 +130,7 @@ def fetch_curriculum_course_infos(driver: webdriver.Firefox, curriculum: Curricu
           all course links; associate course links to modules based on order of appearance
         - go to the next page
     """
-    # TODO Identify course tables with no entries, and click "back" until you find an entry
     # TODO Parallelize: multiple drivers; e.g. share session by: for cookie in r1.get_cookies(): driver2.add_cookie(cookie)
-    # TODO ignore exam nodes, only use course nodes (speedup!)
-    # TODO also find module nodes with no credits section: otherwise, URLs might be wrongly associated with the module node before (e.g. Anerkennung Robotik -> Virtualization Techniques)
-    # TODO more reliably find *module* names (which are more likely to contain course codes). Example: [EI71070] Advanced Cryptographic Implementations (module node); Advanced Cryptographic Implementations (exam node, but also has credits and hence used).
 
     driver.set_script_timeout(20)
     driver.implicitly_wait(5)
@@ -157,12 +155,23 @@ def fetch_curriculum_course_infos(driver: webdriver.Firefox, curriculum: Curricu
     last_module_name_on_previous_page = None
     all_curriculum_course_infos = []
 
-    for page in tqdm.tqdm(range(num_pages)):
-        plus_buttons = descendant_plus_buttons(driver)
-        for button in tqdm.tqdm(plus_buttons, leave=False):
+    for page in tqdm.tqdm(range(num_pages), desc="Pages"):
+        # Expand all offer nodes (click the plus buttons)
+        plus_buttons = get_offer_node_plus_buttons(driver)
+        for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding course nodes"):
             click_button(driver, button)
 
         wait_until_not_loading(driver)
+
+        # Go to previous years for course offer tables with no entries (max. 20 times)
+        for _ in range(20):
+            previous_year_buttons = get_previous_year_buttons_for_courses_without_entries(driver)
+            if len(previous_year_buttons) == 0:
+                break
+            for button in tqdm.tqdm(previous_year_buttons, leave=False):
+                click_button(driver, button)
+            wait_until_not_loading(driver)
+
 
         curriculum_course_infos, last_credits_on_page, last_module_name_on_page = extract_courses_with_credits(driver)
         # print(curriculum_course_infos)
@@ -193,113 +202,9 @@ def fetch_curriculum_course_infos(driver: webdriver.Firefox, curriculum: Curricu
         # save with indent=0 (will insert newlines, more diff-friendly)
         json.dump([asdict(course_info) for course_info in all_curriculum_course_infos], f, indent=0)
         print(f"""Results written to json file '{curriculum.tree_file_path}'""")
-    
-    driver.close()
+
     return all_curriculum_course_infos
 
-    # # Find the "Elective Modules" subtree (ignore other top-level subtrees)
-    # plus_buttons = descendant_plus_buttons(driver)
-    # (electives_button, ) = [button for button in plus_buttons
-    #                         if ("Elective Modules" in button.text
-    #                              or "Wahlmodulkatalog" in button.text
-    #                              or "Wahlmodule" in button.text)
-    #                              and "Überfachliche" not in button.text]
-    
-    # # Since we don't have a lot of control or implicit information about the HTML
-    # # representation of the tree (it's flat in the HTML, not nested in tree form),
-    # # we need some tricks.
-    # # We perform a depth-first search as follows:
-    # # - pop current node from stack and click its "toggle" button. Then find all
-    # #   buttons and identify the newly added ones (for this purpose, keep track of all
-    # #   previously seen buttons).
-    # #   - this way, we build up a tree (parent/child relationships between buttons)
-    # #   - add children to search stack
-    # # - repeat until stack is exhausted
-    # seen_plus_buttons = set([button for button in plus_buttons])
-    # tree = {"name": electives_button.text,
-    #         "object": electives_button,
-    #         "children": [],
-    #         "level": 0,
-    #          # progress_ratio: by how much progress goes up once this node is completed
-    #         "progress_ratio": 1.0
-    #         }
-    # next_nodes = [tree]
-
-    # MAX_LEVELS = 4
-
-    # # We update the progress bar like this (given we don't know the total beforehand):
-    # # - every node has a "progress_ratio" in [0, 1]
-    # # - on completing this node, increase progress by a (1-SUBTREE_PROGRESS_RATIO) ratio
-    # #   of progress_ratio (or 1*progress_ratio if it is a leaf node)
-    # # - equally distribute the remainder of progress ratio to the children
-    # progress_bar = tqdm.tqdm(total=1,
-    #                          bar_format="{desc}: {percentage:3.0f}%|{bar}|" +
-    #                                     "[{elapsed}<{remaining}]")
-    # # estimate of how much of the work goes on in the subtree, vs. clicking the root
-    # SUBTREE_PROGRESS_RATIO = 0.98
-
-    # crawl_successful = False
-
-    # try:
-    #     # Perform depth-first search
-    #     while len(next_nodes) > 0:
-    #         # Toggle the current nodes and collect its child nodes
-    #         active_node = next_nodes.pop() # pop last node (-> DFS)
-    #         if active_node["level"] < MAX_LEVELS:
-    #             button = active_node["object"]
-    #             click_button(driver, button)
-    #             new_plus_buttons = [button for button 
-    #                                 in descendant_plus_buttons(driver,
-    #                                                            active_node.get("element_id"))
-    #                                 if button not in seen_plus_buttons
-    #                                 and "Master-Praktikum" not in button.text
-    #                                 and "Practical Course" not in button.text]
-    #             num_children = len(new_plus_buttons)
-    #             active_node["children"] = [
-    #                 {"name": plus_button.text,
-    #                     "object": plus_button,
-    #                     "credits": get_number_of_credits(plus_button),
-    #                     "children": [],
-    #                     "level": active_node["level"] + 1,
-    #                     "progress_ratio": (
-    #                         active_node["progress_ratio"]*SUBTREE_PROGRESS_RATIO/num_children),
-    #                     "element_id": str(plus_button.get_attribute("id")
-    #                                       ).removesuffix("-toggle")
-    #                 }
-    #                 for plus_button in new_plus_buttons
-    #             ]
-    #             next_nodes.extend(reversed(active_node["children"]))
-    #             seen_plus_buttons = seen_plus_buttons.union(new_plus_buttons)
-    #             progress_bar.update(active_node["progress_ratio"]*(1-SUBTREE_PROGRESS_RATIO)
-    #                                 if num_children > 0
-    #                                 else active_node["progress_ratio"])
-    #         else:
-    #             progress_bar.update(active_node["progress_ratio"])
-    #     crawl_successful = True
-    # except Exception as e:
-    #     print(e)
-    # finally:
-    #     progress_bar.close()
-
-    #     # Print text representation of tree
-    #     print_tree(tree)
-
-    #     # Save tree as pickle file after cleaning it (i.e. remove selenium objects)
-    #     def clean_tree(tree):
-    #         del tree["object"]
-    #         del tree["progress_ratio"]
-    #         tree["name"] = str(tree["name"])
-    #         for child in tree["children"]:
-    #             clean_tree(child)
-    #     clean_tree(tree)
-    #     with open(curriculum.tree_file_path, "w") as f:
-    #         # save with indent=0 (will insert newlines, more diff-friendly)
-    #         json.dump(tree, f, indent=0)
-    #     print(f"""Results written to json file '{curriculum.tree_file_path}'""")
-    #     if not crawl_successful:
-    #         print("Warning! There was an error, tree crawl incomplete (see above)")
-    #     driver.close()
-    #     return tree
 
 if __name__ == "__main__":
     main()
