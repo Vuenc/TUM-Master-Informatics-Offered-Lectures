@@ -1,3 +1,5 @@
+
+from __future__ import annotations
 import argparse
 from collections import defaultdict
 from dataclasses import dataclass
@@ -61,6 +63,7 @@ STYLE = """
         display: inline-grid;
         justify-items: center;
         font-size: 1rem;
+        margin-bottom: 3.4rem;
     }
     tbody tr:nth-child(odd) {
       background-color: #f6f6f6;
@@ -139,24 +142,16 @@ TAG_FACTORIES = {
     "rareCourse": RARE_COURSE_TAG_HTML_FACTORY,
 }
 
-TABLE_TITLE_HEADER = (
-"""<thead>
-<tr style="text-align: right;">
-    <th>ID</th>
-    <th class="titleheader">Title</th>
-    <th>Credits</th>
-    <th>THEO</th>
-</tr>
-</thead>"""
-)
-
 @dataclass
 class Course:
     title: str
     url: str
     id: str
+    term_id: int
+    term_name: str
     credits: str
     is_theory_course: bool
+    equivalent_courses: List[Course]
 
 def main():
     parser = argparse.ArgumentParser(usage=
@@ -173,20 +168,32 @@ def main():
 
     curriculum = curriculums[args.curriculum]
 
-    with open("../data/all_offered_courses.json") as f:
-        available_courses_dtos = json.load(f)
+    with open(curriculum.all_offered_courses_path) as f:
+        available_data = json.load(f)
+        available_courses_dtos = available_data["courses"]
+        curriculum_paths_by_oldest_related_course_id = available_data["curriculumPathsByOldestRelatedCourseId"]
     with open(curriculum.tree_file_path) as f:
         curriculum_course_infos = json.load(f)
     curriculum_courses_by_url = {url[url.rfind("/"):]: course_info for course_info in curriculum_course_infos for url in course_info["urls"]}
     course_code_regex = re.compile(r"\[([a-zA-Z]+[0-9]+)\]")
 
-    # TODO change for integration of "all" table
-    available_courses_dtos = [course_dto for course_dto in available_courses_dtos if str(course_dto["semesterDto"]["id"]) == str(args.termid)]
+    available_courses_dtos = sorted(available_courses_dtos, key=lambda course_dto: int(course_dto["semesterDto"]["id"]), reverse=True)
     courses_by_area = defaultdict(lambda: [])
+    equivalent_courses_by_oldest_related_course_id = {}
     for course_dto in available_courses_dtos:
         # TODO support multiple paths
         # TODO support non-Informatics curriculums via custom code injection for this small part of the code
-        path = course_dto["curriculumPaths"][0]
+        is_in_term_range = int(course_dto["semesterDto"]["id"]) >= (args.oldtermsfrom or args.termid)
+        paths = curriculum_paths_by_oldest_related_course_id[str(course_dto["oldestRelatedCourseId"])]
+        if len(paths) == 0:
+            # Course not in curriculum (happens rarely; why does the search filter not catch it?)
+            continue
+        path = paths[0]
+        if len(paths) > 1 and is_in_term_range and int(course_dto["oldestRelatedCourseId"]) not in equivalent_courses_by_oldest_related_course_id:
+            print(f"Warning: Course '{course_dto["title"]}' ({util.term_id_to_name(course_dto["semesterDto"]["id"])}) has multiple curriculum paths:")
+            for path in paths:
+                print(f"  - {" > ".join(path)}")
+            print()
         if path[1] != "Elective Modules Informatics":
             continue
         area = path[2]
@@ -194,13 +201,25 @@ def main():
         url = f"{COURSE_DETAILS_BASE_URL}{course_dto["id"]}"
         curriculum_course_info = curriculum_courses_by_url.get(url[url.rfind("/"):])
         course_id_match = course_code_regex.match(curriculum_course_info["module_name"]) if curriculum_course_info is not None else None
-        courses_by_area[area].append(Course(
+        course = Course(
             title=course_dto["title"],
             url=url,
             id=course_id_match.groups()[0] if course_id_match is not None else "?",
             credits=str(curriculum_course_info["num_credits"]) if curriculum_course_info is not None else "?",
-            is_theory_course=is_theory_course
-        ))
+            term_id = course_dto["semesterDto"]["id"],
+            term_name=util.term_id_to_name(course_dto["semesterDto"]["id"]),
+            is_theory_course=is_theory_course,
+            equivalent_courses=[] # will be set later
+        )
+        equivalent_courses = equivalent_courses_by_oldest_related_course_id.get(int(course_dto["oldestRelatedCourseId"]), None)
+        if equivalent_courses is None:
+            equivalent_courses = [course]
+            equivalent_courses_by_oldest_related_course_id[int(course_dto["oldestRelatedCourseId"])] = equivalent_courses
+            if is_in_term_range:
+                courses_by_area[area].append(course)
+        else:
+            equivalent_courses.append(course)
+        course.equivalent_courses = equivalent_courses
 
     terms = [(term_id, util.term_id_to_name(term_id)) for term_id in range(args.oldtermsfrom if args.oldtermsfrom is not None else args.termid, args.termid+1) if term_id not in [201, 202]]
     terms_dict = {term_name: term_id for term_id, term_name in terms}
@@ -219,15 +238,34 @@ def main():
         for area, courses_in_area in sorted(courses_by_area.items()):
             file.write(f"<h3>{area}</h3>\n")
             file.write("<table>\n")
-            file.write(TABLE_TITLE_HEADER)
+            file.write(
+f"""<thead>
+<tr style="text-align: right;">
+    <th>ID</th>
+    <th class="titleheader">Title</th>
+    <th>Credits</th>
+    <th>THEO</th>
+    {'<th>Last offered</th>' if include_last_offered else ''}
+</tr>
+</thead>""")
             file.write("<tbody>\n")
-            for course in sorted(courses_in_area, key=lambda course: course.title):
+            for course in sorted(courses_in_area, key=lambda course: (-course.term_id, course.title)):
+                tags = []
+                equivalent_courses = course.equivalent_courses
+                if len(equivalent_courses) == 1:
+                    tags.append(dict(tag="newCourse"))
+                if (len(equivalent_courses) > 1 and equivalent_courses[0].term_id == args.termid
+                        and util.term_id_distance(equivalent_courses[0].term_id, equivalent_courses[1].term_id) > 2):
+                    tags.append(dict(tag="rareCourse", last_offered=util.term_id_to_name(equivalent_courses[1].term_id)))
+                tags_html = " ".join(TAG_FACTORIES[tag["tag"]](tag) for tag in tags)
+
                 file.write(
 f"""<tr>
-  <td>{course.id}</td>
+  <td>{course.id} {tags_html}</td>
   <td><a href="{course.url}">{course.title}</a></td>
   <td>{course.credits}</td>
   <td>{'THEO' if course.is_theory_course else ''}</td>
+  {f'<td>{course.term_name}</td>' if include_last_offered else ''}
 </tr>"""
             )
             file.write("</tbody></table>\n")

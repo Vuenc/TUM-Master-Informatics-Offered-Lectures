@@ -1,29 +1,42 @@
+from dataclasses import dataclass
 from typing import List
 import aiohttp
 import asyncio
 
 # Returns a list of paths for each course (typically just a list with one path, but some courses have several paths within the same curriculum)
 # Path elemens are the names of curriculum tree nodes leading to that course
-async def fetch_curriculum_paths(session: aiohttp.ClientSession, course_id, curriculum_id) -> List[List[str]]:
-   response = await session.get(f"https://campus.tum.de/tumonline/ee/rest/slc.cm.curriculumposition/positions/{course_id}/course/allCurriculumPositions")
-   responseJson = await response.json()
-   matching_curriculums = [curriculumDto for curriculumDto in responseJson["resource"]
-                           if str(curriculumDto["content"]["coCurriculumPositionDto"]["studyNameInfoDto"]["curriculumVersionId"]) == str(curriculum_id)]
+async def fetch_curriculum_paths(session: aiohttp.ClientSession, course_id, curriculum_ids: List[str]) -> List[List[str]]:
+    response = await session.get(f"https://campus.tum.de/tumonline/ee/rest/slc.cm.curriculumposition/positions/{course_id}/course/allCurriculumPositions")
+    response_json = await response.json()
+    get_curriculum = lambda curriculum_dto: str(curriculum_dto["content"]["coCurriculumPositionDto"]["studyNameInfoDto"]["curriculumVersionId"])
+    matching_curriculums = [curriculum_dto for curriculum_dto in response_json["resource"]
+                           if get_curriculum(curriculum_dto) in curriculum_ids]
+    if matching_curriculums == []:
+        return []
+    youngest_curriculum_id = str(max([int(get_curriculum(curriculum_dto)) for curriculum_dto in matching_curriculums]))
+    # Prefer youngest curriculum
+    matching_curriculums = [curriculum_dto for curriculum_dto in matching_curriculums if get_curriculum(curriculum_dto) == youngest_curriculum_id]
 
-   def extract_translation(name_dto, language_code):
-       (translation_dto,) = [translation_dto for translation_dto in name_dto["translations"]["translation"] if translation_dto["lang"] == language_code]
-       print(name_dto, translation_dto)
-       return translation_dto.get("value") or name_dto["value"]
+    def extract_translation(name_dto, language_code):
+        (translation_dto,) = [translation_dto for translation_dto in name_dto["translations"]["translation"] if translation_dto["lang"] == language_code]
+        return translation_dto.get("value") or name_dto["value"]
 
-   paths = [[
-         extract_translation(curriculum_path_element["name"], language_code="en")
-         for curriculum_path_element in matching_curriculum["content"]["coCurriculumPositionDto"]["curriculumPositionPathDto"]["path"]
-      ] for matching_curriculum in matching_curriculums
-   ]
-   return paths
+    paths = [[
+            extract_translation(curriculum_path_element["name"], language_code="en")
+            for curriculum_path_element in matching_curriculum["content"]["coCurriculumPositionDto"]["curriculumPositionPathDto"]["path"]
+        ] for matching_curriculum in matching_curriculums
+    ]
+    return paths
 
-async def fetch_related_courses(course_ids):
-    pass
+@dataclass
+class CourseIdWithSemesterId:
+    course_id: int
+    semester_id: int
+
+async def fetch_related_course_ids(session: aiohttp.ClientSession, course_id) -> List[int]:
+    response = await session.get(f"https://campus.tum.de/tumonline/ee/rest/slc.tm.cp/student/courses/same-courses/{course_id}")
+    responseJson = await response.json()
+    return [int(course["id"]) for course in sorted(responseJson["courses"], key=lambda c: int(c["semesterDto"]["id"]), reverse=True)]
 #     https://campus.tum.de/tumonline/ee/rest/slc.tm.cp/student/courses/same-courses/950802917
 
 #     {

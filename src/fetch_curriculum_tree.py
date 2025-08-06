@@ -1,5 +1,6 @@
 from dataclasses import dataclass, asdict
 from typing import List, Tuple
+import selenium.webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -15,6 +16,9 @@ import tqdm
 import selenium
 import time
 from urllib.parse import urljoin
+from multiprocessing import Pool
+import threading
+import atexit
 
 
 def click_button(driver, button):
@@ -31,9 +35,9 @@ def login_tum_online(driver: webdriver.Firefox, username, password):
     driver.find_element(value=password_field_id).send_keys(password)
     driver.find_element(value=login_button_id).click
 
-def get_offer_node_plus_buttons(driver):
+def get_offer_node_plus_buttons(driver, node_title: str):
     # Find table rows that contain an offer node, and select their descendant plus buttons
-    offer_node_selector = "span[contains(@title, 'Offer node')]"
+    offer_node_selector = f"span[contains(@title, '{node_title}')]"
     plus_button_selector = "a[contains(@class, 'KnotenLink')][not(contains(@style, 'tee_minus'))]"
     return driver.find_elements(By.XPATH, f"//tr[.//{offer_node_selector}]//{plus_button_selector}")
 
@@ -96,42 +100,14 @@ def wait_until_not_loading(driver):
         expected_conditions.invisibility_of_element_located((By.ID, "id-loader"))
     )
 
-def main():
-    parser = argparse.ArgumentParser(usage=
-    """
-    fetch_curriculum_tree.py [-h] --curriculum CURRICULUM
-    Curriculum: valid options are `master-informatics', 'master-dea'
-    """)
-    parser.add_argument("--curriculum", required=True, default="master-informatics",
-                        type=str, help="One of ['master-informatics', 'master-dea']")
-    args = parser.parse_args()
-    curriculum = curriculums[args.curriculum]
-
+def prepare_driver(curriculum: Curriculum):
+    global driver
     # Start a headless Firefox instance
     options = webdriver.FirefoxOptions()
     options.set_preference("intl.locale.requested", "en-US") # doesn't help though
     # options.add_argument("-headless")
     driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()),
                                options=options)
-    try:
-        fetch_curriculum_course_infos(driver, curriculum)
-    finally:
-    #    driver.close()
-        pass
-
-def fetch_curriculum_course_infos(driver: webdriver.Firefox, curriculum: Curriculum):
-    """
-    Algorithm:
-    - go to curriculum page
-    - click on "Node filter ( All (expanded) )" to get all module nodes in expanded form (individual course nodes still need to be expanded though).
-    - for each page in the pagination (this function handles a single page):
-        - click on all plus buttons to expand course details
-        - extract all module rows (which contain the number of credits, and the module name (often, not always, incl. the course ID)) and
-          all course links; associate course links to modules based on order of appearance
-        - go to the next page
-    """
-    # TODO Parallelize: multiple drivers; e.g. share session by: for cookie in r1.get_cookies(): driver2.add_cookie(cookie)
-
     driver.set_script_timeout(20)
     driver.implicitly_wait(5)
 
@@ -141,40 +117,55 @@ def fetch_curriculum_course_infos(driver: webdriver.Firefox, curriculum: Curricu
     # Switch language to English
     driver.find_element(By.TAG_NAME, "coa-desktop-language-menu").click()
     driver.find_element(By.XPATH, f"//button[@title='Sprache Englisch']").click()
-    time.sleep(2)
 
-    # Switch node filter to All (Expanded)
-    driver.find_element(By.XPATH, f"//button[@id='ca-id-stpvw-elementart-knoten']").click()
-    driver.find_element(By.XPATH, f"//a[@id='ca-id-cs-nav-alle-expanded']").click()
+    atexit.register(lambda: driver.close())
 
+def get_page1_url_and_num_pages():
+    global driver
+    assert isinstance(driver, selenium.webdriver.Firefox)
+
+    # # Switch node filter to All (Expanded)
+    # driver.find_element(By.XPATH, f"//button[@id='ca-id-stpvw-elementart-knoten']").click()
+    # time.sleep(1)
+    # driver.find_element(By.XPATH, f"//a[@id='ca-id-cs-nav-alle-expanded']").click()
+    driver.get("https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr=5217&pFilterType=20&pPageNr=&pStpKnotenNr=&pStartSemester=W")
     wait_until_not_loading(driver)
-    time.sleep(3)
 
+    page1_url = driver.current_url
     num_pages = int(driver.find_element(By.CLASS_NAME, "coTableNaviPageSelect").text.split("\n")[-1].removeprefix("of "))
+    return page1_url, num_pages
+
+driver = None
+
+def main():
+    parser = argparse.ArgumentParser(usage=
+    """
+    fetch_curriculum_tree.py [-h] --curriculum CURRICULUM
+    Curriculum: valid options are `master-informatics', 'master-dea'
+    """)
+    parser.add_argument("--curriculum", required=True, default="master-informatics",
+                        type=str, help="One of ['master-informatics', 'master-dea']")
+    parser.add_argument("--parallel_drivers", default=1,
+                        type=int, help="How many browser sessions to start in parallel to process different pages quicker")
+    args = parser.parse_args()
+    curriculum = curriculums[args.curriculum]
+
+    try:
+        thread_pool = Pool(args.parallel_drivers, initializer=lambda: prepare_driver(curriculum))
+        time.sleep(4)
+        (page1_url, num_pages) = thread_pool.apply(get_page1_url_and_num_pages)
+        results = thread_pool.starmap(fetch_curriculum_course_infos,
+                        tqdm.tqdm(list(zip(range(1, num_pages+1), [page1_url]*num_pages)), desc="Pages"))
+    finally:
+        thread_pool.close()
+        pass
+
+    # The first course nodes on page n+1 can belong to the last module node on page n (or even n-1, etc. if the module node has enough entries).
+    # Loop through all pages and set the module node of entries without module node that are at the page start to the previous page's last module node. 
     last_credits_on_previous_page = None
     last_module_name_on_previous_page = None
     all_curriculum_course_infos = []
-
-    for page in tqdm.tqdm(range(num_pages), desc="Pages"):
-        # Expand all offer nodes (click the plus buttons)
-        plus_buttons = get_offer_node_plus_buttons(driver)
-        for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding course nodes"):
-            click_button(driver, button)
-
-        wait_until_not_loading(driver)
-
-        # Go to previous years for course offer tables with no entries (max. 20 times)
-        for _ in range(20):
-            previous_year_buttons = get_previous_year_buttons_for_courses_without_entries(driver)
-            if len(previous_year_buttons) == 0:
-                break
-            for button in tqdm.tqdm(previous_year_buttons, leave=False):
-                click_button(driver, button)
-            wait_until_not_loading(driver)
-
-
-        curriculum_course_infos, last_credits_on_page, last_module_name_on_page = extract_courses_with_credits(driver)
-        # print(curriculum_course_infos)
+    for curriculum_course_infos, last_credits_on_page, last_module_name_on_page in results:
         for course_info in curriculum_course_infos:
             if course_info.num_credits is not None:
                 break
@@ -187,23 +178,57 @@ def fetch_curriculum_course_infos(driver: webdriver.Firefox, curriculum: Curricu
 
         all_curriculum_course_infos.extend(curriculum_course_infos)
 
-        # Go to next page
-        next_page_button = next(iter(driver.find_elements(By.XPATH, f"//a[@class='coTableNaviNextPage']")), None)
-        if next_page_button is None:
-            break
-
-        next_page_url = next_page_button.get_attribute("href")
-        assert next_page_url is not None
-        driver.get(next_page_url)
-        wait_until_not_loading(driver)
-        time.sleep(5)
-
     with open(curriculum.tree_file_path, "w") as f:
         # save with indent=0 (will insert newlines, more diff-friendly)
         json.dump([asdict(course_info) for course_info in all_curriculum_course_infos], f, indent=0)
         print(f"""Results written to json file '{curriculum.tree_file_path}'""")
 
     return all_curriculum_course_infos
+
+def fetch_curriculum_course_infos(page: int, page1_url: str) -> Tuple[List[CourseCurriculumInformation], int | None, str | None]:
+    """
+    Algorithm:
+    - go to curriculum page
+    - click on "Node filter ( All (expanded) )" to get all module nodes in expanded form (individual course nodes still need to be expanded though).
+    - for each page in the pagination (this function handles a single page):
+        - click on all plus buttons to expand course details
+        - extract all module rows (which contain the number of credits, and the module name (often, not always, incl. the course ID)) and
+          all course links; associate course links to modules based on order of appearance
+        - go to the next page
+    """
+    global driver
+    assert isinstance(driver, selenium.webdriver.Firefox)
+
+    if page != 1 or driver.current_url != page1_url:
+        driver.get(page1_url.replace("pPageNr=", f"pPageNr={page}"))
+        wait_until_not_loading(driver)
+        time.sleep(3)
+
+    # Open remaining Rule Nodes and contained Module Nodes (most will be open already, but in edge cases they remain closed;
+    # e.g. the Data Analytics Rule Node in Informatics curriculum, and its contained Module Nodes)
+    plus_buttons = get_offer_node_plus_buttons(driver, "Rule node")
+    for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding course nodes"):
+        click_button(driver, button)
+    plus_buttons = get_offer_node_plus_buttons(driver, "Module node")
+    for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding course nodes"):
+        click_button(driver, button)
+    # Expand all offer nodes (click the plus buttons)
+    plus_buttons = get_offer_node_plus_buttons(driver, "Offer node")
+    for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding course nodes"):
+        click_button(driver, button)
+
+    wait_until_not_loading(driver)
+
+    # Go to previous years for course offer tables with no entries (max. 20 times)
+    for _ in range(20):
+        previous_year_buttons = get_previous_year_buttons_for_courses_without_entries(driver)
+        if len(previous_year_buttons) == 0:
+            break
+        for button in tqdm.tqdm(previous_year_buttons, leave=False):
+            click_button(driver, button)
+        wait_until_not_loading(driver)
+
+    return extract_courses_with_credits(driver)
 
 
 if __name__ == "__main__":
