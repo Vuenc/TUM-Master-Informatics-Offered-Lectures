@@ -52,7 +52,6 @@ def clean_dto(dto, fields):
 #     go through semesters backwards and only fetch details for non-associated courses. Store curriculum information per association ID.
 # (should there be an extra DB per curriculum?)
 
-
 async def main():
     parser = argparse.ArgumentParser(
         usage="""
@@ -69,15 +68,13 @@ async def main():
     curriculum = curriculums.curriculums[args.curriculum]
 
     existing_courses: List = []
-    existing_course_curriculum_associations: Dict[int, List[str]] = {}
     existing_terms = []
     if os.path.isfile(curriculum.all_offered_courses_path):
         with open(curriculum.all_offered_courses_path) as f:
             existing_data = json.load(f)
             # Remove existing entries for current semester: this should always be fetched (this is likely to have changed)
             existing_courses = [dto for dto in existing_data["courses"] if dto["semesterDto"]["id"] != args.termid]
-            existing_course_curriculum_associations = existing_data["curriculumPathsByOldestRelatedCourseId"]
-        existing_terms = list(set(dto["semesterDto"]["id"] for dto in existing_data).difference({args.termid}))
+        existing_terms = list(set(dto["semesterDto"]["id"] for dto in existing_data["courses"]).difference({args.termid}))
         print(f"Found data for old terms in '{curriculum.all_offered_courses_path}'. This data is not downloaded again.")
         print(f"Old terms found: {', '.join(util.term_id_to_name(term_id) for term_id in sorted(existing_terms))}" )
 
@@ -103,6 +100,7 @@ async def main():
                 course_dto["title"] = next((t["value"] for t in course_dto["courseTitle"]["translations"]["translation"] if t["lang"] == "en" and "value" in t), course_dto["courseTitle"]["value"])
                 # Clean the retrieved DTOs (remove unneeded fields) to save a significant amount of space and json parsing time
             term_course_dtos = [clean_dto(course_dto, field_selector) for course_dto in term_course_dtos]
+            seen_course_ids.update(str(course_dto["id"]) for course_dto in term_course_dtos)
             all_term_course_dtos.extend(term_course_dtos)
         print(len(all_term_course_dtos), "courses found in total for", term_name)
         available_courses_dtos_per_term.append(all_term_course_dtos)
@@ -110,12 +108,11 @@ async def main():
 
     # Map course ids to the id of the ldest related course (which identifies the equivalence class)
     oldest_related_course_id_by_course_id = {}
-    curriculum_paths_by_oldest_course_id = {}
 
     async with aiohttp.ClientSession() as session:
         # The available_courses_dtos are already sorted by term from newest to oldest.
         for available_courses_dtos_term, term_id  in zip(available_courses_dtos_per_term, reversed(terms_to_fetch)):
-            print("Fetching curriculum paths and related courses for", util.term_id_to_name(term_id))
+            print("Fetching related courses for", util.term_id_to_name(term_id))
             # Fetch details only for courses where no newer equivalent course was seen yet
             course_dtos_to_fetch_details_for = []
             for course_dto in available_courses_dtos_term:
@@ -125,17 +122,14 @@ async def main():
                     course_dtos_to_fetch_details_for.append(course_dto)
 
             # Asynchronously fetch the curriculum path and related courses for each of the courses
-            all_curriculum_paths, all_related_course_ids = await asyncio.gather(
-                asyncio.gather(*[fetch_course_details.fetch_curriculum_paths(session, course_dto["id"], curriculum.curriculum_ids)
-                    for course_dto in course_dtos_to_fetch_details_for]),
+            (all_related_course_ids,) = await asyncio.gather(
                 asyncio.gather(*[fetch_course_details.fetch_related_course_ids(session, course_dto["id"])
                     for course_dto in course_dtos_to_fetch_details_for]
             ))
 
-            # Identify the oldest related course ID (equivalence class ID) and store the curriculum path associated with this ID
-            for course_dto, curriculum_paths, related_course_ids in zip(course_dtos_to_fetch_details_for, all_curriculum_paths, all_related_course_ids):
+            # Identify the oldest related course ID (equivalence class ID)
+            for course_dto, related_course_ids in zip(course_dtos_to_fetch_details_for, all_related_course_ids):
                 oldest_related_course_id = related_course_ids[-1] if len(related_course_ids) > 0 else int(course_dto["id"])
-                curriculum_paths_by_oldest_course_id[oldest_related_course_id] = curriculum_paths
                 course_dto["oldestRelatedCourseId"] = oldest_related_course_id
                 for related_course_id in related_course_ids:
                     oldest_related_course_id_by_course_id[int(related_course_id)] = oldest_related_course_id
@@ -143,8 +137,7 @@ async def main():
     with open(curriculum.all_offered_courses_path, "w") as f:
         # Sort data, and save it with indent=0 which will add newlines (more diff-friendly)
         courses_to_save = sorted(existing_courses + sum(reversed(available_courses_dtos_per_term), []), key=lambda dto: (int(dto["semesterDto"]["id"]), int(dto["id"]))) # type: ignore
-        curriculum_associations_to_save = {**existing_course_curriculum_associations, **curriculum_paths_by_oldest_course_id}
-        saved_data = {"curriculumPathsByOldestRelatedCourseId": curriculum_associations_to_save, "courses": courses_to_save}
+        saved_data = {"courses": courses_to_save}
         json.dump(saved_data, f, indent=0)
 
     print(f"Results written to JSON file '{curriculum.all_offered_courses_path}'")
