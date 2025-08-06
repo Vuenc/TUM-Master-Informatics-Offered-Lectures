@@ -1,5 +1,5 @@
 from dataclasses import dataclass, asdict
-from typing import List, Tuple
+from typing import Dict, List, Tuple
 import selenium.webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium import webdriver
@@ -20,6 +20,8 @@ from multiprocessing import Pool
 import threading
 import atexit
 
+gecko_driver_path = GeckoDriverManager().install()
+print("Installed Firefox Gecko driver to", gecko_driver_path)
 
 def click_button(driver, button):
     driver.execute_script("arguments[0].click()", button)
@@ -58,39 +60,53 @@ class CourseCurriculumInformation:
     urls: List[str]
     num_credits: int | None
     module_name: str | None
+    rule_node_names_by_levels: Dict[int, str]
 
-def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[CourseCurriculumInformation], int | None, str | None]:
+def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[CourseCurriculumInformation], int | None, str | None, Dict[int, str]]:
     """
     Returns a list associating course links to their number of credits, as well as the Credits of the last
     entry on the page (since that might carry over to the next page), and the module name of the last entry (same here).
     """
-    # Select both the rows belonging to credits (i.e. module nodes) as well as hrefs pointing to course links via the same XPath.
+    # Select (via the same XPath so they are ordered):
+    # - the module names indicating the curriculum path (Rule nodes)
+    # - the rows belonging to credits (rows containing Module nodes)
+    # - hrefs pointing to course links.
+    rule_node_selector = "//tr//td[1]//span//span[contains(@title, 'Rule node')]"
     module_selector = "//tr[td[1]//span//span[contains(@title, 'Module node')]]"
-    course_link_selector = "//a[contains(@href, 'pages/slc.tm.cp/course/')"
-    module_or_course_link_selector = f"{module_selector} | {course_link_selector}]"
+    course_link_selector = "//a[contains(@href, 'pages/slc.tm.cp/course/')]"
+    module_or_course_link_selector = f"{module_selector} | {course_link_selector} | {rule_node_selector}"
 
     current_credits = None
     current_module_name = None
     current_course = None
     course_infos: List[CourseCurriculumInformation] = []
+    # Rule nodes correspond to groups (electives group, subject areas, "Theory", and similar)
+    current_rule_node_names_by_levels = {} 
 
     # By sequentially going through the results, we can associate course links to their amount of credits.
     for element in driver.find_elements(By.XPATH, module_or_course_link_selector):
-        if element.tag_name == "tr":
+        if element.tag_name == "span": # Rule node
+            # we identify the levels of rule nodes in the path based on their indent
+            current_rule_node_names_by_levels[element.location["x"]] = element.text
+            print(f"Rule node: x={element.location["x"]}: {element.text}")
+        elif element.tag_name == "tr": # Module node row
             current_module_name = element.find_element(By.XPATH, "td[1]//span//span").text
             credits_elements = element.find_elements(By.XPATH, "td[4]//span")
             current_credits = int(credits_elements[0].text) if len(credits_elements) > 0 and credits_elements[0].text.isdecimal() else None
             current_course = None
-        else:
+        else: # Link to course
             course_link = element.get_attribute("href")
             assert course_link is not None
             if current_course is None:
-                current_course = CourseCurriculumInformation(urls=[course_link], num_credits=current_credits, module_name=current_module_name)
+                current_course = CourseCurriculumInformation(
+                    urls=[course_link], num_credits=current_credits, module_name=current_module_name,
+                    rule_node_names_by_levels=current_rule_node_names_by_levels.copy()
+                )
                 course_infos.append(current_course)
             else:
                 current_course.urls.append(course_link)
     
-    return (course_infos, current_credits, current_module_name)
+    return (course_infos, current_credits, current_module_name, current_rule_node_names_by_levels)
 
 def wait_until_not_loading(driver):
     WebDriverWait(driver, 60).until(
@@ -106,7 +122,8 @@ def prepare_driver(curriculum: Curriculum):
     options = webdriver.FirefoxOptions()
     options.set_preference("intl.locale.requested", "en-US") # doesn't help though
     # options.add_argument("-headless")
-    driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()),
+
+    driver = webdriver.Firefox(service=Service(gecko_driver_path),
                                options=options)
     driver.set_script_timeout(20)
     driver.implicitly_wait(5)
@@ -164,17 +181,22 @@ def main():
     # Loop through all pages and set the module node of entries without module node that are at the page start to the previous page's last module node. 
     last_credits_on_previous_page = None
     last_module_name_on_previous_page = None
+    last_rule_node_names_by_levels_on_previous_page = {}
     all_curriculum_course_infos = []
-    for curriculum_course_infos, last_credits_on_page, last_module_name_on_page in results:
+    for (curriculum_course_infos, last_credits_on_page, 
+         last_module_name_on_page, last_rule_node_names_by_levels) in results:
         for course_info in curriculum_course_infos:
             if course_info.num_credits is not None:
                 break
             assert last_credits_on_previous_page is not None
             course_info.num_credits = last_credits_on_previous_page
             course_info.module_name = last_module_name_on_previous_page
+        for course_info in curriculum_course_infos:
+            course_info.rule_node_names_by_levels = {**last_rule_node_names_by_levels_on_previous_page, **course_info.rule_node_names_by_levels}
         
         last_module_name_on_previous_page = last_module_name_on_page or last_module_name_on_previous_page
         last_credits_on_previous_page = last_credits_on_page or last_credits_on_previous_page
+        last_rule_node_names_by_levels_on_previous_page = {**last_rule_node_names_by_levels_on_previous_page, **last_rule_node_names_by_levels}
 
         all_curriculum_course_infos.extend(curriculum_course_infos)
 
@@ -185,7 +207,7 @@ def main():
 
     return all_curriculum_course_infos
 
-def fetch_curriculum_course_infos(page: int, page1_url: str) -> Tuple[List[CourseCurriculumInformation], int | None, str | None]:
+def fetch_curriculum_course_infos(page: int, page1_url: str) -> Tuple[List[CourseCurriculumInformation], int | None, str | None, Dict[int, str]]:
     """
     Algorithm:
     - go to curriculum page
