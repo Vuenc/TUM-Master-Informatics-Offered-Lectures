@@ -68,13 +68,13 @@ def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[Course
     entry on the page (since that might carry over to the next page), and the module name of the last entry (same here).
     """
     # Select (via the same XPath so they are ordered):
-    # - the module names indicating the curriculum path (Rule nodes)
+    # - the module names indicating the curriculum path (Rule nodes), and other nodes to deactivate previous Rule nods
     # - the rows belonging to credits (rows containing Module nodes)
     # - hrefs pointing to course links.
-    rule_node_selector = "//tr//td[1]//span//span[contains(@title, 'Rule node')]"
+    node_span_selector = "//tr//td[1]//span//span[contains(@title, ' node')]"
     module_selector = "//tr[td[1]//span//span[contains(@title, 'Module node')]]"
     course_link_selector = "//a[contains(@href, 'pages/slc.tm.cp/course/')]"
-    module_or_course_link_selector = f"{module_selector} | {course_link_selector} | {rule_node_selector}"
+    module_or_course_link_selector = f"{node_span_selector} | {module_selector} | {course_link_selector}"
 
     current_credits = None
     current_module_name = None
@@ -85,10 +85,16 @@ def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[Course
 
     # By sequentially going through the results, we can associate course links to their amount of credits.
     for element in driver.find_elements(By.XPATH, module_or_course_link_selector):
-        if element.tag_name == "span": # Rule node
-            # we identify the levels of rule nodes in the path based on their indent
-            current_rule_node_names_by_levels[element.location["x"]] = element.text
-            print(f"Rule node: x={element.location["x"]}: {element.text}")
+        if element.tag_name == "span": # Rule node or other node
+            node_title = element.get_attribute("title")
+            assert node_title is not None
+            if "Rule node" in node_title:
+                # we identify the levels of rule nodes in the path based on their indent
+                current_rule_node_names_by_levels[element.location["x"]] = element.text
+            else:
+                # reset rule node name at that level (so previous rule nodes don't stay active)
+                if element.location["x"] in current_rule_node_names_by_levels:
+                    del current_rule_node_names_by_levels[element.location["x"]]
         elif element.tag_name == "tr": # Module node row
             current_module_name = element.find_element(By.XPATH, "td[1]//span//span").text
             credits_elements = element.find_elements(By.XPATH, "td[4]//span")
