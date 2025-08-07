@@ -6,3 +6,4 @@ Requests>=2.32.3
 selenium>=4.23.1
 tqdm>=4.66.2
 webdriver_manager>=4.0.2
+aiohttp >=3.12.12
