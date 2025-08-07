@@ -8,16 +8,12 @@ from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 import json
-from dotenv import load_dotenv
-import os
 from curriculums import curriculums, Curriculum
 import argparse
 import tqdm
 import selenium
 import time
-from urllib.parse import urljoin
 from multiprocessing import Pool
-import threading
 import atexit
 
 gecko_driver_path = GeckoDriverManager().install()
@@ -127,7 +123,7 @@ def prepare_driver(curriculum: Curriculum):
     # Start a headless Firefox instance
     options = webdriver.FirefoxOptions()
     options.set_preference("intl.locale.requested", "en-US") # doesn't help though
-    # options.add_argument("-headless")
+    options.add_argument("-headless")
 
     driver = webdriver.Firefox(service=Service(gecko_driver_path),
                                options=options)
@@ -175,8 +171,8 @@ def main():
         thread_pool = Pool(args.parallel_drivers, initializer=lambda: prepare_driver(curriculum))
         time.sleep(4)
         [(page1_url, num_pages)] = thread_pool.map(get_page1_url_and_num_pages, [curriculum])
-        results = thread_pool.starmap(fetch_curriculum_course_infos,
-                        tqdm.tqdm(list(zip(range(1, num_pages+1), [page1_url]*num_pages)), desc="Pages"))
+        results = tqdm.tqdm(thread_pool.imap(fetch_curriculum_course_infos,
+                        list(zip(range(1, num_pages+1), [page1_url]*num_pages))), desc="Pages")
     finally:
         thread_pool.close()
         pass
@@ -211,7 +207,7 @@ def main():
 
     return all_curriculum_course_infos
 
-def fetch_curriculum_course_infos(page: int, page1_url: str) -> Tuple[List[CourseCurriculumInformation], int | None, str | None, Dict[int, str]]:
+def fetch_curriculum_course_infos(page_and_page1_url: Tuple[int, str]) -> Tuple[List[CourseCurriculumInformation], int | None, str | None, Dict[int, str]]:
     """
     Algorithm:
     - go to curriculum page
@@ -222,6 +218,7 @@ def fetch_curriculum_course_infos(page: int, page1_url: str) -> Tuple[List[Cours
           all course links; associate course links to modules based on order of appearance
         - go to the next page
     """
+    page, page1_url = page_and_page1_url
     global driver
     assert isinstance(driver, selenium.webdriver.Firefox)
 
@@ -233,10 +230,10 @@ def fetch_curriculum_course_infos(page: int, page1_url: str) -> Tuple[List[Cours
     # Open remaining Rule Nodes and contained Module Nodes (most will be open already, but in edge cases they remain closed;
     # e.g. the Data Analytics Rule Node in Informatics curriculum, and its contained Module Nodes)
     plus_buttons = get_offer_node_plus_buttons(driver, "Rule node")
-    for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding course nodes"):
+    for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding rule nodes"):
         click_button(driver, button)
     plus_buttons = get_offer_node_plus_buttons(driver, "Module node")
-    for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding course nodes"):
+    for button in tqdm.tqdm(plus_buttons, leave=False, desc="Expanding offer nodes"):
         click_button(driver, button)
     # Expand all offer nodes (click the plus buttons)
     plus_buttons = get_offer_node_plus_buttons(driver, "Offer node")
@@ -246,11 +243,11 @@ def fetch_curriculum_course_infos(page: int, page1_url: str) -> Tuple[List[Cours
     wait_until_not_loading(driver)
 
     # Go to previous years for course offer tables with no entries (max. 20 times)
-    for _ in range(20):
+    for year_ago in range(20):
         previous_year_buttons = get_previous_year_buttons_for_courses_without_entries(driver)
         if len(previous_year_buttons) == 0:
             break
-        for button in tqdm.tqdm(previous_year_buttons, leave=False):
+        for button in tqdm.tqdm(previous_year_buttons, leave=False, desc=f"Still searching last time offered for {len(previous_year_buttons)} modules: {year_ago+1} years ago..."):
             click_button(driver, button)
         wait_until_not_loading(driver)
 
