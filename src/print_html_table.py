@@ -15,7 +15,8 @@ from curriculums import curriculums
 import util
 import re
 
-COURSE_CODE_REGEX = regex.compile("\\[([A-Z]+\\d+)\\]")
+COURSE_CODE_REGEX = re.compile(r"\[([A-Z]+[0-9]+)\]")
+COURSE_CODE_PARENTHESIS_REGEX = re.compile(r" (\([A-Z]+[0-9]+\)|\[[A-Z]+[0-9]+\])$")
 
 THEORY_NODE_NAMES = ["Theorie", "Theory"]
 
@@ -158,8 +159,8 @@ class Course:
     term_id: int
     term_name: str
     credits: str
-    is_theory_course: bool
     equivalent_courses: List[Course]
+    curriculum_path: List[str]
 
 def main():
     parser = argparse.ArgumentParser(usage=
@@ -182,14 +183,11 @@ def main():
     with open(curriculum.tree_file_path) as f:
         curriculum_course_infos = json.load(f)
     curriculum_courses_by_url = {url[url.rfind("/"):]: course_info for course_info in curriculum_course_infos for url in course_info["urls"]}
-    course_code_regex = re.compile(r"\[([a-zA-Z]+[0-9]+)\]")
 
     available_courses_dtos = sorted(available_courses_dtos, key=lambda course_dto: int(course_dto["semesterDto"]["id"]), reverse=True)
     courses_by_area = defaultdict(lambda: [])
     equivalent_courses_by_oldest_related_course_id = {}
     for course_dto in available_courses_dtos:
-        # TODO support multiple paths
-        # TODO support non-Informatics curriculums via custom code injection for this small part of the code (and everything below that contains "Elective Modules Informatics")
         is_in_term_range = int(course_dto["semesterDto"]["id"]) >= (args.oldtermsfrom or args.termid)
         url = f"{COURSE_DETAILS_BASE_URL}{course_dto["id"]}"
         equivalent_courses = equivalent_courses_by_oldest_related_course_id.get(int(course_dto["oldestRelatedCourseId"]), None)
@@ -197,9 +195,9 @@ def main():
             continue
         
         area = None
-        is_theory_course = None
         course_code = None
         credits = None
+        curriculum_path = None
         if equivalent_courses is None:
             # This is the youngest of its equivalence class, and we should extract the area
             curriculum_course_info = curriculum_courses_by_url.get(url[url.rfind("/"):])
@@ -208,32 +206,27 @@ def main():
                 equivalent_courses_by_oldest_related_course_id[int(course_dto["oldestRelatedCourseId"])] = []
                 continue
             assert curriculum_course_info is not None
-            path = list(curriculum_course_info["rule_node_names_by_levels"].values())
-            if len(path) < 2:
-                print(path)
+            curriculum_path = list(curriculum_course_info["rule_node_names_by_levels"].values())
+            area = curriculum.extract_area(curriculum_path)
+            if area is None:
                 equivalent_courses_by_oldest_related_course_id[int(course_dto["oldestRelatedCourseId"])] = []
                 continue
-            if path[0] != "Elective Modules Informatics":
-                equivalent_courses_by_oldest_related_course_id[int(course_dto["oldestRelatedCourseId"])] = []
-                continue
-            area = path[1]
-            is_theory_course = "Theory" in path or "Theorie" in path
-            course_id_match = course_code_regex.match(curriculum_course_info["module_name"]) if curriculum_course_info is not None else None
-            course_code = course_id_match.groups()[0] if course_id_match is not None else "?"
+            course_code_match = COURSE_CODE_REGEX.match(curriculum_course_info["module_name"]) if curriculum_course_info is not None else None
+            course_code = course_code_match.groups()[0] if course_code_match is not None else "?"
             credits = str(curriculum_course_info["num_credits"]) if curriculum_course_info is not None else "?"
         else:
-            is_theory_course = equivalent_courses[0].is_theory_course
             course_code = equivalent_courses[0].course_code
             credits = equivalent_courses[0].credits
+            curriculum_path = equivalent_courses[0].curriculum_path
         course = Course(
-            title=course_dto["title"],
+            title=COURSE_CODE_PARENTHESIS_REGEX.sub("", course_dto["title"]),
             url=url,
             course_code=course_code,
             credits=credits,
             term_id = course_dto["semesterDto"]["id"],
             term_name=util.term_id_to_name(course_dto["semesterDto"]["id"]),
-            is_theory_course=is_theory_course,
-            equivalent_courses=[] # will be set later
+            equivalent_courses=[], # will be set later
+            curriculum_path=curriculum_path,
         )
         if equivalent_courses is None:
             equivalent_courses = [course]
@@ -249,14 +242,14 @@ def main():
     terms_dict = {term_name: term_id for term_id, term_name in terms}
     terms_dict["?"] = 0 # sort "unknown" last
     include_last_offered = args.oldtermsfrom is not None
-    title = f"{curriculum.heading} - offered in {terms[-1][1]}{(' and since ' + terms[0][1]) if include_last_offered else ''}"
+    title = f"{curriculum.heading} - offered in {terms[-1][1]}{(' and in previous semesters') if include_last_offered else ''}"
 
     print(f"""\nCreating table "{title}"...""")
 
 
     curriculum_entry_paths = [list(curriculum_course_info["rule_node_names_by_levels"].values()) for curriculum_course_info in curriculum_course_infos]
-    areas_according_to_curriculum_tree = list({path[1]: 0 for path in curriculum_entry_paths if len(path) >= 2 and path[0] == "Elective Modules Informatics"})
-    print(areas_according_to_curriculum_tree)
+    areas_according_to_curriculum_tree = list({area: 0 for path in curriculum_entry_paths if (area := curriculum.extract_area(path)) is not None})
+    print("Areas:", areas_according_to_curriculum_tree)
 
     with open(args.output, "w") as file:
         file.write("<!DOCTYPE html><html lang='en'><body>")
@@ -274,7 +267,7 @@ f"""<thead>
     <th>ID</th>
     <th class="titleheader">Title</th>
     <th>Credits</th>
-    <th>THEO</th>
+    {"\n".join([f"<th>{key}</th>" for key in curriculum.extra_columns.keys()])}
     {'<th>Last offered</th>' if include_last_offered else ''}
 </tr>
 </thead>""")
@@ -292,11 +285,11 @@ f"""<thead>
 
                 file.write(
 f"""<tr>
-  <td>{course.course_code} {tags_html}</td>
-  <td><a href="{course.url}">{course.title}</a></td>
-  <td>{course.credits}</td>
-  <td>{'THEO' if course.is_theory_course else ''}</td>
-  {f'<td>{course.term_name}</td>' if include_last_offered else ''}
+    <td>{course.course_code} {tags_html}</td>
+    <td><a href="{course.url}">{course.title}</a></td>
+    <td>{course.credits}</td>
+    {"\n".join([f"<td>{value_extractor(course)}</td>" for value_extractor in curriculum.extra_columns.values()])}
+    {f'<td>{course.term_name}</td>' if include_last_offered else ''}
 </tr>"""
             )
             file.write("</tbody></table>\n")

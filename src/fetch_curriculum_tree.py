@@ -129,7 +129,8 @@ def prepare_driver(curriculum: Curriculum):
     driver.implicitly_wait(5)
 
     # Navigate to curriculum tree site
-    driver.get(curriculum.tree_url)
+    tree_url = f"https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr={curriculum.curriculum_ids[0]}"
+    driver.get(tree_url)
     
     # Switch language to English
     driver.find_element(By.TAG_NAME, "coa-desktop-language-menu").click()
@@ -137,15 +138,12 @@ def prepare_driver(curriculum: Curriculum):
 
     atexit.register(lambda: driver.close())
 
-def get_page1_url_and_num_pages():
+def get_page1_url_and_num_pages(curriculum):
     global driver
     assert isinstance(driver, selenium.webdriver.Firefox)
 
     # # Switch node filter to All (Expanded)
-    # driver.find_element(By.XPATH, f"//button[@id='ca-id-stpvw-elementart-knoten']").click()
-    # time.sleep(1)
-    # driver.find_element(By.XPATH, f"//a[@id='ca-id-cs-nav-alle-expanded']").click()
-    driver.get("https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr=5217&pFilterType=20&pPageNr=&pStpKnotenNr=&pStartSemester=W")
+    driver.get(f"https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr={curriculum.curriculum_ids[0]}&pFilterType=20&pPageNr=&pStpKnotenNr=&pStartSemester=W")
     wait_until_not_loading(driver)
 
     page1_url = driver.current_url
@@ -170,7 +168,7 @@ def main():
     try:
         thread_pool = Pool(args.parallel_drivers, initializer=lambda: prepare_driver(curriculum))
         time.sleep(4)
-        (page1_url, num_pages) = thread_pool.apply(get_page1_url_and_num_pages)
+        [(page1_url, num_pages)] = thread_pool.map(get_page1_url_and_num_pages, [curriculum])
         results = thread_pool.starmap(fetch_curriculum_course_infos,
                         tqdm.tqdm(list(zip(range(1, num_pages+1), [page1_url]*num_pages)), desc="Pages"))
     finally:
