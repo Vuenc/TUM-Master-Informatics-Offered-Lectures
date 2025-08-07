@@ -51,18 +51,18 @@ sh regenerate-all.sh
 
 ```sh
 cd src/
-python fetch_offered_courses.py --termid 203 --oldtermsfrom 171
+python update_course_database.py --termid 204 --oldtermsfrom 171 --curriculum master-informatics
 ```
 
 - Fetch the curriculum tree data (update the --curriculum argument accordingly, see `src/curriculums.py` for the supported options.)
 
 ```sh
-python fetch_curriculum_tree.py --curriculum master-informatics
+python fetch_curriculum_tree.py --parallel_drivers 5 --curriculum master-informatics
 ```
 
 - Generate the HTML file with the table (update the --curriculum, --termid and --output arguments accordingly)
 
 ```sh
-python print_html_table.py --termid 203 --curriculum master-informatics --output "../informatics-ws24-25.html"
-python print_html_table.py --termid 203 --curriculum master-informatics --oldtermsfrom 171 --output ../informatics-all.html
+python print_html_table.py --termid 204 --curriculum master-informatics --output "../informatics-ss25.html"
+python print_html_table.py --termid 204 --curriculum master-informatics --oldtermsfrom 171 --output ../informatics-all.html
 ```
