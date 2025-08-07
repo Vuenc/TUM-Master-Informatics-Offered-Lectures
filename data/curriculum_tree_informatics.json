@@ -994,8 +994,7 @@
 "module_name": "[IN2390] Advanced Deep Learning for Computer Vision: Visual Computing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1006,8 +1005,7 @@
 "module_name": "[IN2018] Augmented Reality",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1018,8 +1016,7 @@
 "module_name": "[IN2124] Basic Mathematical Methods for Imaging and Visualization",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1030,8 +1027,7 @@
 "module_name": "[IN2375] Computer Vision III: Detection, Segmentation, and Tracking",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1043,8 +1039,7 @@
 "module_name": "[IN0037] Game Physics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1055,8 +1050,7 @@
 "module_name": "[IN2297] Geometry Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1067,8 +1061,7 @@
 "module_name": "[IN2133] Principles of Computer Vision",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1079,8 +1072,7 @@
 "module_name": "[IN2015] Image Synthesis",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1091,8 +1083,7 @@
 "module_name": "[IN2369] Machine Vision",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1104,8 +1095,7 @@
 "module_name": "[IN2409] Inverse Problems in Medical Imaging",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1119,8 +1109,7 @@
 "module_name": "[IN2392] Machine Learning for 3D Geometry",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1131,8 +1120,7 @@
 "module_name": "[IN2236] Virtual Physics: Using Modern Modeling Methodologies for Computer Simulation",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1143,8 +1131,7 @@
 "module_name": "[IN2026] Visual Data Analytics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1155,8 +1142,7 @@
 "module_name": "[MH4L004277] XR: Virtual-, Mixed-, and Augmented Reality",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1170,8 +1156,7 @@
 "module_name": "[IN2354] 3D Scanning & Motion Capture",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1182,8 +1167,7 @@
 "module_name": "[IN2111] 3D User Interfaces",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)",
-"99": "Theory"
+"79": "Computer Graphics and Vision (CGV)"
 }
 },
 {
@@ -1198,8 +1182,7 @@
 "module_name": "[IN3100] Selected Topics in Databases and Information Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1210,8 +1193,7 @@
 "module_name": "[CIT3230002] Cloud Information Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1222,8 +1204,7 @@
 "module_name": "[IN2386] Cloud-Based Data Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1234,8 +1215,7 @@
 "module_name": "[CIT3230001] Code Generation for Data Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1246,8 +1226,7 @@
 "module_name": "[CIT3230004] Data Processing on Modern Hardware",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1258,8 +1237,7 @@
 "module_name": "[CIT3230003] Data Structure Engineering",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1270,8 +1248,7 @@
 "module_name": "[IN2118] Database Systems on Modern CPU Architectures",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1283,8 +1260,7 @@
 "module_name": "[IN2031] Application and Implementation of Database Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1295,8 +1271,7 @@
 "module_name": "[IN2288] Event Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1307,8 +1282,7 @@
 "module_name": "[CIT323001] High Performance Query Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1319,8 +1293,7 @@
 "module_name": "[IN2219] Query Optimization",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1331,8 +1304,7 @@
 "module_name": "[IN2267] Transaction Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Databases and Information Systems (DBI)",
-"99": "Theory"
+"79": "Databases and Information Systems (DBI)"
 }
 },
 {
@@ -1344,8 +1316,7 @@
 "module_name": "[CIT4230001] Computational Modeling for System Genetics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Digital Biology and Digital Medicine (DBM)",
-"99": "Theory"
+"79": "Digital Biology and Digital Medicine (DBM)"
 }
 },
 {
@@ -1356,8 +1327,7 @@
 "module_name": "[IN2021] Computer Aided Medical Procedures",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Digital Biology and Digital Medicine (DBM)",
-"99": "Theory"
+"79": "Digital Biology and Digital Medicine (DBM)"
 }
 },
 {
@@ -1368,8 +1338,7 @@
 "module_name": "[IN2022] Computer Aided Medical Procedures II",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Digital Biology and Digital Medicine (DBM)",
-"99": "Theory"
+"79": "Digital Biology and Digital Medicine (DBM)"
 }
 },
 {
@@ -1380,8 +1349,7 @@
 "module_name": "[IN2292] Introduction to Surgical Robotics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Digital Biology and Digital Medicine (DBM)",
-"99": "Theory"
+"79": "Digital Biology and Digital Medicine (DBM)"
 }
 },
 {
@@ -1393,8 +1361,7 @@
 "module_name": "[IN2393] Machine Learning for Regulatory Genomics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Digital Biology and Digital Medicine (DBM)",
-"99": "Theory"
+"79": "Digital Biology and Digital Medicine (DBM)"
 }
 },
 {
@@ -1405,8 +1372,7 @@
 "module_name": "[IN2293] Medical Augmented Reality",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Digital Biology and Digital Medicine (DBM)",
-"99": "Theory"
+"79": "Digital Biology and Digital Medicine (DBM)"
 }
 },
 {
@@ -1418,8 +1384,7 @@
 "module_name": "[IN2322] Protein Prediction I for Computer Scientists",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Digital Biology and Digital Medicine (DBM)",
-"99": "Theory"
+"79": "Digital Biology and Digital Medicine (DBM)"
 }
 },
 {
@@ -1430,8 +1395,7 @@
 "module_name": "[IN2291] Protein Prediction II for Computer Scientists",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Digital Biology and Digital Medicine (DBM)",
-"99": "Theory"
+"79": "Digital Biology and Digital Medicine (DBM)"
 }
 },
 {
@@ -1445,8 +1409,7 @@
 "module_name": "[IN2309] Advanced Topics of Software Engineering",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1457,8 +1420,7 @@
 "module_name": "[CIT423002] AI Testing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1469,8 +1431,7 @@
 "module_name": "[IN3430] Selected Topics in Engineering Software-intensive Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1481,8 +1442,7 @@
 "module_name": "[IN2359] Blockchain-based Systems Engineering",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1494,8 +1454,7 @@
 "module_name": "[CIT423001] DevOps: Engineering for Deployment and Operations",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1506,8 +1465,7 @@
 "module_name": "[CIT4230005] Engineering Resilient Cognitive Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1518,8 +1476,7 @@
 "module_name": "[IN2084] Advanced Topics of Software Testing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1530,8 +1487,7 @@
 "module_name": "[IN2105] Business Process Technologies and Management",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1542,8 +1498,7 @@
 "module_name": "[IN2079] IT-Consulting",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1554,8 +1509,7 @@
 "module_name": "[IN2081] Patterns in Software Engineering",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1566,8 +1520,7 @@
 "module_name": "[IN2394] Requirements Engineering",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1578,8 +1531,7 @@
 "module_name": "[IN2087] Software Engineering for Business Applications - Master's Course: Web Application Engineering",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1591,8 +1543,7 @@
 "module_name": "[IN2235] Software Engineering in an Industrial Setting",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1603,8 +1554,7 @@
 "module_name": "[CIT4230000] Strategic IT Management",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Engineering Software-intensive Systems (SE)",
-"99": "Theory"
+"79": "Engineering Software-intensive Systems (SE)"
 }
 },
 {
@@ -1744,8 +1694,7 @@
 "module_name": "[IN3350] Selected Topics in Formal Methods and their Applications",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Formal Methods and their Applications (FMA)",
-"99": "Theorie"
+"79": "Formal Methods and their Applications (FMA)"
 }
 },
 {
@@ -1757,8 +1706,7 @@
 "module_name": "[CIT3230000] Advanced Concepts of Programming Languages",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Formal Methods and their Applications (FMA)",
-"99": "Theorie"
+"79": "Formal Methods and their Applications (FMA)"
 }
 },
 {
@@ -1794,8 +1742,7 @@
 "module_name": "[IN2298] Advanced Deep Learning for Physics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Theory"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1808,8 +1755,7 @@
 "module_name": "[CIT433027] Advanced Deep Learning for Robotics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Theory"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1820,8 +1766,7 @@
 "module_name": "[CIT4230003] Advanced Machine Learning: Deep Generative Models",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Theory"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1832,8 +1777,7 @@
 "module_name": "[CIT4230002] Advanced Natural Language Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Theory"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1844,8 +1788,7 @@
 "module_name": "[IN2403] Artificial Intelligence in Medicine",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Theory"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1856,8 +1799,7 @@
 "module_name": "[IN2408] Artificial Intelligence in Medicine II",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Theory"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1869,8 +1811,7 @@
 "module_name": "[CIT4230006] Causal Inference in Time Series",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Theory"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1919,8 +1860,7 @@
 "module_name": "[CIT433021] Fundamentals of Foundation Models",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Data Analytics - 1 out of 3"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1932,8 +1872,7 @@
 "module_name": "[IN2346] Introduction to Deep Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Data Analytics - 1 out of 3"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1944,8 +1883,7 @@
 "module_name": "[IN2395] Legal Data Science and Informatics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Data Analytics - 1 out of 3"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1957,8 +1895,7 @@
 "module_name": "[IN2064] Machine Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Data Analytics - 1 out of 3"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1970,8 +1907,7 @@
 "module_name": "[IN2357] Machine Learning for Computer Vision",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Data Analytics - 1 out of 3"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1982,8 +1918,7 @@
 "module_name": "[IN2323] Machine Learning for Graphs and Sequential Data",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Data Analytics - 1 out of 3"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -1994,8 +1929,7 @@
 "module_name": "[CIT423003] Multimodal Deep Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Data Analytics - 1 out of 3"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -2006,8 +1940,7 @@
 "module_name": "[IN2361] Natural Language Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)",
-"99": "Data Analytics - 1 out of 3"
+"79": "Machine Learning and Analytics (MLA)"
 }
 },
 {
@@ -2030,8 +1963,7 @@
 "module_name": "[IN2076] Advanced Computer Architecture",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2042,8 +1974,7 @@
 "module_name": "[IN2097] Advanced Computer Networking",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2054,8 +1985,7 @@
 "module_name": "[IN3450] Selected Topics in Computer Architecture, Computer Networks and Distributed Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2067,8 +1997,7 @@
 "module_name": "[IN2073] Cloud Computing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2079,8 +2008,7 @@
 "module_name": "[IN2324] Connected Mobility Basics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2091,8 +2019,7 @@
 "module_name": "[CIT4330013] Design Automation and Simulation for Microfluidic Devices",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2104,8 +2031,7 @@
 "module_name": "[IN2259] Distributed Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2117,8 +2043,7 @@
 "module_name": "[EI70630] HW/SW Codesign",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2129,8 +2054,7 @@
 "module_name": "[CIT433032] Logic Synthesis and Physical Design",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2142,8 +2066,7 @@
 "module_name": "[CIT433031] Machine Learning for Electronic Design Automation and Manufacturing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2154,8 +2077,7 @@
 "module_name": "[IN2333] Protocol Design",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2167,8 +2089,7 @@
 "module_name": "[IN2125] Virtualization Techniques",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
-"99": "Theory"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
 }
 },
 {
@@ -2179,8 +2100,7 @@
 "module_name": "[CIT433034] Advanced Multi-Fingered Robotic Hands: Dextrous Manipulation and Learning AI",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2193,8 +2113,7 @@
 "module_name": "[IN2376] Advanced Robot Control and Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2205,8 +2124,7 @@
 "module_name": "[CIT433037] Advanced Robot Learning and Decision-Making",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2217,8 +2135,7 @@
 "module_name": "[IN2356] Autonomous Driving",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2229,8 +2146,7 @@
 "module_name": "[CIT436000] Legged Robots",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2241,8 +2157,7 @@
 "module_name": "[IN2222] Cognitive Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2253,8 +2168,7 @@
 "module_name": "[IN2305] Cyber-Physical Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2266,8 +2180,7 @@
 "module_name": "[IN2060] Real-Time Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2278,8 +2191,7 @@
 "module_name": "[IN2061] Introduction to Digital Signal Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2290,8 +2202,7 @@
 "module_name": "[IN2383] Formal Methods for Cyber-Physical Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2302,8 +2213,7 @@
 "module_name": "[IN2406] Fundamentals of Artificial Intelligence",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2315,8 +2225,7 @@
 "module_name": "[CIT433039] Intelligent Robots with a Sense of Smell",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2327,8 +2236,7 @@
 "module_name": "[CIT3330000] Introduction to Mobile Robotics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2340,8 +2248,7 @@
 "module_name": "[MW2411] Concepts and Software Design for Cyber-Physical Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2352,8 +2259,7 @@
 "module_name": "[IN2405] Neuroprosthetics: Artificial Limbs",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2365,8 +2271,7 @@
 "module_name": "[IN2308] Programming and Control for Human-Robot Interaction",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2377,8 +2282,7 @@
 "module_name": "[IN2138] Robot Motion Planning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2389,8 +2293,7 @@
 "module_name": "[IN2067] Robotics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2401,8 +2304,7 @@
 "module_name": "[IN2068] Sensor-based Robotic Manipulation and Locomotion",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2413,8 +2315,7 @@
 "module_name": "[CIT4330017] Trustworthy Machine Learning Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)",
-"99": "Theory"
+"79": "Robotics (ROB)"
 }
 },
 {
@@ -2437,8 +2338,7 @@
 "module_name": "[EI71070] Advanced Cryptographic Implementations",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2449,8 +2349,7 @@
 "module_name": "[CIT333000] Applied Cryptography for Decentralized Systems (ACDS)",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2461,8 +2360,7 @@
 "module_name": "[IN3470] Selected Topics in Security and Privacy",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2475,8 +2373,7 @@
 "module_name": "[EI70520] Circuit Design for Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2487,8 +2384,7 @@
 "module_name": "[CIT4330015] Coding for Private Reliable and Efficient Distributed Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2501,8 +2397,7 @@
 "module_name": "[CIT433040] Embedded Systems and Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2513,8 +2408,7 @@
 "module_name": "[IN2407] Hardware Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2525,8 +2419,7 @@
 "module_name": "[EI73451] Information Theoretic Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2537,8 +2430,7 @@
 "module_name": "[CIT4330009] IoT Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2549,8 +2441,7 @@
 "module_name": "[CIT3330002] IT Security 2",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2561,8 +2452,7 @@
 "module_name": "[CIT4330001] Machine Learning and IT-Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2573,8 +2463,7 @@
 "module_name": "[IN2101] Network Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2585,8 +2474,7 @@
 "module_name": "[IN2161] Networks for Monetary Transactions",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2598,8 +2486,7 @@
 "module_name": "[IN2194] Peer-to-Peer-Systems and Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2611,8 +2498,7 @@
 "module_name": "[EI71029] Physical Unclonable Functions",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2624,8 +2510,7 @@
 "module_name": "[EI71073] Quantum Computers and Quantum Secure Communications",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2636,8 +2521,7 @@
 "module_name": "[EI75671] Lecture Series System Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2648,8 +2532,7 @@
 "module_name": "[IN2178] Security Engineering",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2660,8 +2543,7 @@
 "module_name": "[EI71060] Security in Communications and Storage",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2673,8 +2555,7 @@
 "module_name": "[EI7243] Secure Implementation of Cryptographic Algorithms",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2685,8 +2566,7 @@
 "module_name": "[IN2362] Language-based Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)",
-"99": "Theory"
+"79": "Security and Privacy (SP)"
 }
 },
 {
@@ -2795,8 +2675,7 @@
 "module_name": "[IN3480] Selected Topics in Scientific Computing and High Performance Computing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
+"79": "Scientific Computing and High Performance Computing (HPC)"
 }
 },
 {
@@ -2808,8 +2687,7 @@
 "module_name": "[IN2147] Parallel Programming",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
+"79": "Scientific Computing and High Performance Computing (HPC)"
 }
 },
 {
@@ -2821,8 +2699,7 @@
 "module_name": "[IN2365] Parallel Programming Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
+"79": "Scientific Computing and High Performance Computing (HPC)"
 }
 },
 {
@@ -2834,8 +2711,7 @@
 "module_name": "[CIT423000] Scientific Computing and Machine Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
+"79": "Scientific Computing and High Performance Computing (HPC)"
 }
 },
 {
@@ -2846,8 +2722,7 @@
 "module_name": "[CIT4330012] Software for Quantum Computing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
+"79": "Scientific Computing and High Performance Computing (HPC)"
 }
 },
 {
@@ -2859,8 +2734,7 @@
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
 "79": "Elective Modules not Assigned to any Area",
-"99": "Further Modules not Assigned to any Area",
-"119": "Theory"
+"99": "Further Modules not Assigned to any Area"
 }
 },
 {
@@ -2873,8 +2747,7 @@
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
 "79": "Elective Modules not Assigned to any Area",
-"99": "Further Modules not Assigned to any Area",
-"119": "Theory"
+"99": "Further Modules not Assigned to any Area"
 }
 },
 {
@@ -2886,8 +2759,7 @@
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
 "79": "Elective Modules not Assigned to any Area",
-"99": "Further Modules not Assigned to any Area",
-"119": "Theory"
+"99": "Further Modules not Assigned to any Area"
 }
 },
 {
@@ -2899,8 +2771,7 @@
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
 "79": "Elective Modules not Assigned to any Area",
-"99": "Further Modules not Assigned to any Area",
-"119": "Theory"
+"99": "Further Modules not Assigned to any Area"
 }
 },
 {
@@ -2913,8 +2784,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -2927,8 +2797,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -2941,8 +2810,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -2957,8 +2825,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -2971,8 +2838,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -2985,8 +2851,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3001,8 +2866,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3015,8 +2879,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3032,8 +2895,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3046,8 +2908,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3062,8 +2923,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3076,8 +2936,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3090,8 +2949,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3104,8 +2962,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3120,8 +2977,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3134,8 +2990,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3150,8 +3005,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3164,8 +3018,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3178,8 +3031,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3192,8 +3044,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3208,8 +3059,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3222,8 +3072,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3238,8 +3087,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3251,8 +3099,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3264,8 +3111,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3278,8 +3124,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3292,8 +3137,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3306,8 +3150,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3320,8 +3163,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3334,8 +3176,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3349,8 +3190,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3363,8 +3203,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3376,8 +3215,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3390,8 +3228,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3403,8 +3240,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "German for Master students",
-"119": "Theory"
+"99": "German for Master students"
 }
 },
 {
@@ -3417,8 +3253,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3431,8 +3266,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3444,8 +3278,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3457,8 +3290,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3473,8 +3305,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3487,8 +3318,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3501,8 +3331,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3515,8 +3344,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3529,8 +3357,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3542,8 +3369,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3555,8 +3381,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3571,8 +3396,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3585,8 +3409,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -3599,8 +3422,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
-"99": "Subject-related Language Courses C2",
-"119": "Theory"
+"99": "Subject-related Language Courses C2"
 }
 },
 {
@@ -5597,7 +5419,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5610,7 +5432,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5623,7 +5445,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5636,7 +5458,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5651,7 +5473,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5672,7 +5494,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5685,7 +5507,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5700,7 +5522,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5714,7 +5536,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5727,7 +5549,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5740,7 +5562,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5753,7 +5575,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5766,7 +5588,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5779,7 +5601,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5793,7 +5615,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5806,7 +5628,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5820,7 +5642,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5833,7 +5655,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5846,7 +5668,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5859,7 +5681,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5873,7 +5695,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5887,7 +5709,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5900,7 +5722,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5913,7 +5735,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5927,7 +5749,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5941,7 +5763,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5954,7 +5776,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5968,7 +5790,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5982,7 +5804,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -5995,7 +5817,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6008,7 +5830,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6024,7 +5846,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6041,7 +5863,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6056,7 +5878,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6069,7 +5891,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6083,7 +5905,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6096,7 +5918,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6110,7 +5932,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6123,7 +5945,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6137,7 +5959,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6151,7 +5973,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6172,7 +5994,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6192,7 +6014,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6205,7 +6027,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6218,7 +6040,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6232,7 +6054,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6246,7 +6068,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6259,7 +6081,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6273,7 +6095,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6287,7 +6109,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6300,7 +6122,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6313,7 +6135,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6326,7 +6148,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6340,7 +6162,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6354,7 +6176,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6368,7 +6190,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6382,7 +6204,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6400,7 +6222,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6414,7 +6236,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6427,7 +6249,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6442,7 +6264,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6456,7 +6278,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6469,7 +6291,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6482,7 +6304,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6497,7 +6319,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6513,7 +6335,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6527,7 +6349,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6540,7 +6362,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6553,7 +6375,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6569,7 +6391,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6588,7 +6410,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6605,7 +6427,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6622,7 +6444,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6635,7 +6457,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6648,7 +6470,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6661,7 +6483,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6675,7 +6497,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6688,7 +6510,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6702,7 +6524,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6718,7 +6540,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6734,7 +6556,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6748,7 +6570,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6764,7 +6586,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6779,7 +6601,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6792,7 +6614,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6806,7 +6628,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6820,7 +6642,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6836,7 +6658,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6852,7 +6674,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6865,7 +6687,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6878,7 +6700,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6892,7 +6714,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6905,7 +6727,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6918,7 +6740,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6931,7 +6753,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6944,7 +6766,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6958,7 +6780,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6972,7 +6794,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -6985,7 +6807,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7004,7 +6826,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7017,7 +6839,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7031,7 +6853,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7044,7 +6866,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7059,7 +6881,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7072,7 +6894,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7085,7 +6907,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7099,7 +6921,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7113,7 +6935,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7126,7 +6948,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7144,7 +6966,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7158,7 +6980,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7174,7 +6996,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7229,7 +7051,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7242,7 +7064,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7255,7 +7077,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7268,7 +7090,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7285,7 +7107,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7298,7 +7120,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7312,7 +7134,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7325,7 +7147,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7338,7 +7160,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7353,7 +7175,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7367,7 +7189,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7381,7 +7203,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7394,7 +7216,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7408,7 +7230,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7422,7 +7244,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7436,7 +7258,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7451,7 +7273,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7465,7 +7287,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7480,7 +7302,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7495,7 +7317,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7508,7 +7330,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7521,7 +7343,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7534,7 +7356,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7548,7 +7370,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7561,7 +7383,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7574,7 +7396,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7587,7 +7409,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7600,7 +7422,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7613,7 +7435,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7626,7 +7448,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7642,7 +7464,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7658,7 +7480,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7672,7 +7494,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7686,7 +7508,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7699,7 +7521,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7714,7 +7536,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7728,7 +7550,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7742,7 +7564,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7755,7 +7577,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7768,7 +7590,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7781,7 +7603,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7794,7 +7616,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7808,7 +7630,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7822,7 +7644,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7835,7 +7657,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7848,7 +7670,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7862,7 +7684,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7875,7 +7697,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7888,7 +7710,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7901,7 +7723,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7914,7 +7736,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7928,7 +7750,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7941,7 +7763,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7954,7 +7776,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7968,7 +7790,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7981,7 +7803,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -7995,7 +7817,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8008,7 +7830,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8021,7 +7843,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8034,7 +7856,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8047,7 +7869,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8060,7 +7882,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8074,7 +7896,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8087,7 +7909,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8100,7 +7922,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8113,7 +7935,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8128,7 +7950,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8141,7 +7963,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8154,7 +7976,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8167,7 +7989,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8180,7 +8002,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8193,7 +8015,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8206,7 +8028,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8219,7 +8041,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8233,7 +8055,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8246,7 +8068,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8259,7 +8081,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8272,7 +8094,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8285,7 +8107,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8298,7 +8120,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8312,7 +8134,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8325,7 +8147,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8338,7 +8160,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8351,7 +8173,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8369,7 +8191,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8383,7 +8205,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8397,7 +8219,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8410,7 +8232,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8423,7 +8245,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8436,7 +8258,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8450,7 +8272,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8463,7 +8285,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8476,7 +8298,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8490,7 +8312,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8503,7 +8325,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8516,7 +8338,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8530,7 +8352,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8544,7 +8366,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8557,7 +8379,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8570,7 +8392,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8584,7 +8406,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8597,7 +8419,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8611,7 +8433,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8624,7 +8446,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8638,7 +8460,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8651,7 +8473,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8664,7 +8486,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8677,7 +8499,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8691,7 +8513,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8705,7 +8527,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8718,7 +8540,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8731,7 +8553,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8744,7 +8566,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8757,7 +8579,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8770,7 +8592,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8786,7 +8608,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8800,7 +8622,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8813,7 +8635,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8827,7 +8649,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8841,7 +8663,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8855,7 +8677,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8869,7 +8691,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8883,7 +8705,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8896,7 +8718,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8910,7 +8732,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8923,7 +8745,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8937,7 +8759,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8952,7 +8774,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8965,7 +8787,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8979,7 +8801,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -8992,7 +8814,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9006,7 +8828,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9020,7 +8842,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9034,7 +8856,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9047,7 +8869,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9061,7 +8883,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9075,7 +8897,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9088,7 +8910,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9101,7 +8923,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9115,7 +8937,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9128,7 +8950,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9141,7 +8963,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9156,7 +8978,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9169,7 +8991,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9182,7 +9004,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9198,7 +9020,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9211,7 +9033,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9224,7 +9046,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9237,7 +9059,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9250,7 +9072,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9263,7 +9085,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9277,7 +9099,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9291,7 +9113,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9304,7 +9126,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9317,7 +9139,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9331,7 +9153,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9345,7 +9167,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 },
 {
@@ -9359,7 +9181,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-14] Turkish"
+"119": "[SZ0003-18] Korean"
 }
 }
 ]
