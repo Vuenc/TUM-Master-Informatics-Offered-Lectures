@@ -15,8 +15,8 @@ from curriculums import curriculums
 import util
 import re
 
-COURSE_CODE_REGEX = re.compile(r"\[([A-Z]+[0-9]+)\]")
-COURSE_CODE_PARENTHESIS_REGEX = re.compile(r" (\([A-Z]+[0-9]+\)|\[[A-Z]+[0-9]+\])$")
+COURSE_CODE_REGEX = re.compile(r"\[([A-Z0-9]+)\]")
+COURSE_CODE_PARENTHESIS_REGEX = re.compile(r" (\([A-Z0-9]+\)|\[[A-Z0-9]+\])$")
 
 THEORY_NODE_NAMES = ["Theorie", "Theory"]
 
