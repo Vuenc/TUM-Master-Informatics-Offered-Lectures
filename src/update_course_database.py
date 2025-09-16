@@ -129,7 +129,7 @@ async def main():
 
             # Identify the oldest related course ID (equivalence class ID)
             for course_dto, related_course_ids in zip(course_dtos_to_fetch_details_for, all_related_course_ids):
-                oldest_related_course_id = related_course_ids[-1] if len(related_course_ids) > 0 else int(course_dto["id"])
+                oldest_related_course_id = min(int(course_dto["id"]), related_course_ids[-1] if len(related_course_ids) > 0 else float("inf"))
                 course_dto["oldestRelatedCourseId"] = oldest_related_course_id
                 for related_course_id in related_course_ids:
                     oldest_related_course_id_by_course_id[int(related_course_id)] = oldest_related_course_id
