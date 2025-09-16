@@ -133,9 +133,11 @@ def prepare_driver(curriculum: Curriculum):
     # Navigate to curriculum tree site
     tree_url = f"https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr={curriculum.curriculum_ids[0]}"
     driver.get(tree_url)
+    wait_until_not_loading(driver)
     
     # Switch language to English
     driver.find_element(By.TAG_NAME, "coa-desktop-language-menu").click()
+    time.sleep(5)
     driver.find_element(By.XPATH, f"//button[@title='Sprache Englisch']").click()
 
     atexit.register(lambda: driver.close())
