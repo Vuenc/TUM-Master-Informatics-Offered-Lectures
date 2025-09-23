@@ -7,3 +7,4 @@ selenium>=4.23.1
 tqdm>=4.66.2
 webdriver_manager>=4.0.2
 aiohttp >=3.12.12
+minify-html>=0.16.4

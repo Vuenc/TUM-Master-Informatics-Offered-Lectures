@@ -4,13 +4,8 @@ import argparse
 from collections import defaultdict
 from dataclasses import dataclass
 import json
-from typing import Dict, List
-import pickle
-import pandas as pd
-import regex
-import multiprocessing
-import numpy as np
-from types import SimpleNamespace
+import minify_html
+from typing import List
 from curriculums import curriculums
 import util
 import re
@@ -22,6 +17,14 @@ THEORY_NODE_NAMES = ["Theorie", "Theory"]
 
 # REGISTRATION_BASE_URL = "https://campus.tum.de/tumonline/ee/rest/pages/slc.tm.cp/course-registration/" 
 COURSE_DETAILS_BASE_URL = "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/"
+
+HTML_HEADER = lambda style, title: f"""
+<head>
+    <meta charset="utf-8">
+    <title>{title}</title>
+    {style}
+</head>
+"""
 
 STYLE = """
 <style>
@@ -247,53 +250,60 @@ def main():
     areas_according_to_curriculum_tree = list({area: 0 for path in curriculum_entry_paths if (area := curriculum.extract_area(path)) is not None})
     print("Areas:", areas_according_to_curriculum_tree)
 
-    with open(args.output, "w") as file:
-        file.write("<!DOCTYPE html><html lang='en'><body>")
-        file.write("<div class=\"main-container\">")
-        file.write(f"<h1>{title}</h1>")
-        file.write(HEADER_SINGLE_TERM if args.oldtermsfrom is None else HEADER_ALL_TERMS)
-        file.write(GITHUB_LINK_AND_KOFI_BUTTON)
+    output_html = ""
+    output_html += "<!DOCTYPE html><html lang='en'>"
+    output_html += HTML_HEADER(STYLE, title)
+    output_html += "<body><div class=\"main-container\">"
+    output_html += f"<h1>{title}</h1>"
+    output_html += HEADER_SINGLE_TERM if args.oldtermsfrom is None else HEADER_ALL_TERMS
+    output_html += GITHUB_LINK_AND_KOFI_BUTTON
 
-        for area, courses_in_area in sorted(courses_by_area.items(), key=lambda area_and_val: areas_according_to_curriculum_tree.index(area_and_val[0])):
-            file.write(f"<h3>{area}</h3>\n")
-            file.write("<table>\n")
-            file.write(
-f"""<thead>
+    for area, courses_in_area in sorted(courses_by_area.items(), key=lambda area_and_val: areas_according_to_curriculum_tree.index(area_and_val[0])):
+        output_html += f"<h3>{area}</h3>\n"
+        output_html += "<table>\n"
+        output_html +=f"""<thead>
 <tr style="text-align: right;">
-    <th>ID</th>
-    <th class="titleheader">Title</th>
-    <th>Credits</th>
-    {"\n".join([f"<th>{key}</th>" for key in curriculum.extra_columns.keys()])}
-    {'<th>Last offered</th>' if include_last_offered else ''}
+<th>ID</th>
+<th class="titleheader">Title</th>
+<th>Credits</th>
+{"\n".join([f"<th>{key}</th>" for key in curriculum.extra_columns.keys()])}
+{'<th>Last offered</th>' if include_last_offered else ''}
 </tr>
-</thead>""")
-            file.write("<tbody>\n")
-            for course in sorted(courses_in_area, key=lambda course: (-course.term_id, course.title)):
-                tags = []
-                equivalent_courses = course.equivalent_courses
-                if args.oldtermsfrom is None:
-                    if len(equivalent_courses) == 1:
-                        tags.append(dict(tag="newCourse"))
-                    if (len(equivalent_courses) > 1 and equivalent_courses[0].term_id == args.termid
-                            and util.term_id_distance(equivalent_courses[0].term_id, equivalent_courses[1].term_id) > 2):
-                        tags.append(dict(tag="rareCourse", last_offered=util.term_id_to_name(equivalent_courses[1].term_id)))
-                tags_html = " ".join(TAG_FACTORIES[tag["tag"]](tag) for tag in tags)
+</thead>"""
+        output_html += "<tbody>\n"
+        for course in sorted(courses_in_area, key=lambda course: (-course.term_id, course.title)):
+            tags = []
+            equivalent_courses = course.equivalent_courses
+            if args.oldtermsfrom is None:
+                if len(equivalent_courses) == 1:
+                    tags.append(dict(tag="newCourse"))
+                if (len(equivalent_courses) > 1 and equivalent_courses[0].term_id == args.termid
+                        and util.term_id_distance(equivalent_courses[0].term_id, equivalent_courses[1].term_id) > 2):
+                    tags.append(dict(tag="rareCourse", last_offered=util.term_id_to_name(equivalent_courses[1].term_id)))
+            tags_html = " ".join(TAG_FACTORIES[tag["tag"]](tag) for tag in tags)
 
-                file.write(
-f"""<tr>
-    <td>{course.course_code} {tags_html}</td>
-    <td><a href="{course.url}">{course.title}</a></td>
-    <td>{course.credits}</td>
-    {"\n".join([f"<td>{value_extractor(course)}</td>" for value_extractor in curriculum.extra_columns.values()])}
-    {f'<td>{course.term_name}</td>' if include_last_offered else ''}
+            output_html += f"""<tr>
+<td>{course.course_code} {tags_html}</td>
+<td><a href="{course.url}">{course.title}</a></td>
+<td>{course.credits}</td>
+{"\n".join([f"<td>{value_extractor(course)}</td>" for value_extractor in curriculum.extra_columns.values()])}
+{f'<td>{course.term_name}</td>' if include_last_offered else ''}
 </tr>"""
-            )
-            file.write("</tbody></table>\n")
+        
+        output_html += "</tbody></table>\n"
 
-        file.write("</div>")
-        file.write("</body>")
-        file.write(STYLE)
-        file.write("</html>")
+    output_html += "</div>"
+    output_html += "</body>"
+    output_html += "</html>"
+
+    minified_html = minify_html.minify(
+        output_html,
+        minify_css=True,
+        minify_js=True,
+        keep_html_and_head_opening_tags=True,
+    )
+    with open(args.output, "w") as file:
+        file.write(minified_html)
     print("Wrote table to file", args.output)
 
 if __name__ == "__main__":
