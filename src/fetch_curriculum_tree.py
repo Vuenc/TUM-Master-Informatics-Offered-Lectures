@@ -170,7 +170,7 @@ def main():
     curriculum = curriculums[args.curriculum]
 
     try:
-        thread_pool = Pool(args.parallel_drivers, initializer=lambda: prepare_driver(curriculum))
+        thread_pool = Pool(args.parallel_drivers, initializer=prepare_driver, initargs=(curriculum,))
         time.sleep(4)
         [(page1_url, num_pages)] = thread_pool.map(get_page1_url_and_num_pages, [curriculum])
         results = tqdm.tqdm(thread_pool.imap(fetch_curriculum_course_infos,
