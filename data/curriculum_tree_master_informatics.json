@@ -3,13 +3,7 @@
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873361",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950465340",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872979",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794247",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950395666",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840975",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759070",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768016",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659374"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872979"
 ],
 "num_credits": 10,
 "module_name": "[IN2106] Advanced Practical Course",
@@ -19,6 +13,12 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794247",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950395666",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840975",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759070",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768016",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659374",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841628",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875095",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950834619",
@@ -80,6 +80,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950318767",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950433658",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396033",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872698",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872697",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872631",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950633287",
@@ -157,6 +158,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426071",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659999",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659326",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873226",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872689",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950456827",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840132",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950565197",
@@ -188,6 +191,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833308",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765438",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833490",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872634",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759169",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873382",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950762062",
@@ -244,6 +248,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311982",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836900",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803448",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872701",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691560",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950292768",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798188",
@@ -272,6 +277,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950435079",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526245",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838406",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873470",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793218",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950665590",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950318488",
@@ -334,9 +340,12 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667294",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768482",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950660823",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873229",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595743",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873215",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873238",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873177",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873467",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759211",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950658625",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839273",
@@ -361,13 +370,16 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311975",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367398",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691820",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873538",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849646",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833396",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840726",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841352",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838593",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724856",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872205",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950774474",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872169",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659438",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793249",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950294503",
@@ -421,12 +433,14 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950373243",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367632",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832668",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873254",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841153",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367368",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950496567",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950496980",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627128",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841762",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872203",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950496501",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659710",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396010",
@@ -451,9 +465,11 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766834",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724706",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950636120",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872764",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724865",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765182",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767064",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950869371",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793291",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426810",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872632",
@@ -464,6 +480,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759306",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950497109",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950774522",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872633",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950834091",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595514",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595803",
@@ -483,6 +500,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833471",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833292",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833292",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873497",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457228",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659528",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950633765",
@@ -507,13 +525,23 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950567692",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802902",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839822",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801777",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801777"
+],
+"num_credits": 5,
+"module_name": "[IN2107] Advanced Seminar Course",
+"rule_node_names_by_levels": {
+"59": "Advanced Seminar Course"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803114",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950427883",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767204",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457082",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950343103",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950343103",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872932",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503435",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950499362",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950490968",
@@ -552,16 +580,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950374873",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837000",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367524",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841806"
-],
-"num_credits": 5,
-"module_name": "[IN2107] Advanced Seminar Course",
-"rule_node_names_by_levels": {
-"59": "Advanced Seminar Course"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841806",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841806",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950773964",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766894",
@@ -693,6 +712,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873459",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799877",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950339248",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873339",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799844",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833575",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950294222",
@@ -752,7 +772,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950381217",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950636979",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950381218",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950404932"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950404932",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873471"
 ],
 "num_credits": 5,
 "module_name": "[IN2107] Advanced Seminar Course",
@@ -926,6 +947,17 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798640"
+],
+"num_credits": 6,
+"module_name": "[IN2018] Augmented Reality",
+"rule_node_names_by_levels": {
+"59": "Elective Modules Informatics",
+"79": "Computer Graphics and Vision (CGV)"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950630602"
 ],
 "num_credits": 5,
@@ -1061,17 +1093,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950464594"
-],
-"num_credits": 6,
-"module_name": "[IN2354] 3D Scanning & Motion Capture",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Computer Graphics and Vision (CGV)"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950464594",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838259",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840043"
 ],
@@ -1598,7 +1620,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767860",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840893",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841795"
 ],
 "num_credits": 6,
@@ -1733,7 +1755,8 @@
 "module_name": "[CIT433021] Fundamentals of Foundation Models",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)"
+"79": "Machine Learning and Analytics (MLA)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1744,7 +1767,8 @@
 "module_name": "[IN2346] Introduction to Deep Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)"
+"79": "Machine Learning and Analytics (MLA)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1755,7 +1779,8 @@
 "module_name": "[IN2395] Legal Data Science and Informatics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)"
+"79": "Machine Learning and Analytics (MLA)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1767,7 +1792,8 @@
 "module_name": "[IN2064] Machine Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)"
+"79": "Machine Learning and Analytics (MLA)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1779,7 +1805,8 @@
 "module_name": "[IN2357] Machine Learning for Computer Vision",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)"
+"79": "Machine Learning and Analytics (MLA)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1790,7 +1817,8 @@
 "module_name": "[IN2323] Machine Learning for Graphs and Sequential Data",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)"
+"79": "Machine Learning and Analytics (MLA)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1801,7 +1829,8 @@
 "module_name": "[CIT423003] Multimodal Deep Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)"
+"79": "Machine Learning and Analytics (MLA)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1812,7 +1841,8 @@
 "module_name": "[IN2361] Natural Language Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Machine Learning and Analytics (MLA)"
+"79": "Machine Learning and Analytics (MLA)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1835,7 +1865,8 @@
 "module_name": "[IN2076] Advanced Computer Architecture",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1846,7 +1877,8 @@
 "module_name": "[IN2097] Advanced Computer Networking",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1857,7 +1889,8 @@
 "module_name": "[IN3450] Selected Topics in Computer Architecture, Computer Networks and Distributed Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1869,7 +1902,8 @@
 "module_name": "[IN2073] Cloud Computing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1880,7 +1914,8 @@
 "module_name": "[IN2324] Connected Mobility Basics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1891,7 +1926,8 @@
 "module_name": "[CIT4330013] Design Automation and Simulation for Microfluidic Devices",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1903,7 +1939,8 @@
 "module_name": "[IN2259] Distributed Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1914,7 +1951,8 @@
 "module_name": "[EI70630] HW/SW Codesign",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1925,7 +1963,8 @@
 "module_name": "[CIT433032] Logic Synthesis and Physical Design",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1936,7 +1975,8 @@
 "module_name": "[CIT433031] Machine Learning for Electronic Design Automation and Manufacturing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1947,7 +1987,8 @@
 "module_name": "[IN2333] Protocol Design",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1959,7 +2000,8 @@
 "module_name": "[IN2125] Virtualization Techniques",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)"
+"79": "Computer Architecture, Computer Networks and Distributed Systems (RRV)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1970,7 +2012,8 @@
 "module_name": "[CIT433034] Advanced Multi-Fingered Robotic Hands: Dextrous Manipulation and Learning AI",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -1983,18 +2026,20 @@
 "module_name": "[IN2376] Advanced Robot Control and Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832465"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877119"
 ],
 "num_credits": 5,
 "module_name": "[CIT433037] Advanced Robot Learning and Decision-Making",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2005,7 +2050,8 @@
 "module_name": "[IN2356] Autonomous Driving",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2016,7 +2062,8 @@
 "module_name": "[CIT436000] Legged Robots",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2027,7 +2074,8 @@
 "module_name": "[IN2222] Cognitive Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2038,7 +2086,8 @@
 "module_name": "[IN2305] Cyber-Physical Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2050,7 +2099,8 @@
 "module_name": "[IN2060] Real-Time Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2061,7 +2111,8 @@
 "module_name": "[IN2061] Introduction to Digital Signal Processing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2072,7 +2123,8 @@
 "module_name": "[IN2383] Formal Methods for Cyber-Physical Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2083,7 +2135,8 @@
 "module_name": "[IN2406] Fundamentals of Artificial Intelligence",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2095,7 +2148,8 @@
 "module_name": "[CIT433039] Intelligent Robots with a Sense of Smell",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2106,7 +2160,8 @@
 "module_name": "[CIT3330000] Introduction to Mobile Robotics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2118,7 +2173,8 @@
 "module_name": "[MW2411] Concepts and Software Design for Cyber-Physical Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2129,7 +2185,8 @@
 "module_name": "[IN2405] Neuroprosthetics: Artificial Limbs",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2141,7 +2198,8 @@
 "module_name": "[IN2308] Programming and Control for Human-Robot Interaction",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2152,7 +2210,8 @@
 "module_name": "[IN2138] Robot Motion Planning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2163,7 +2222,8 @@
 "module_name": "[IN2067] Robotics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2174,7 +2234,8 @@
 "module_name": "[IN2068] Sensor-based Robotic Manipulation and Locomotion",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2185,7 +2246,8 @@
 "module_name": "[CIT4330017] Trustworthy Machine Learning Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Robotics (ROB)"
+"79": "Robotics (ROB)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2208,7 +2270,8 @@
 "module_name": "[EI71070] Advanced Cryptographic Implementations",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2219,7 +2282,8 @@
 "module_name": "[CIT333000] Applied Cryptography for Decentralized Systems (ACDS)",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2230,7 +2294,8 @@
 "module_name": "[IN3470] Selected Topics in Security and Privacy",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2244,7 +2309,8 @@
 "module_name": "[EI70520] Circuit Design for Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2257,7 +2323,8 @@
 "module_name": "[CIT433040] Embedded Systems and Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2268,7 +2335,8 @@
 "module_name": "[IN2407] Hardware Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2279,7 +2347,8 @@
 "module_name": "[EI73451] Information Theoretic Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2290,7 +2359,8 @@
 "module_name": "[CIT4330009] IoT Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2301,7 +2371,8 @@
 "module_name": "[CIT3330002] IT Security 2",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2312,7 +2383,8 @@
 "module_name": "[CIT4330001] Machine Learning and IT-Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2323,7 +2395,8 @@
 "module_name": "[IN2101] Network Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2334,7 +2407,8 @@
 "module_name": "[IN2161] Networks for Monetary Transactions",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2346,7 +2420,8 @@
 "module_name": "[IN2194] Peer-to-Peer-Systems and Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2358,7 +2433,8 @@
 "module_name": "[EI71029] Physical Unclonable Functions",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2370,7 +2446,8 @@
 "module_name": "[EI71073] Quantum Computers and Quantum Secure Communications",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2381,7 +2458,8 @@
 "module_name": "[EI75671] Lecture Series System Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2392,7 +2470,8 @@
 "module_name": "[IN2178] Security Engineering",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2403,7 +2482,8 @@
 "module_name": "[EI71060] Security in Communications and Storage",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2415,7 +2495,8 @@
 "module_name": "[EI7243] Secure Implementation of Cryptographic Algorithms",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2426,7 +2507,8 @@
 "module_name": "[IN2362] Language-based Security",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Security and Privacy (SP)"
+"79": "Security and Privacy (SP)",
+"99": "Data Analytics - 1 out of 3"
 }
 },
 {
@@ -2535,7 +2617,8 @@
 "module_name": "[IN3480] Selected Topics in Scientific Computing and High Performance Computing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)"
+"79": "Scientific Computing and High Performance Computing (HPC)",
+"99": "Theory"
 }
 },
 {
@@ -2547,7 +2630,8 @@
 "module_name": "[IN2147] Parallel Programming",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)"
+"79": "Scientific Computing and High Performance Computing (HPC)",
+"99": "Theory"
 }
 },
 {
@@ -2559,7 +2643,8 @@
 "module_name": "[IN2365] Parallel Programming Systems",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)"
+"79": "Scientific Computing and High Performance Computing (HPC)",
+"99": "Theory"
 }
 },
 {
@@ -2571,7 +2656,8 @@
 "module_name": "[CIT423000] Scientific Computing and Machine Learning",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)"
+"79": "Scientific Computing and High Performance Computing (HPC)",
+"99": "Theory"
 }
 },
 {
@@ -2582,7 +2668,8 @@
 "module_name": "[CIT4330012] Software for Quantum Computing",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)"
+"79": "Scientific Computing and High Performance Computing (HPC)",
+"99": "Theory"
 }
 },
 {
@@ -3534,6 +3621,21 @@
 ],
 "num_credits": 3,
 "module_name": "[SZ0502] French A1.2",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Sprachmodule",
+"99": "Language Courses on Request",
+"119": "[SZ0003-05] French"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764718",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799449",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837214"
+],
+"num_credits": 3,
+"module_name": "[SZ0503] French A2.1",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
@@ -4734,7 +4836,19 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763970",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798704",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798704"
+],
+"num_credits": 3,
+"module_name": "[SZ1001] Swedish A1",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Sprachmodule",
+"99": "Language Courses on Request",
+"119": "[SZ0003-10] Schwedish"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837591"
 ],
 "num_credits": 3,
@@ -5137,7 +5251,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5150,7 +5264,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5163,7 +5277,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5176,7 +5290,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5191,7 +5305,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5211,12 +5325,14 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763552"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836881",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836946",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837524"
 ],
 "num_credits": 3,
 "module_name": "[ED0179] Technology, Nature and Society",
@@ -5224,21 +5340,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836946",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764250"
-],
-"num_credits": 5,
-"module_name": "[ED0218] Science and Technology Communication",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5252,20 +5354,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764250"
-],
-"num_credits": 4,
-"module_name": "[ED0312] Science and Technology Communication (for Lectureship)",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5278,7 +5367,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5291,7 +5380,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5304,7 +5393,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5317,7 +5406,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5331,7 +5420,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5344,7 +5433,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5357,7 +5446,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5370,7 +5459,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5383,7 +5472,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5396,7 +5485,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5410,7 +5499,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5423,7 +5512,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5436,7 +5525,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5449,7 +5538,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5463,7 +5552,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5476,7 +5565,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5489,7 +5578,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5503,7 +5592,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5517,7 +5606,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5530,7 +5619,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5543,7 +5632,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5557,7 +5646,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5573,7 +5662,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5587,7 +5676,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5600,7 +5689,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5614,12 +5703,12 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950804757"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950884493"
 ],
 "num_credits": 5,
 "module_name": "[SOT65201] Developing a Game Prototype. Reflecting Science, Technology and Society through Game Design",
@@ -5627,7 +5716,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5641,7 +5730,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5654,7 +5743,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5668,7 +5757,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5682,7 +5771,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5703,7 +5792,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5723,7 +5812,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5736,12 +5825,12 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950804757"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950884493"
 ],
 "num_credits": 3,
 "module_name": "[SOT63201] Game Jam. Reflecting Science, Technology and Society through Game Design",
@@ -5749,7 +5838,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5763,7 +5852,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5777,7 +5866,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5790,7 +5879,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5803,7 +5892,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5816,7 +5905,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5829,7 +5918,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5842,7 +5931,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5855,7 +5944,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5868,7 +5957,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5881,7 +5970,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5894,7 +5983,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5907,7 +5996,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5923,7 +6012,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5937,7 +6026,21 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727439",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799566"
+],
+"num_credits": 3,
+"module_name": "[CLA30420] Integration of Technology into Society",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
+"99": "Language Courses on Request",
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5950,7 +6053,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5964,7 +6067,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5977,7 +6080,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -5990,7 +6093,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6003,7 +6106,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6017,7 +6120,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6032,7 +6135,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6046,7 +6149,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6059,7 +6162,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6072,7 +6175,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6086,7 +6189,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6102,7 +6205,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6118,7 +6221,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6132,21 +6235,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874289",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837751"
-],
-"num_credits": 1,
-"module_name": "[CLA11207] Understanding Art 1: Art Reception infront of Originals in Museums in Munich",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6159,7 +6248,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6172,7 +6261,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6185,7 +6274,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6199,7 +6288,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6212,7 +6301,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6226,7 +6315,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6242,7 +6331,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6258,7 +6347,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6272,7 +6361,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6288,13 +6377,12 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793401",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805967",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841194",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950036768"
 ],
 "num_credits": 2,
@@ -6303,7 +6391,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6316,7 +6404,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6330,7 +6418,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6344,7 +6432,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6361,7 +6449,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6378,7 +6466,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6391,7 +6479,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6404,7 +6492,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6418,7 +6506,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6431,7 +6519,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6444,7 +6532,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6457,7 +6545,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6470,7 +6558,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6483,13 +6571,12 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765363",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793402"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841192"
 ],
 "num_credits": 2,
 "module_name": "[CLA21115] Philosophy of Human-Machine Interaction",
@@ -6497,7 +6584,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6510,7 +6597,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6529,7 +6616,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6542,7 +6629,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6556,7 +6643,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6569,7 +6656,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6584,7 +6671,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6597,7 +6684,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6610,13 +6697,12 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763550",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798320"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836879"
 ],
 "num_credits": 2,
 "module_name": "[CLA20817] Psychometric Diagnostics: The Human in Numbers",
@@ -6624,7 +6710,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6637,7 +6723,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6650,7 +6736,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6666,7 +6752,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6680,7 +6766,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6696,14 +6782,13 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950377788",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765585",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800221",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838761",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950182450",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840754",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950597742",
@@ -6744,7 +6829,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6757,7 +6842,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6770,7 +6855,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6783,7 +6868,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6798,7 +6883,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6811,7 +6896,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6824,7 +6909,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6837,7 +6922,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6850,7 +6935,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6865,7 +6950,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6878,7 +6963,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6891,7 +6976,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6904,7 +6989,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6918,7 +7003,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6931,7 +7016,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6945,7 +7030,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6958,7 +7043,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6971,7 +7056,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6985,7 +7070,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -6999,7 +7084,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7012,7 +7097,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7025,7 +7110,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7038,7 +7123,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7051,7 +7136,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7064,7 +7149,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7077,7 +7162,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7090,7 +7175,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7103,7 +7188,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7116,7 +7201,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7129,7 +7214,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7145,7 +7230,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7161,7 +7246,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7174,7 +7259,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7187,7 +7272,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7200,20 +7285,20 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950268484"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837524"
 ],
-"num_credits": 2,
-"module_name": "[CLA21118] How to Manage Science",
+"num_credits": 4,
+"module_name": "[ED0312] Science and Technology Communication at the Deutsches Museum",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7228,7 +7313,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7242,7 +7327,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7255,7 +7340,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7268,7 +7353,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7281,7 +7366,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7294,7 +7379,7 @@
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7307,13 +7392,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794049",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950844553"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877071"
 ],
 "num_credits": 3,
 "module_name": "[SOT53404] Academic Prompt Engineering and Management: a Reflexive Introduction",
@@ -7321,13 +7405,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794048",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950844554"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877072"
 ],
 "num_credits": 3,
 "module_name": "[SOT53405] Academic Prompt Engineering and Management: Responsible Use in Action",
@@ -7335,7 +7418,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7348,7 +7431,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7361,7 +7444,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7374,7 +7457,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7387,7 +7470,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7400,7 +7483,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7413,7 +7496,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7426,7 +7509,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7440,7 +7523,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7453,7 +7536,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7467,7 +7550,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7480,7 +7563,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7493,7 +7576,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7506,7 +7589,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7519,7 +7602,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7532,7 +7615,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7545,7 +7628,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7558,7 +7641,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7571,7 +7654,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7584,7 +7667,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7597,7 +7680,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7610,7 +7693,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7625,7 +7708,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7638,7 +7721,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7651,12 +7734,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950796558"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841398"
 ],
 "num_credits": 2,
 "module_name": "[SOT62403] Project Week: Creative Mind Change. A Creativity Workshop",
@@ -7664,7 +7747,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7677,7 +7760,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7690,7 +7773,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7703,7 +7786,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7716,7 +7799,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7730,12 +7813,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950804543"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840937"
 ],
 "num_credits": 6,
 "module_name": "[ED120118] Project Week: New Technologies for Design Research",
@@ -7743,7 +7826,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7757,7 +7840,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7770,7 +7853,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7783,13 +7866,13 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793359",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793397"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841243",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842123"
 ],
 "num_credits": 2,
 "module_name": "[SOT10082] Project Weeks: Data Design Studio for AI-Powered EdTech",
@@ -7797,12 +7880,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793367"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841142"
 ],
 "num_credits": 5,
 "module_name": "[SOT10083] Project Weeks: Decision Education",
@@ -7810,7 +7893,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7823,12 +7906,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793335"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842307"
 ],
 "num_credits": 5,
 "module_name": "[SOT10081] Project Weeks: Communicating Curiosity - A Science Outreach Pop-Up Exhibition",
@@ -7836,7 +7919,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7852,7 +7935,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7865,7 +7948,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Project Weeks",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7878,12 +7961,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950797092"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841083"
 ],
 "num_credits": 6,
 "module_name": "[SOT10057] Psychology of Learning and Instructional Design of AI-based Systems",
@@ -7891,12 +7974,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803205"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875726"
 ],
 "num_credits": 3,
 "module_name": "[SOT10069] Introduction to Psychology and Human Behavior",
@@ -7904,7 +7987,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7917,7 +8000,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7930,7 +8013,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7943,7 +8026,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7957,7 +8040,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7970,7 +8053,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7983,7 +8066,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -7997,7 +8080,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8010,7 +8093,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8023,7 +8106,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8037,7 +8120,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8050,13 +8133,14 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805663",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805662"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805662",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872167"
 ],
 "num_credits": 6,
 "module_name": "[SOT46401] Data Ethics and Governance",
@@ -8064,7 +8148,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8077,7 +8161,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8091,7 +8175,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8104,7 +8188,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8117,7 +8201,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8130,7 +8214,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8143,7 +8227,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8156,7 +8240,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8169,7 +8253,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8182,7 +8266,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8195,7 +8279,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8208,7 +8292,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8221,7 +8305,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8235,7 +8319,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8249,7 +8333,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8262,7 +8346,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8275,7 +8359,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8289,7 +8373,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8302,7 +8386,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8316,7 +8400,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8330,7 +8414,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8343,7 +8427,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8356,7 +8440,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8369,7 +8453,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8383,7 +8467,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8397,7 +8481,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8410,13 +8494,13 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805472",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805474"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841005",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842395"
 ],
 "num_credits": 6,
 "module_name": "[SOT86076] Open Data - Open Science",
@@ -8424,12 +8508,12 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805472"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841005"
 ],
 "num_credits": 3,
 "module_name": "[SOT53406] Open Data - Open Science (Introduction)",
@@ -8437,7 +8521,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8450,7 +8534,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8464,7 +8548,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8478,7 +8562,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8491,7 +8575,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8505,7 +8589,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8519,7 +8603,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8532,7 +8616,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8545,7 +8629,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8559,7 +8643,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8572,7 +8656,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8585,7 +8669,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8599,7 +8683,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8612,7 +8696,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8625,7 +8709,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8639,7 +8723,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8652,7 +8736,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8665,7 +8749,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8678,7 +8762,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8691,7 +8775,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8704,7 +8788,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8718,7 +8802,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8732,7 +8816,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8745,7 +8829,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8758,7 +8842,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8771,7 +8855,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8784,7 +8868,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8797,7 +8881,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 },
 {
@@ -8810,7 +8894,7 @@
 "59": "Support Electives",
 "79": "Further Support Electives",
 "99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"119": "[SZ0003-10] Schwedish"
 }
 }
 ]

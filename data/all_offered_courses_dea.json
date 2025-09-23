@@ -30050,6 +30050,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "Technology, Nature, and Society",
+"id": 950836881,
+"oldestRelatedCourseId": 950010706
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS25/26",
@@ -30614,6 +30626,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "Machine Learning and Optimization",
+"id": 950839125,
+"oldestRelatedCourseId": 950467195
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS25/26",
@@ -30728,7 +30752,7 @@
 "semesterDto": {
 "id": 205
 },
-"title": "Lecture Series Environment (t.b.a.)",
+"title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
 "id": 950840061,
 "oldestRelatedCourseId": 950294404
 },
@@ -30836,6 +30860,18 @@
 "semesterDto": {
 "id": 205
 },
+"title": "TUM Data Innovation Lab [MA8113], [CIT\u202f413067]",
+"id": 950840627,
+"oldestRelatedCourseId": 950322906
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
 "title": "Linear Algebra 1 [MA0004]",
 "id": 950840643,
 "oldestRelatedCourseId": 950466825
@@ -30872,6 +30908,30 @@
 "semesterDto": {
 "id": 205
 },
+"title": "Introduction to Open Data - Open Science",
+"id": 950841005,
+"oldestRelatedCourseId": 950805472
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "Psychology of Learning and Instructional Design of AI-based systems",
+"id": 950841083,
+"oldestRelatedCourseId": 950797092
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
 "title": "Foundations and Application of Generative AI (CITHN2014)",
 "id": 950841084,
 "oldestRelatedCourseId": 950804346
@@ -30887,6 +30947,18 @@
 "title": "Trustworthy Machine Learning Systems (CIT4330017)",
 "id": 950841232,
 "oldestRelatedCourseId": 950726513
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "ProjectWeeks: Data Design Studio for AI-Powered EdTech",
+"id": 950841243,
+"oldestRelatedCourseId": 950793359
 },
 {
 "courseTypeDto": {
@@ -31244,6 +31316,18 @@
 "semesterDto": {
 "id": 205
 },
+"title": "Introduction to Psychology and Human Behavior",
+"id": 950875726,
+"oldestRelatedCourseId": 950759626
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
 "title": "Agentic AI in Business Administration (CIT633000)",
 "id": 950875813,
 "oldestRelatedCourseId": 950875813
@@ -31283,6 +31367,30 @@
 "title": "Trustworthy Distributed Learning",
 "id": 950876667,
 "oldestRelatedCourseId": 950876667
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "Academic Prompt Engineering and Management: a Reflexive Introduction",
+"id": 950877071,
+"oldestRelatedCourseId": 950844553
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "Advanced Robot Learning and Decision-Making\t",
+"id": 950877119,
+"oldestRelatedCourseId": 950832465
 },
 {
 "courseTypeDto": {
