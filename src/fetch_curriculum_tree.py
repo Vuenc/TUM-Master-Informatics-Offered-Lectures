@@ -137,7 +137,7 @@ def prepare_driver(curriculum: Curriculum, gecko_driver_path: str):
     time.sleep(5)
     driver.find_element(By.XPATH, f"//button[@title='Sprache Englisch']").click()
 
-    atexit.register(lambda: driver.close()) # pyright: ignore[reportOptionalMemberAccess]
+    atexit.register(lambda: driver.close() if driver is not None else ())
 
 def get_page1_url_and_num_pages(curriculum):
     global driver
@@ -169,6 +169,7 @@ def main():
     gecko_driver_path = GeckoDriverManager().install()
     print("Installed Firefox Gecko driver to", gecko_driver_path)
 
+    thread_pool = None
     try:
         thread_pool = Pool(args.parallel_drivers, initializer=prepare_driver, initargs=(curriculum, gecko_driver_path))
         time.sleep(4)
@@ -176,8 +177,8 @@ def main():
         results = tqdm.tqdm(thread_pool.imap(fetch_curriculum_course_infos,
                         list(zip(range(1, num_pages+1), [page1_url]*num_pages))), desc="Pages")
     finally:
-        if "thread_pool" in locals(): 
-            thread_pool.close() # pyright: ignore[reportPossiblyUnboundVariable]
+        if thread_pool is not None:
+            thread_pool.close()
 
     # The first course nodes on page n+1 can belong to the last module node on page n (or even n-1, etc. if the module node has enough entries).
     # Loop through all pages and set the module node of entries without module node that are at the page start to the previous page's last module node. 
