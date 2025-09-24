@@ -16,9 +16,6 @@ import time
 from multiprocessing import Pool
 import atexit
 
-gecko_driver_path = GeckoDriverManager().install()
-print("Installed Firefox Gecko driver to", gecko_driver_path)
-
 def click_button(driver, button):
     driver.execute_script("arguments[0].click()", button)
 
@@ -118,7 +115,7 @@ def wait_until_not_loading(driver):
         expected_conditions.invisibility_of_element_located((By.ID, "id-loader"))
     )
 
-def prepare_driver(curriculum: Curriculum):
+def prepare_driver(curriculum: Curriculum, gecko_driver_path: str):
     global driver
     # Start a headless Firefox instance
     options = webdriver.FirefoxOptions()
@@ -140,7 +137,7 @@ def prepare_driver(curriculum: Curriculum):
     time.sleep(5)
     driver.find_element(By.XPATH, f"//button[@title='Sprache Englisch']").click()
 
-    atexit.register(lambda: driver.close())
+    atexit.register(lambda: driver.close() if driver is not None else ())
 
 def get_page1_url_and_num_pages(curriculum):
     global driver
@@ -169,15 +166,19 @@ def main():
     args = parser.parse_args()
     curriculum = curriculums[args.curriculum]
 
+    gecko_driver_path = GeckoDriverManager().install()
+    print("Installed Firefox Gecko driver to", gecko_driver_path)
+
+    thread_pool = None
     try:
-        thread_pool = Pool(args.parallel_drivers, initializer=prepare_driver, initargs=(curriculum,))
+        thread_pool = Pool(args.parallel_drivers, initializer=prepare_driver, initargs=(curriculum, gecko_driver_path))
         time.sleep(4)
         [(page1_url, num_pages)] = thread_pool.map(get_page1_url_and_num_pages, [curriculum])
         results = tqdm.tqdm(thread_pool.imap(fetch_curriculum_course_infos,
                         list(zip(range(1, num_pages+1), [page1_url]*num_pages))), desc="Pages")
     finally:
-        thread_pool.close()
-        pass
+        if thread_pool is not None:
+            thread_pool.close()
 
     # The first course nodes on page n+1 can belong to the last module node on page n (or even n-1, etc. if the module node has enough entries).
     # Loop through all pages and set the module node of entries without module node that are at the page start to the previous page's last module node. 
