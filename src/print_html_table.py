@@ -111,7 +111,7 @@ RARE_NEW_COURSES_EXPLANATION = """
 construct_header = lambda with_rare_and_new_courses: f"""
 <div style="text-align: justify;">
 <p>
-    This is a list of elective modules grouped by area with availability data, which as far as I know is not provided by TUM elsewhere in a convenient format. I hope it will be helpful to you!
+    This is a list of lectures grouped by area with availability data, which as far as I know is not provided by TUM elsewhere in a convenient format. I hope it will be helpful to you!
 </p>
 {RARE_NEW_COURSES_EXPLANATION if with_rare_and_new_courses else ""}
 
