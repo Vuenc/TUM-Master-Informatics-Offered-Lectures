@@ -4,7 +4,6 @@ import argparse
 from collections import defaultdict
 from dataclasses import dataclass
 import json
-import minify_html
 from typing import List
 from curriculums import curriculums
 import util
@@ -296,14 +295,8 @@ def main():
     output_html += "</body>"
     output_html += "</html>"
 
-    minified_html = minify_html.minify(
-        output_html,
-        minify_css=True,
-        minify_js=True,
-        keep_html_and_head_opening_tags=True,
-    )
     with open(args.output, "w") as file:
-        file.write(minified_html)
+        file.write(output_html)
     print("Wrote table to file", args.output)
 
 if __name__ == "__main__":
