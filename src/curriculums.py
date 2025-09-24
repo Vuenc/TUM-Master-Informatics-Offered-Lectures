@@ -25,8 +25,11 @@ def extract_area_informatics_bachelor(curriculum_path: List[str]) -> str | None:
         "Support Electives"
     ]:
         return curriculum_path[0]
-    if len(curriculum_path) >= 2 and curriculum_path[0] in ["Elective Modules", "Application Area"]:
-        return curriculum_path[1]
+    if len(curriculum_path) >= 2:
+        if curriculum_path[0] == "Elective Modules":
+            return f"Elective: {curriculum_path[1]}"
+        if curriculum_path[0] == "Application Area":
+            return curriculum_path[1]
     return None
 
 def extract_area_dea(curriculum_path: List[str]) -> str | None:
