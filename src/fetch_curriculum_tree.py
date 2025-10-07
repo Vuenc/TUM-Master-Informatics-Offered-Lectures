@@ -53,9 +53,9 @@ class CourseCurriculumInformation:
     urls: List[str]
     num_credits: int | None
     module_name: str | None
-    rule_node_names_by_levels: Dict[int, str]
+    rule_node_names_by_levels: Dict[int, str | None]
 
-def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[CourseCurriculumInformation], int | None, str | None, Dict[int, str]]:
+def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[CourseCurriculumInformation], int | None, str | None, Dict[int, str | None]]:
     """
     Returns a list associating course links to their number of credits, as well as the Credits of the last
     entry on the page (since that might carry over to the next page), and the module name of the last entry (same here).
@@ -74,7 +74,7 @@ def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[Course
     current_course = None
     course_infos: List[CourseCurriculumInformation] = []
     # Rule nodes correspond to groups (electives group, subject areas, "Theory", and similar)
-    current_rule_node_names_by_levels = {} 
+    current_rule_node_names_by_levels: Dict[int, str | None] = {}
 
     # By sequentially going through the results, we can associate course links to their amount of credits.
     for element in driver.find_elements(By.XPATH, module_or_course_link_selector):
@@ -86,8 +86,7 @@ def extract_courses_with_credits(driver: webdriver.Firefox) -> Tuple[List[Course
                 current_rule_node_names_by_levels[element.location["x"]] = element.text
             else:
                 # reset rule node name at that level (so previous rule nodes don't stay active)
-                if element.location["x"] in current_rule_node_names_by_levels:
-                    del current_rule_node_names_by_levels[element.location["x"]]
+                current_rule_node_names_by_levels[element.location["x"]] = None
         elif element.tag_name == "tr": # Module node row
             current_module_name = element.find_element(By.XPATH, "td[1]//span//span").text
             credits_elements = element.find_elements(By.XPATH, "td[4]//span")
@@ -184,7 +183,7 @@ def main():
     # Loop through all pages and set the module node of entries without module node that are at the page start to the previous page's last module node. 
     last_credits_on_previous_page = None
     last_module_name_on_previous_page = None
-    last_rule_node_names_by_levels_on_previous_page = {}
+    last_rule_node_names_by_levels_on_previous_page: Dict[int, str | None] = {}
     all_curriculum_course_infos = []
     for (curriculum_course_infos, last_credits_on_page, 
          last_module_name_on_page, last_rule_node_names_by_levels) in results:
@@ -196,6 +195,7 @@ def main():
             course_info.module_name = last_module_name_on_previous_page
         for course_info in curriculum_course_infos:
             course_info.rule_node_names_by_levels = {**last_rule_node_names_by_levels_on_previous_page, **course_info.rule_node_names_by_levels}
+            course_info.rule_node_names_by_levels = {key: value for key, value in course_info.rule_node_names_by_levels.items() if value is not None}
         
         last_module_name_on_previous_page = last_module_name_on_page or last_module_name_on_previous_page
         last_credits_on_previous_page = last_credits_on_page or last_credits_on_previous_page
@@ -210,7 +210,7 @@ def main():
 
     return all_curriculum_course_infos
 
-def fetch_curriculum_course_infos(page_and_page1_url: Tuple[int, str]) -> Tuple[List[CourseCurriculumInformation], int | None, str | None, Dict[int, str]]:
+def fetch_curriculum_course_infos(page_and_page1_url: Tuple[int, str]) -> Tuple[List[CourseCurriculumInformation], int | None, str | None, Dict[int, str | None]]:
     """
     Algorithm:
     - go to curriculum page
