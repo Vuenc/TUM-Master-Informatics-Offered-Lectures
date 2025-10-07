@@ -1,0 +1,4 @@
+{% macro indented_include(template_name, indent_width, first=False, blank=False) %}
+{% set included_content %}{% include template_name %}{% endset %}
+{{ included_content | indent(width=indent_width, first=first, blank=blank) }}
+{% endmacro %}
