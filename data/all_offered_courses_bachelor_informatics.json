@@ -62204,6 +62204,18 @@
 "semesterDto": {
 "id": 205
 },
+"title": "Cell Biology",
+"id": 950836405,
+"oldestRelatedCourseId": 950002649
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
 "title": "Industrial Plants",
 "id": 950836434,
 "oldestRelatedCourseId": 1672025
@@ -62255,6 +62267,18 @@
 "title": "Introductory Genetics",
 "id": 950836482,
 "oldestRelatedCourseId": 950006426
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "Economics I (Microeconomics) (WI000021) at Campus Straubing",
+"id": 950836498,
+"oldestRelatedCourseId": 950003374
 },
 {
 "courseTypeDto": {
@@ -62612,6 +62636,18 @@
 "semesterDto": {
 "id": 205
 },
+"title": "Lecture Architectural Design and Construction - Basics",
+"id": 950837007,
+"oldestRelatedCourseId": 950005514
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
 "title": "Image Synthesis - Realtime-Techniques and global Illumination (IN2015)",
 "id": 950837012,
 "oldestRelatedCourseId": 240979051
@@ -62924,6 +62960,18 @@
 "semesterDto": {
 "id": 205
 },
+"title": "Biomathematics",
+"id": 950837200,
+"oldestRelatedCourseId": 950005796
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
 "title": "Urban Design (city happens)",
 "id": 950837224,
 "oldestRelatedCourseId": 950030002
@@ -63008,9 +63056,33 @@
 "semesterDto": {
 "id": 205
 },
+"title": "Information Systems and Decision Support",
+"id": 950837450,
+"oldestRelatedCourseId": 950025851
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
 "title": "Theoretical Physics 4A (Statistical Mechanics and Thermodynamics)",
 "id": 950837464,
 "oldestRelatedCourseId": 950010140
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "Biochemistry 1: Fundamentals of Biochemistry",
+"id": 950837496,
+"oldestRelatedCourseId": 950002643
 },
 {
 "courseTypeDto": {
@@ -63278,18 +63350,6 @@
 },
 {
 "courseTypeDto": {
-"key": "VI"
-},
-"termName": "WS25/26",
-"semesterDto": {
-"id": 205
-},
-"title": "Computational Creativity",
-"id": 950838252,
-"oldestRelatedCourseId": 950288113
-},
-{
-"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS25/26",
@@ -63443,6 +63503,18 @@
 "title": "Introduction to Data Protection Law (IN9050)",
 "id": 950839535,
 "oldestRelatedCourseId": 950574290
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS25/26",
+"semesterDto": {
+"id": 205
+},
+"title": "Introduction to Bioengineering",
+"id": 950839627,
+"oldestRelatedCourseId": 950409637
 },
 {
 "courseTypeDto": {

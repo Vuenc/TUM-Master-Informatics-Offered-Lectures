@@ -54,6 +54,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841135",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841134",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841133",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873527",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841466",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833308",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765438",
@@ -143,9 +144,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793218",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950318488",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950345294",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457195",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872256",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950774220"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457195"
 ],
 "num_credits": 10,
 "module_name": "[IN0012] Bachelor Practical Course",
@@ -155,6 +154,8 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872256",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950774220",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367661",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950395697",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426316",
@@ -203,14 +204,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950733513",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950772672",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803380",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627002",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802545",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503465",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766737",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874183",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950319844",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872765",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840784"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627002"
 ],
 "num_credits": 5,
 "module_name": "[IN0014] Advanced Seminar Course",
@@ -220,6 +214,13 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802545",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503465",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766737",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874183",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950319844",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872765",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840784",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950701292",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526157",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950497019",
@@ -231,10 +232,13 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801844",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841276",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833568",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873240",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950632459",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667294",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768482",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950660823",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841662",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873402",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595743",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873467",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759211",
@@ -304,6 +308,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950338902",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950563528",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837146",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873188",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950769226",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950668178",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950290993",
@@ -377,6 +382,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768919",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802982",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950292364",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874309",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950532680",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833057",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950499029",
@@ -394,7 +400,6 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950432397",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396227",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503160",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839328",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800728",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950497303",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627102",
@@ -656,6 +661,17 @@
 ],
 "num_credits": 8,
 "module_name": "[MA0901] Linear Algebra for Informatics",
+"rule_node_names_by_levels": {
+"59": "Required Modules Mathematics"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836617",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836190"
+],
+"num_credits": 8,
+"module_name": "[MA0902] Analysis for Informatics",
 "rule_node_names_by_levels": {
 "59": "Required Modules Mathematics"
 }
@@ -1009,8 +1025,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837133",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950290267"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837133"
 ],
 "num_credits": 5,
 "module_name": "[IN2081] Patterns in Software Engineering",
@@ -1021,8 +1036,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798548",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950352288"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798548"
 ],
 "num_credits": 5,
 "module_name": "[IN2084] Advanced Topics of Software Testing",
@@ -1618,17 +1632,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950731607"
-],
-"num_credits": 6,
-"module_name": "[IN2371] Fundamentals of Human-Centered Robotics",
-"rule_node_names_by_levels": {
-"59": "Elective Modules",
-"79": "Human Centered Engineering"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950731607",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950731606",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950732374"
 ],
@@ -2632,19 +2636,6 @@
 ],
 "num_credits": 3,
 "module_name": "[SZ1304] Hebrew A1.1",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-13] Hebrew"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838006"
-],
-"num_credits": 3,
-"module_name": "[SZ1305] Hebrew A1.2",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Sprachmodule",
@@ -3863,20 +3854,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950569826",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950604719"
-],
-"num_credits": 3,
-"module_name": "[SZ1228] Spanish B2 - Spanish in Science and Technology",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950661481"
 ],
 "num_credits": 3,
@@ -4037,28 +4014,12 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836308"
-],
-"num_credits": null,
-"module_name": "[IN9981] Accepted Support Elective from aboad",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Anerkennungen",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838138"
 ],
 "num_credits": 6,
 "module_name": "[CIT6330002] Advisor Training",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4068,10 +4029,7 @@
 "num_credits": 5,
 "module_name": "[CIT6330001] Advisor Tutorium",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4081,10 +4039,7 @@
 "num_credits": 2,
 "module_name": "[CIT323002] AI Governance",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4094,10 +4049,7 @@
 "num_credits": 6,
 "module_name": "[WI001284] Behavioral Economics meets real world challenges: An interdisciplinary project rally",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4107,10 +4059,7 @@
 "num_credits": 6,
 "module_name": "[WI100180] Business Plan - Advanced Course (Business Models, Sales and Finance)",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4120,10 +4069,7 @@
 "num_credits": 6,
 "module_name": "[MGT001379] Competition, Data, Platforms and the Law",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4133,10 +4079,7 @@
 "num_credits": 4,
 "module_name": "[IN9044] Data Privacy",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4146,10 +4089,7 @@
 "num_credits": 6,
 "module_name": "[POL25104] Data Protection Law",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4159,10 +4099,7 @@
 "num_credits": 6,
 "module_name": "[SOT82521] Debate Course with Media Law Content",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4172,10 +4109,7 @@
 "num_credits": 3,
 "module_name": "[SOT82506] The Judge and his Hacker",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4185,10 +4119,7 @@
 "num_credits": 6,
 "module_name": "[SOT82533] Lawful Hacking",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4198,10 +4129,7 @@
 "num_credits": 4,
 "module_name": "[IN9028] Pedagogical Training in Didactics for Tutors",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4211,10 +4139,7 @@
 "num_credits": 5,
 "module_name": "[IN9050] Introduction to Data Protection Law",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4224,10 +4149,7 @@
 "num_credits": 2,
 "module_name": "[IN9006] Entrepreneurship for Small Software-oriented Enterprises",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4237,10 +4159,7 @@
 "num_credits": 3,
 "module_name": "[SOT87317] Ethics in Artificial Intelligence",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4250,10 +4169,7 @@
 "num_credits": 4,
 "module_name": "[IN9017] Entrepreneurship",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4263,10 +4179,7 @@
 "num_credits": 6,
 "module_name": "[SOT86051] Explainable AI -- A Comprehensive Seminar on Transparent and Ethical AI",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4276,10 +4189,7 @@
 "num_credits": 6,
 "module_name": "[SOT82840] Governing Innovative Technologies (BSc.) - Cloud",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4290,10 +4200,7 @@
 "num_credits": 6,
 "module_name": "[IN9048] Innovation Generation in the Healthcare Domain",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4303,10 +4210,7 @@
 "num_credits": 3,
 "module_name": "[WI000285] Innovative Entrepreneurs - Leadership of High-Tech Companies",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4317,10 +4221,7 @@
 "num_credits": 5,
 "module_name": "[IN9046] IT Law in Public Administrations: E-Government Act, IT Security and Procurement",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4331,10 +4232,7 @@
 "num_credits": 3,
 "module_name": "[CLA30267] Communication and Presentation",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Sprachmodule",
-"99": "Language Courses on Request",
-"119": "[SZ0003-12] Spanish"
+"59": "Support Electives"
 }
 },
 {
@@ -4690,6 +4588,7 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876495",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950635229",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667513"
 ],
@@ -4958,7 +4857,19 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950070456",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950093513",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950093513"
+],
+"num_credits": 1,
+"module_name": "[CLA10234] Human Rights Today",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
+"99": "[SOT60304] Ethical & Social Issues",
+"119": "[SOT603041] 1 Credit Modules"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837917",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764667",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799403"
@@ -5166,6 +5077,19 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950885314"
+],
+"num_credits": 3,
+"module_name": "[SOT53504] Responsible Quantum Computing",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
+"99": "[SOT60304] Ethical & Social Issues",
+"119": "[SOT603043] 3 Credits Modules"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875771"
 ],
 "num_credits": 3,
@@ -5210,6 +5134,19 @@
 ],
 "num_credits": 2,
 "module_name": "[CLA20701] Art in Motion. Training for Excellence",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
+"99": "[SOT60305] Arts & Culture",
+"119": "[SOT603052] 2 Credits Modules"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875281"
+],
+"num_credits": 2,
+"module_name": "[SOT62501] Stories and Histories. Experience Literature in Its Historical Context.",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
@@ -5290,6 +5227,19 @@
 "79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
 "99": "[SOT60305] Arts & Culture",
 "119": "[SOT603052] 2 Credits Modules"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877165"
+],
+"num_credits": 3,
+"module_name": "[SOT63502] Arts & Technology. A Practice-oriented Introduction to Applied Cultural Studies",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
+"99": "[SOT60305] Arts & Culture",
+"119": "[SOT603053] 3 Credits Modules"
 }
 },
 {
@@ -5409,6 +5359,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875532",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950144269",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839456",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872179",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837752",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950569956",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950604860",
@@ -5521,8 +5472,6 @@
 "module_name": "[SOT82522] Crises, Catastrophies and Exceptional Situations in Law",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
 "119": "[SOT603063] 3 Credits Modules"
 }
 },
@@ -5534,8 +5483,6 @@
 "module_name": "[CIT6230000] Learning through Teaching: Programming Courses at Schools",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
 "119": "[SOT603063] 3 Credits Modules"
 }
 },
@@ -5547,8 +5494,6 @@
 "module_name": "[SOT82530] Media Law and Social Media",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
 "119": "[SOT603063] 3 Credits Modules"
 }
 },
@@ -5560,8 +5505,6 @@
 "module_name": "[IN9038] Medical Technology Entrepreneurship",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
 "119": "[SOT603063] 3 Credits Modules"
 }
 },
@@ -5574,8 +5517,6 @@
 "module_name": "[POL00011] Politics for Rocket Scientists: An Introduction to Political Science for Non-Political Scientists",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
 "119": "[SOT603063] 3 Credits Modules"
 }
 },
@@ -5588,8 +5529,6 @@
 "module_name": "[SOT82534] Practical Seminar Legal Tech Special",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
 "119": "[SOT603063] 3 Credits Modules"
 }
 },
@@ -5601,8 +5540,6 @@
 "module_name": "[WI001056_1] Principles of Economics",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
 "119": "[SOT603063] 3 Credits Modules"
 }
 },
@@ -5616,8 +5553,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "AI & Digitization",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "AI & Digitization"
 }
 },
 {
@@ -5629,8 +5565,19 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "AI & Digitization",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849037"
+],
+"num_credits": 6,
+"module_name": "[SOT10133] Project Weeks: Towards Inclusive AI Cultural-Companion: Pepper",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "AI & Digitization"
 }
 },
 {
@@ -5644,8 +5591,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "AI & Digitization",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "AI & Digitization"
 }
 },
 {
@@ -5657,8 +5603,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "AI & Digitization",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "AI & Digitization"
 }
 },
 {
@@ -5670,8 +5615,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "AI & Digitization",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "AI & Digitization"
 }
 },
 {
@@ -5683,22 +5627,43 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "AI & Digitization",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "AI & Digitization"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950869393",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768645"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950869393"
 ],
 "num_credits": 3,
 "module_name": "[MGT001480] Project Week: GovTech Innovation Lab: Escape the Bureaucratic Jungle",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "AI & Digitization",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876297"
+],
+"num_credits": 6,
+"module_name": "[CIT623000] Projektwoche: Responsible, Sustainable and Inclusive Digital Product Creation",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875487"
+],
+"num_credits": 3,
+"module_name": "[CIT643002] 1.000+ Project week",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "AI & Digitization"
 }
 },
 {
@@ -5710,8 +5675,19 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Creativity & Design",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Creativity & Design"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849219"
+],
+"num_credits": 5,
+"module_name": "[ED170020] Additive Manufacturing for Sustainability",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "Creativity & Design"
 }
 },
 {
@@ -5723,8 +5699,19 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Creativity & Design",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Creativity & Design"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849495"
+],
+"num_credits": 4,
+"module_name": "[ED170021] Practical Course: Fundamentals of Advanced Design Methods for Additive Manufacturing",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "Creativity & Design"
 }
 },
 {
@@ -5736,8 +5723,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Creativity & Design",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Creativity & Design"
 }
 },
 {
@@ -5749,8 +5735,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Creativity & Design",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Creativity & Design"
 }
 },
 {
@@ -5762,8 +5747,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Creativity & Design",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Creativity & Design"
 }
 },
 {
@@ -5775,8 +5759,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Creativity & Design",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Creativity & Design"
 }
 },
 {
@@ -5788,8 +5771,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Creativity & Design",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Creativity & Design"
 }
 },
 {
@@ -5801,8 +5783,19 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Creativity & Design",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Creativity & Design"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841897"
+],
+"num_credits": 6,
+"module_name": "[MGT001435] Impact Entrepreneurship for Transformational Change",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "Entrepreneurship & Innovation"
 }
 },
 {
@@ -5814,8 +5807,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Entrepreneurship & Innovation",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Entrepreneurship & Innovation"
 }
 },
 {
@@ -5827,8 +5819,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Entrepreneurship & Innovation",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Entrepreneurship & Innovation"
 }
 },
 {
@@ -5840,8 +5831,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Medicine & Health",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Medicine & Health"
 }
 },
 {
@@ -5853,8 +5843,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Medicine & Health",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Medicine & Health"
 }
 },
 {
@@ -5867,8 +5856,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Medicine & Health",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Medicine & Health"
 }
 },
 {
@@ -5880,8 +5868,19 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Medicine & Health",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Medicine & Health"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876217"
+],
+"num_credits": 3,
+"module_name": "[SOT10138] Project Weeks: Media World and Media Use",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "Society & Communications"
 }
 },
 {
@@ -5889,12 +5888,11 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873992"
 ],
 "num_credits": 6,
-"module_name": "[MGT001482] Strengthening resilience, living diversity, promoting movement: Creative concepts for an inclusive and economically sustainable full day",
+"module_name": "[MGT001482] Project Week: Strengthening resilience, embracing diversity: Business and educational perspectives for an active, inclusive, and sustainable full school day",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Society & Communications",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Society & Communications"
 }
 },
 {
@@ -5906,8 +5904,31 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Sustainability & Transformation",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Sustainability & Transformation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849615"
+],
+"num_credits": 3,
+"module_name": "[ED130115] Particle Based Methods in Engineering",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "Sustainability & Transformation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950848865"
+],
+"num_credits": 6,
+"module_name": "[ED150053] Planning for Mobility Justice",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Projektwochen",
+"99": "Sustainability & Transformation"
 }
 },
 {
@@ -5919,8 +5940,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Sustainability & Transformation",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Sustainability & Transformation"
 }
 },
 {
@@ -5932,8 +5952,7 @@
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Projektwochen",
-"99": "Sustainability & Transformation",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Sustainability & Transformation"
 }
 },
 {
@@ -5943,10 +5962,7 @@
 "num_credits": 3,
 "module_name": "[SOT82410] Legal framework for start-ups",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -5957,10 +5973,7 @@
 "num_credits": 6,
 "module_name": "[SOT82531] Legal Principles of Artificial Intelligence",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -5970,10 +5983,7 @@
 "num_credits": 6,
 "module_name": "[SOT82519] Legal Issues of the Use of Artificial Intelligence",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -5983,10 +5993,7 @@
 "num_credits": 3,
 "module_name": "[CIT3640001] Sanit\u00e4tsausbildung",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -5996,10 +6003,7 @@
 "num_credits": 4,
 "module_name": "[IN9011] Seminar: Project Management",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -6010,10 +6014,7 @@
 "num_credits": 4,
 "module_name": "[IN9010] Seminar: Science and Ethics",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -6023,10 +6024,7 @@
 "num_credits": 4,
 "module_name": "[IN9009] Leading Yourself and Others",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -6037,10 +6035,7 @@
 "num_credits": 3,
 "module_name": "[EI04015] Stage Coaching for Engineers and Scientists",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -6050,10 +6045,7 @@
 "num_credits": 6,
 "module_name": "[WI001292] Start-ups and unicorns coming up",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -6063,10 +6055,7 @@
 "num_credits": 3,
 "module_name": "[AR30382] Fast Track Design Methods",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -6076,10 +6065,7 @@
 "num_credits": 5,
 "module_name": "[IN9049] Technology and Law",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -6089,10 +6075,7 @@
 "num_credits": 9,
 "module_name": "[CIT622000] Trendseminar CDTM",
 "rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
+"59": "Support Electives"
 }
 },
 {
@@ -6104,8 +6087,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Electrical Engineering",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -6118,8 +6100,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Electrical Engineering",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -6132,8 +6113,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Electrical Engineering",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -6365,8 +6345,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838252",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840015"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765031",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766953"
 ],
 "num_credits": 6,
 "module_name": "[EI04001] Computational Creativity",
@@ -6540,8 +6520,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -6558,8 +6537,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -6573,8 +6551,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -6587,8 +6564,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6601,8 +6577,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6615,8 +6590,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6629,8 +6603,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6643,8 +6616,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6660,8 +6632,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mechanical Engineering",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6674,8 +6645,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Required Module",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Module"
 }
 },
 {
@@ -6689,8 +6659,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6703,8 +6672,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6717,8 +6685,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6731,8 +6698,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6745,8 +6711,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6759,8 +6724,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6774,8 +6738,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6788,8 +6751,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6803,8 +6765,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6817,8 +6778,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6831,8 +6791,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6846,8 +6805,21 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800552",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803688",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801863"
+],
+"num_credits": 9,
+"module_name": "[MA2012] Introduction to Optimization",
+"rule_node_names_by_levels": {
+"59": "Application Area",
+"79": "Application Area Mathematics",
+"99": "Elective Modules"
 }
 },
 {
@@ -6861,8 +6833,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6877,8 +6848,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6891,8 +6861,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6905,8 +6874,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6918,8 +6886,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -6931,47 +6898,19 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837620"
-],
-"num_credits": 5,
-"module_name": "[ME520] Medizin 1",
-"rule_node_names_by_levels": {
-"59": "Application Area",
-"79": "Application Area Medicine",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798812"
-],
-"num_credits": 5,
-"module_name": "[ME521] Medizin 2",
-"rule_node_names_by_levels": {
-"59": "Application Area",
-"79": "Application Area Medicine",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764169"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837450"
 ],
 "num_credits": 5,
 "module_name": "[ME522] Information Systems and Decision Support",
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6983,8 +6922,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -6996,8 +6934,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7009,24 +6946,20 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805433",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802231",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805184",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801087"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840694",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839627"
 ],
 "num_credits": 5,
 "module_name": "[ME25666] Introduction to Bioengineering",
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7039,22 +6972,19 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794114",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798633"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837200"
 ],
 "num_credits": 3,
 "module_name": "[ME523] Medical Statistics",
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Medicine",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7067,8 +6997,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -7080,8 +7009,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Required Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Required Modules"
 }
 },
 {
@@ -7108,8 +7036,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7122,8 +7049,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7135,8 +7061,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7148,8 +7073,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7162,8 +7086,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7176,8 +7099,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7189,8 +7111,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7202,8 +7123,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 },
 {
@@ -7236,8 +7156,7 @@
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",
-"99": "Elective Modules",
-"119": "[SOT603041] 1 Credit Modules"
+"99": "Elective Modules"
 }
 }
 ]
