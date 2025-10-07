@@ -61,6 +61,6 @@ python fetch_curriculum_tree.py --parallel_drivers 5 --curriculum master-informa
 - Generate the HTML file with the table (update the --curriculum, --termid and --output arguments accordingly)
 
 ```sh
-python print_html_table.py --termid 204 --curriculum master-informatics --output "../informatics-ss25.html"
-python print_html_table.py --termid 204 --curriculum master-informatics --oldtermsfrom 171 --output ../informatics-all.html
+python print_html_table.py --termid 204 --curriculum master-informatics --output "../build/informatics-ss25.html"
+python print_html_table.py --termid 204 --curriculum master-informatics --oldtermsfrom 171 --output ../build/informatics-all.html
 ```
