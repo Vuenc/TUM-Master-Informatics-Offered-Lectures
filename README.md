@@ -1,6 +1,6 @@
-# TUM Master Informatics, DEA: Offered Lectures
+# TUM Informatics, DEA: Offered Lectures
 
-This document aims to provide a **list of elective lectures** that are being offered this semester for the Informatics and DEA masters at TUM, grouped by area of specialization:
+This document aims to provide a **list of lectures** that are being offered this semester for the Informatics bachelor and master and DEA master at TUM, grouped by area of specialization:
 
 - **Informatics bachelor**:
   - List of lectures [offered in winter semester 2025/26](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/bachelor-informatics-ws25-26.html)
