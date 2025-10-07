@@ -1,13 +1,15 @@
 
 from __future__ import annotations
+
 import argparse
+import json
+import re
 from collections import defaultdict
 from dataclasses import dataclass
-import json
 from typing import List
-from curriculums import curriculums
+
 import util
-import re
+from curriculums import curriculums
 
 COURSE_CODE_REGEX = re.compile(r"\[([A-Z0-9_]+)\]")
 COURSE_CODE_PARENTHESIS_REGEX = re.compile(r"\s*\((?:[A-Z]+[0-9]+(?:_[A-Z0-9])*|English)(?:, (?:[A-Z]+[0-9]+(?:_[A-Z0-9])*|English))*\)|\[(?:[A-Z]+[0-9]+(?:_[A-Z0-9])*|English)(?:, (?:[A-Z]+[0-9]+(?:_[A-Z0-9])*|English))*\]")
