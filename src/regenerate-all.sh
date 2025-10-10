@@ -19,3 +19,9 @@ python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --
 python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum master-dea
 python print_html_table.py --termid $TERMID --curriculum master-dea --output "../dea-$TERMNAME.html"
 python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-dea --output ../dea-all.html
+
+# Master Information Systems
+python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-information-systems
+python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum master-information-systems
+python print_html_table.py --termid $TERMID --curriculum master-information-systems --output "../master-information-systems-$TERMNAME.html"
+python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-information-systems --output ../master-information-systems-all.html
