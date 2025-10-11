@@ -11,6 +11,8 @@ This document aims to provide a **list of lectures** that are being offered this
 - **DEA master**:
   - List of lectures [offered in winter semester 2025/26](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-ws25-26.html)
   - [List of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-all.html)
+- **Information Systems master**:
+  - List of lectures [offered in winter semester 2025/26](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-information-systems-ws25-26.html)
 
 _This list is not official, might be incomplete or have errors. Use with care!_
 
