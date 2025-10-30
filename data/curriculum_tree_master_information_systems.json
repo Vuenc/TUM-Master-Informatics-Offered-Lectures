@@ -2636,8 +2636,8 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837196",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764292",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764291"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837563",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837562"
 ],
 "num_credits": 6,
 "module_name": "[IN0009] Basic Principles: Operating Systems and System Software",
@@ -3196,7 +3196,6 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950690663",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833303",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839534",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839534",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837769",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838848",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798538",
@@ -3451,7 +3450,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950339365",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950401675",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768919",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802982"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802982",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950292364"
 ],
 "num_credits": 5,
 "module_name": "[IN2107] Advanced Seminar Course",
@@ -3462,7 +3462,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950292364",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874309",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833367",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950532680",
@@ -3585,8 +3584,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766023",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800603"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839150"
 ],
 "num_credits": 3,
 "module_name": "[SZ0348] German as a Foreign Language A1.1: Dive into the grammar and apply it in practice",
@@ -4407,8 +4405,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798322",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799027",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878345",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879009",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950372687"
 ],
 "num_credits": 5,
@@ -5235,8 +5233,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799027",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798322"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879009",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878345"
 ],
 "num_credits": 3,
 "module_name": "[CLA30204] Logic and its Limits",
@@ -5325,6 +5323,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841194",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882411",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950036768"
 ],
 "num_credits": 2,
@@ -6000,17 +5999,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798581"
-],
-"num_credits": 2,
-"module_name": "[CLA20563] What Holds Society Together?",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950036133"
 ],
 "num_credits": 2,
@@ -6596,6 +6584,17 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950886504"
+],
+"num_credits": 3,
+"module_name": "[CIT632000] Project week: Phish & Chips \u2013 Cyber Protection for Non-Profit Organisations",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Project Weeks"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876297"
 ],
 "num_credits": 6,
@@ -6972,16 +6971,6 @@
 ],
 "num_credits": 2,
 "module_name": "[IN9006] Entrepreneurship for Small Software-oriented Enterprises",
-"rule_node_names_by_levels": {
-"59": "Support Electives"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802412"
-],
-"num_credits": 3,
-"module_name": "[SOT87317] Ethics in Artificial Intelligence",
 "rule_node_names_by_levels": {
 "59": "Support Electives"
 }

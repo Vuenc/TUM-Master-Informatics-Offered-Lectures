@@ -322,8 +322,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836955",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837190",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950563961",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793511",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793511",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839514",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839514",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526942",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950808924",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659925",
@@ -400,6 +400,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950432397",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396227",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503160",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839328",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800728",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950497303",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627102",
@@ -487,8 +488,8 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837132",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764055",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764054"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837349",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837348"
 ],
 "num_credits": 8,
 "module_name": "[IN0004] Introduction to Computer Organization and Technology - Computer Architecture",
@@ -548,8 +549,8 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837196",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764292",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764291"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837563",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837562"
 ],
 "num_credits": 5,
 "module_name": "[IN0009] Basic Principles: Operating Systems and System Software",
@@ -560,9 +561,9 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837062",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764443",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764441",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764442"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837706",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837704",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837705"
 ],
 "num_credits": 6,
 "module_name": "[IN0008] Fundamentals of Databases",
@@ -606,8 +607,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768561",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768562",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841941",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841942",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841499"
 ],
 "num_credits": 5,
@@ -619,11 +620,11 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837032",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763926",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763927",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763928",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763929",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763930"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837228",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837229",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837230",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837231",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837232"
 ],
 "num_credits": 8,
 "module_name": "[IN0015] Discrete Structures",
@@ -1224,7 +1225,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840701",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764934"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838166"
 ],
 "num_credits": 6,
 "module_name": "[IN2339] Data Analysis and Visualization in R",
@@ -4400,8 +4401,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798322",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799027",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878345",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879009",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950372687"
 ],
 "num_credits": 5,
@@ -4460,6 +4461,19 @@
 ],
 "num_credits": 1,
 "module_name": "[CLA10348] Become Successful Through Writing",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
+"99": "[SOT60302] Media & the Public",
+"119": "[SOT603021] 1 Credit Modules"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836044"
+],
+"num_credits": 1,
+"module_name": "[CLA10718] Speech Training for University Life",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
@@ -4777,7 +4791,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875963"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875963",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883702"
 ],
 "num_credits": 3,
 "module_name": "[SOT53503] Applied Philosophy of AI: Public Dialog on Future Practices",
@@ -4857,19 +4872,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950070456",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950093513"
-],
-"num_credits": 1,
-"module_name": "[CLA10234] Human Rights Today",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
-"99": "[SOT60304] Ethical & Social Issues",
-"119": "[SOT603041] 1 Credit Modules"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950093513",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837917",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764667",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799403"
@@ -4989,6 +4992,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841194",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882411",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950036768"
 ],
 "num_credits": 2,
@@ -6788,20 +6792,6 @@
 ],
 "num_credits": 9,
 "module_name": "[CIT413041] Discrete Optimization",
-"rule_node_names_by_levels": {
-"59": "Application Area",
-"79": "Application Area Mathematics",
-"99": "Elective Modules"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800552",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803688",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801863"
-],
-"num_credits": 9,
-"module_name": "[MA2012] Introduction to Optimization",
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Mathematics",
