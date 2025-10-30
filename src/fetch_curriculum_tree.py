@@ -1,20 +1,22 @@
-from dataclasses import dataclass, asdict
+import argparse
+import atexit
+import json
+import time
+from dataclasses import asdict, dataclass
+from multiprocessing import Pool
 from typing import Dict, List, Tuple
+
+import selenium
 import selenium.webdriver
-from webdriver_manager.firefox import GeckoDriverManager
+import tqdm
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service
-from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
-import json
-from curriculums import curriculums, Curriculum
-import argparse
-import tqdm
-import selenium
-import time
-from multiprocessing import Pool
-import atexit
+from selenium.webdriver.support.wait import WebDriverWait
+from webdriver_manager.firefox import GeckoDriverManager
+
+from curriculums import Curriculum, curriculums
 
 def click_button(driver, button):
     driver.execute_script("arguments[0].click()", button)

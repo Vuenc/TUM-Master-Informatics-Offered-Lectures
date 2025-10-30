@@ -1,14 +1,14 @@
-import json
-from typing import Dict, List, Tuple
-import curriculums
 import argparse
+import asyncio
+import json
 import os
-
-import util
+from typing import Dict, List
 
 import aiohttp
-import asyncio
+
+import curriculums
 import fetch_course_details
+import util
 
 allowed_course_types = ["VI", "VO"]
 

@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import List
+
 import aiohttp
-import asyncio
 
 @dataclass
 class CourseIdWithSemesterId:

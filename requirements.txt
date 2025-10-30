@@ -1,9 +1,5 @@
-numpy>=2.0.1
-pandas>=2.2.2
-python-dotenv>=1.0.1
-regex>=2024.5.15
-Requests>=2.32.3
 selenium>=4.23.1
 tqdm>=4.66.2
 webdriver_manager>=4.0.2
-aiohttp >=3.12.12
+aiohttp>=3.12.12
+Jinja2>=3.1.6

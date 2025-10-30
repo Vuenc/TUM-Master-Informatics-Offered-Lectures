@@ -28,14 +28,7 @@ If you find a mistake, like a lecture missing, you can create an issue.
 
 If you find the list is out of date because some information changed in TUM online, you can recreate the table by running the scripts:
 
-1. Create a `src/.env` file with your TUM online credentials: This is needed to fetch an English-language curriculum table. You also should set your language to English in TUM online. If you are not logged in, TUM online will display the German version of the curriculum only.
-
-```
-TUMONLINE_USERNAME="yourusername"
-TUMONLINE_PASSWORD="yourpassword"
-```
-
-2. Create a virtual environment and install the required packages:
+1. Create a virtual environment and install the required packages:
 
 ```sh
 virtualenv .fetchcourses-env
@@ -43,14 +36,14 @@ source .fetchcourses-env/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Regenerate all tables using the provided script: This takes a couple of minutes and regenerates the tables for all curriculums. If the semester has changed, you need to update the TERMID and TERMNAME variables in the script. (TUM online identifies semesters by term ids: for example, 199 is winter term 2023/24, 200 is summer term 2024. For reasons unknown to me, term ids 201 and 202 are skipped, and winter term 2024/25 has term id 203.)
+2. Regenerate all tables using the provided script: This takes a couple of minutes and regenerates the tables for all curriculums. If the semester has changed, you need to update the TERMID and TERMNAME variables in the script. (TUM online identifies semesters by term ids: for example, 199 is winter term 2023/24, 200 is summer term 2024. For reasons unknown to me, term ids 201 and 202 are skipped, and winter term 2024/25 has term id 203.)
 
 ```sh
 cd src/
 sh regenerate-all.sh
 ```
 
-4. (alternatively:) Regenerate individual curriculum tables manually.
+3. (alternatively:) Regenerate individual curriculum tables manually.
 
 - Fetch the offered courses from TUM online (update the --termid argument accordingly).
 
@@ -68,6 +61,6 @@ python fetch_curriculum_tree.py --parallel_drivers 5 --curriculum master-informa
 - Generate the HTML file with the table (update the --curriculum, --termid and --output arguments accordingly)
 
 ```sh
-python print_html_table.py --termid 204 --curriculum master-informatics --output "../informatics-ss25.html"
-python print_html_table.py --termid 204 --curriculum master-informatics --oldtermsfrom 171 --output ../informatics-all.html
+python print_html_table.py --termid 204 --curriculum master-informatics --output "../build/informatics-ss25.html"
+python print_html_table.py --termid 204 --curriculum master-informatics --oldtermsfrom 171 --output ../build/informatics-all.html
 ```
