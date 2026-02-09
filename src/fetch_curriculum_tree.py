@@ -136,7 +136,7 @@ def prepare_driver(curriculum: Curriculum, gecko_driver_path: str):
     # Switch language to English
     driver.find_element(By.TAG_NAME, "coa-desktop-language-menu").click()
     time.sleep(5)
-    driver.find_element(By.XPATH, f"//button[@title='Sprache Englisch']").click()
+    driver.find_element(By.XPATH, f"//button[@title='Sprache Englisch'] | //button[@title='Language English']").click()
 
     atexit.register(lambda: driver.close() if driver is not None else ())
 
