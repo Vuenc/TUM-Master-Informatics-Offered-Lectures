@@ -3,16 +3,16 @@
 This repo aims to provide a **list of lectures** that are being offered this semester grouped by area of specialization for various TUM CIT degree progams:
 
 - **Informatics bachelor**:
-  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/bachelor-informatics-ss26.html)
+  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/bachelor-informatics-ss26.html) (preliminary)
   - [List of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/bachelor-informatics-all.html)
 - **Informatics master**:
-  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-informatics-ss26.html)
+  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-informatics-ss26.html) (preliminary)
   - [List of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-informatics-all.html)
 - **DEA master**:
-  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-ss26.html)
+  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-ss26.html) (preliminary)
   - [List of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-all.html)
 - **Information Systems master**:
-  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-information-systems-ss26.html)
+  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-information-systems-ss26.html) (preliminary)
 
 _This list is not official, might be incomplete or have errors. Use with care!_
 
