@@ -1,5 +1,5 @@
-TERMID=205
-TERMNAME=ws25-26
+TERMID=206
+TERMNAME=ss26
 FIRSTTERMID=171 # no data before WS09/10
 
 # Bachelor Informatics

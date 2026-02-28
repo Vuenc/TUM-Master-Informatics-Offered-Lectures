@@ -3,3 +3,4 @@ __pycache__
 .vscode
 geckodriver.log
 data/example-output.json
+.DS_Store
