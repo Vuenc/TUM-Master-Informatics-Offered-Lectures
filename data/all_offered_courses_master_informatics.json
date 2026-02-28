@@ -28115,6 +28115,906 @@
 "title": "Advanced Robot Learning and Decision-Making\t",
 "id": 950877119,
 "oldestRelatedCourseId": 950832465
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Innovative Entrepreneurs - Leadership of High-Tech Companies (WI000285, English)",
+"id": 950878046,
+"oldestRelatedCourseId": 820546378
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Propositional and First-Order Predicate Logic (Lecture)",
+"id": 950878345,
+"oldestRelatedCourseId": 950026470
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction to digital signal processing (IN2061)",
+"id": 950878455,
+"oldestRelatedCourseId": 821003802
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Modelling and Simulation (IN2010)",
+"id": 950878456,
+"oldestRelatedCourseId": 821008365
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Security Engineering (IN2178)",
+"id": 950878463,
+"oldestRelatedCourseId": 821049749
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Logic (IN2049)",
+"id": 950878470,
+"oldestRelatedCourseId": 240960168
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Parallel Programming (IN2147)",
+"id": 950878477,
+"oldestRelatedCourseId": 821032231
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction to Theory of Computation (IN0011)",
+"id": 950878479,
+"oldestRelatedCourseId": 821066708
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Fundamentals of Algorithms and Data Structures (IN0007)",
+"id": 950878483,
+"oldestRelatedCourseId": 821085727
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Robot Motion Planning (IN2138)",
+"id": 950878505,
+"oldestRelatedCourseId": 821095077
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Algorithmic Game Theory (IN2239)",
+"id": 950878519,
+"oldestRelatedCourseId": 950029649
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Network Analysis \u2013 Statistical and Formal Models and Methods (IN2045)",
+"id": 950878528,
+"oldestRelatedCourseId": 821014954
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Sensor-based Robotic Manipulation and Locomotion (IN2068)",
+"id": 950878531,
+"oldestRelatedCourseId": 240942018
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Discrete Probability Theory (IN0018)",
+"id": 950878532,
+"oldestRelatedCourseId": 821066568
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Protein Prediction I for Bioinformaticians (IN2221)",
+"id": 950878536,
+"oldestRelatedCourseId": 821093429
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction to Computer Networking and Distributed Systems (IN0010)",
+"id": 950878545,
+"oldestRelatedCourseId": 821024285
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Cognitive Systems (IN2222)",
+"id": 950878546,
+"oldestRelatedCourseId": 821052899
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Linear Algebra for  Informatics [MA0901]",
+"id": 950878558,
+"oldestRelatedCourseId": 820007563
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Topics of Software Testing (IN2084)",
+"id": 950878561,
+"oldestRelatedCourseId": 821006994
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Computer Aided Medical Procedures II (IN2022)",
+"id": 950878564,
+"oldestRelatedCourseId": 821024626
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Software Engineering for Business Applications - Master's Course: Web Application Engineering (IN2087)",
+"id": 950878565,
+"oldestRelatedCourseId": 821081676
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Algorithms for Scientific Computing (IN2001)",
+"id": 950878566,
+"oldestRelatedCourseId": 821083562
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "eLearning - Techniques and Infrastructures (IN2093)",
+"id": 950878593,
+"oldestRelatedCourseId": 240926659
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Requirements Engineering (Elite SE)",
+"id": 950878615,
+"oldestRelatedCourseId": 240955944
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction to Software Engineering (IN0006)",
+"id": 950878623,
+"oldestRelatedCourseId": 821022409
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "3D User Interfaces (IN2111)",
+"id": 950878624,
+"oldestRelatedCourseId": 821025364
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Efficient Algorithms and Data Structures II (IN2004)",
+"id": 950878627,
+"oldestRelatedCourseId": 821070661
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Model Checking (IN2050)",
+"id": 950878628,
+"oldestRelatedCourseId": 821078029
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Numerical Programming (IN0019)",
+"id": 950878629,
+"oldestRelatedCourseId": 240958468
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Business Process Technologies and Management (IN2105)",
+"id": 950878637,
+"oldestRelatedCourseId": 240955863
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Augmented Reality (IN2018)",
+"id": 950878647,
+"oldestRelatedCourseId": 950010498
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Transaction Systems (IN2267)",
+"id": 950878696,
+"oldestRelatedCourseId": 950078289
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Social Computing (IN2241)",
+"id": 950878775,
+"oldestRelatedCourseId": 950040161
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Database Systems on Modern CPU Architectures (IN2118)",
+"id": 950878809,
+"oldestRelatedCourseId": 950029539
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "3D Computer Vision (IN2228)",
+"id": 950879062,
+"oldestRelatedCourseId": 950000979
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Petri Nets (IN2052)",
+"id": 950879267,
+"oldestRelatedCourseId": 950259719
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Protein Prediction I for Computer Scientists (IN2322)",
+"id": 950879289,
+"oldestRelatedCourseId": 950178948
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Cyber-Physical Systems (IN2305)",
+"id": 950879375,
+"oldestRelatedCourseId": 950154264
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Tensor Networks (IN2388)",
+"id": 950879802,
+"oldestRelatedCourseId": 950563825
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Lecture Machine Learning for Regulatory Genomics (IN2393)",
+"id": 950879803,
+"oldestRelatedCourseId": 950564370
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Algorithms for Uncertainty Quantification (IN2345)",
+"id": 950879805,
+"oldestRelatedCourseId": 950311789
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(POL00011) Politics for Rocket Scientists (An Introduction to Political Science for Non-Political Scientists)",
+"id": 950879810,
+"oldestRelatedCourseId": 950320888
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Blockchain-based Systems Engineering (IN2359)",
+"id": 950879993,
+"oldestRelatedCourseId": 950367087
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Autonomous Driving (IN2356)",
+"id": 950880202,
+"oldestRelatedCourseId": 950143760
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Machine Learning for 3D Geometry (IN2392)",
+"id": 950880230,
+"oldestRelatedCourseId": 950563831
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Legal Data Science and Informatics (IN2395)",
+"id": 950880394,
+"oldestRelatedCourseId": 950574726
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Stage Coaching for Engineers and Scientists",
+"id": 950880469,
+"oldestRelatedCourseId": 950428273
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Concepts of Quantum Computing (IN2400)",
+"id": 950880529,
+"oldestRelatedCourseId": 950626691
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Modelling and Simulation (Focus Analysis) (IN2366)",
+"id": 950880649,
+"oldestRelatedCourseId": 950425696
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Deep Learning for Physics (IN2298)",
+"id": 950880674,
+"oldestRelatedCourseId": 950216977
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Artificial Intelligence in Medicine II (IN2408)",
+"id": 950880913,
+"oldestRelatedCourseId": 950636169
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Geometry Processing (IN2297)",
+"id": 950881024,
+"oldestRelatedCourseId": 950187439
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Deep Learning for Computer Vision: Visual Computing (IN2390)",
+"id": 950881261,
+"oldestRelatedCourseId": 950595510
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "3D Scanning & Motion Capture (IN2354)",
+"id": 950881309,
+"oldestRelatedCourseId": 950339245
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction to Deep Learning (IN2346)",
+"id": 950881510,
+"oldestRelatedCourseId": 950298738
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Operations Research (IN0024)",
+"id": 950881767,
+"oldestRelatedCourseId": 950469463
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Logic Synthesis and Physical Design",
+"id": 950882205,
+"oldestRelatedCourseId": 950834730
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Multi-Fingered Robotic Hands: Dextrous Manipulation and Learning AI (CIT433034)",
+"id": 950882344,
+"oldestRelatedCourseId": 950835386
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Applied Cryptography for Decentralized Systems (CIT333000)",
+"id": 950882446,
+"oldestRelatedCourseId": 950834900
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "\tData Structure Engineering (CIT3230003)",
+"id": 950882637,
+"oldestRelatedCourseId": 950702078
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "IT Security 2 (CIT3330002)",
+"id": 950882662,
+"oldestRelatedCourseId": 950691533
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Causal Inference in Time series (CIT4230006)",
+"id": 950882765,
+"oldestRelatedCourseId": 950691822
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "DevOps: Engineering for Deployment and Operations (CIT423001)",
+"id": 950882833,
+"oldestRelatedCourseId": 950844184
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Machine Learning: Deep Generative Models (CIT4230003)",
+"id": 950882968,
+"oldestRelatedCourseId": 950695272
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Engineering Resilient Cognitive Systems (CIT4230005)",
+"id": 950882993,
+"oldestRelatedCourseId": 950702026
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Data Processing on Modern Hardware (CIT3230004)",
+"id": 950883063,
+"oldestRelatedCourseId": 950770026
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Machine Learning for Design Automation and Manufacturing",
+"id": 950883155,
+"oldestRelatedCourseId": 950804448
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Natural Language Processing (CIT4230002)",
+"id": 950883286,
+"oldestRelatedCourseId": 950691940
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Intelligent Robots with a Sense of Smell (CIT433039)",
+"id": 950883324,
+"oldestRelatedCourseId": 950833183
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Cryptography (CIT3330003)",
+"id": 950883421,
+"oldestRelatedCourseId": 950691525
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Deep Learning for Robotics (CIT433027)",
+"id": 950883688,
+"oldestRelatedCourseId": 950761808
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Agentic AI in Business Administration (CIT633000)",
+"id": 950935005,
+"oldestRelatedCourseId": 950875813
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Scientific Computing in Circuit Simulation (IN2306)",
+"id": 950935073,
+"oldestRelatedCourseId": 950187398
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Machine Learning for Graphs and Sequential Data (IN2323)",
+"id": 950935465,
+"oldestRelatedCourseId": 950233930
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Complexity Theory (IN2007)",
+"id": 950935596,
+"oldestRelatedCourseId": 821071343
 }
 ]
 }

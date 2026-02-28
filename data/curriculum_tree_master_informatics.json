@@ -2,8 +2,8 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873361",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950465340",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872979"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935094",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950465340"
 ],
 "num_credits": 10,
 "module_name": "[IN2106] Advanced Practical Course",
@@ -13,61 +13,78 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872979",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794247",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950395666",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840975",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882179",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759070",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768016",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659374",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841628",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882905",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875095",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950834619",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882139",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883668",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840570",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881782",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833329",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840403",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881638",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950266172",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950290992",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950113504",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837113",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950090648",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798531",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878547",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595612",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841198",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950758957",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873202",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873405",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881247",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765106",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840113",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840114",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881373",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766344",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839745",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881012",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839746",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950804490",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881013",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883363",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841036",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833283",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882953",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872931",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799705",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950632770",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839987",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881266",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840910",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840639",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950496729",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935310",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935312",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503446",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950758396",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367340",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311957",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802405",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950885470",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950934756",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426397",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950734650",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950339007",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367392",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839005",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880290",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832881",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950699462",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799670",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802907",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879593",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882740",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840716",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881921",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873336",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935095",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595720",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503411",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950658994",
@@ -81,8 +98,11 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950433658",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396033",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872698",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950934992",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872697",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872693",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872631",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872628",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950633287",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950159862",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950572094",
@@ -90,6 +110,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950434886",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950434886",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841539",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882805",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526112",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950434613",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950344034",
@@ -100,13 +121,14 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950338923",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526128",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950563487",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802469",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832947",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832947",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882158",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878544",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878544",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950456592",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837380",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802430",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882110",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841780",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883066",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457042",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950466229",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950734254",
@@ -115,17 +137,22 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950398287",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526123",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839545",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880801",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396021",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767821",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802361",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950563267",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836761",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836762",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878236",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837270",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798483",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878699",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878499",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839467",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880723",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950570425",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838387",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879786",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950338917",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950466464",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503373",
@@ -139,15 +166,19 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659375",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311931",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841926",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950934968",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691658",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950338916",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724703",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841035",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882247",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950456544",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950464792",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837164",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842044",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883330",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840305",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881561",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950456557",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950527040",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659367",
@@ -162,41 +193,50 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872689",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950456827",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840132",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881389",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950565197",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950773842",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950434002",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801363",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841262",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798536",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878552",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426596",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950177266",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872162",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879847",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950633514",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950670156",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800935",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880734",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872318",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872585",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883047",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873242",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873241",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841135",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841134",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882341",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659784",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595637",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667240",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526125",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841135",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841134",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882341",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841133",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839836",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881099",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841466",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833308",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883651",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765438",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833490",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935326",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872634",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759169",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873382",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950762062",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836116",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877677",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836116",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877677",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873392",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950373427",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691958",
@@ -222,6 +262,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950465340",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659713",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872676",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883834",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950934769",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837467",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950264730",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950291655",
@@ -232,15 +274,19 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950604731",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836892",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838391",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879789",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840281",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881540",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837073",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878534",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836997",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833290",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837037",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878502",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950078141",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950099084",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950725665",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799563",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879494",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659797",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691398",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691561",
@@ -249,27 +295,30 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836900",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803448",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872701",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950934993",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691560",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950292768",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798188",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878227",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837588",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311889",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833268",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838687",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833289",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833285",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882573",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833291",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426160",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872940",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879398",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950672343",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627104",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838332",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803174",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950735850",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879727",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883084",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935003",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841092",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842234",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667371",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803507",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883537",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659822",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950315749",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838148",
@@ -277,13 +326,16 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950435079",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526245",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838406",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879799",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873470",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935358",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793218",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950665590",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950318488",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950345294",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457195",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872256",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872255",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950774220",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367661",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950395697",
@@ -300,6 +352,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426574",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950594949",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839601",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880850",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659823",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950758389",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457944",
@@ -344,12 +397,15 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873229",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595743",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873215",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880321",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873238",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873237",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873177",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873467",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759211",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950658625",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839273",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880563",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767455",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950634183",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950666562",
@@ -360,12 +416,14 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759108",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950671788",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872976",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883276",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842224",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950312033",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950488278",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950641293",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396203",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768681",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950936082",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833397",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950373895",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311975",
@@ -373,9 +431,12 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691820",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873538",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849646",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882649",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833396",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840726",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881930",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841352",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882602",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838593",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724856",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872205",
@@ -392,23 +453,25 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627075",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950563447",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595114",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832674",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803273",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883373",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883216",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627001",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950774492",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311995",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768722",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837043",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950834090",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882018",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311968",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950425991",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311966",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950338906",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842291",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883644",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526113",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950563190",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950596841",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839509",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880771",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950701476",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759552",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627076",
@@ -416,9 +479,12 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950690663",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833303",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839534",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880790",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837769",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879220",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838848",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798538",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880144",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878553",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950632149",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503671",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766826",
@@ -435,6 +501,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832668",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873254",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841153",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882352",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367368",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950496567",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950496980",
@@ -454,8 +521,10 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659036",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691430",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841306",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882540",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950869355",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801524",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950869352",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881264",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367369",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724701",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526127",
@@ -473,6 +542,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793291",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426810",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872632",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872630",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627112",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950596842",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627126",
@@ -481,11 +551,11 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950497109",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950774522",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872633",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950834091",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883099",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595514",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595803",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950626904",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803268",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883207",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794306",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833399",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767912",
@@ -493,10 +563,11 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950626772",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659528",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950633765",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833184",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833184",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883374",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883374",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659906",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873459",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873458",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833471",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833292",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833292",
@@ -504,8 +575,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457228",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659528",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950633765",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801074",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801074",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880858",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880858",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950464994",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691928",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950706204",
@@ -513,10 +584,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841242",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950294505",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873435",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950706231",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367890",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839735",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766921"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873433"
 ],
 "num_credits": 5,
 "module_name": "[IN2107] Advanced Seminar Course",
@@ -526,16 +594,22 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950706231",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367890",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839735",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766921",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875033",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793222",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841920",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935280",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794366",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799877",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799877",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879770",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879770",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950567692",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802902",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882737",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839822",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801777",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881082",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881485",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873223",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803114",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950427883",
@@ -544,6 +618,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950343103",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950343103",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872932",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950934975",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503435",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950499362",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950490968",
@@ -561,8 +636,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457258",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526140",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950488014",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765835",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800424",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880271",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950563849",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950488258",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950670155",
@@ -583,20 +657,24 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837000",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367524",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841806",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883085",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841806",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883085",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950773964",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766894",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950318361",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950571170",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832626",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883694",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950774482",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839871",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881138",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839871",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799180",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799180",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881138",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879150",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879150",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950626920",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833437",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833640",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935957",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950701584",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950347423",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950338902",
@@ -614,12 +692,17 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595712",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659844",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849828",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879355",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950311891",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836955",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878434",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837190",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878636",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950563961",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839514",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935231",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839514",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935231",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526942",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950808924",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659925",
@@ -631,13 +714,15 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950405001",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950704608",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849856",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879245",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659512",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667542",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950434883",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836955",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878434",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833507",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803303",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803255",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883183",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950405013",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950633579",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950701383",
@@ -657,16 +742,18 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950527840",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724359",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659700",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802098",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881770",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837119",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878577",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669841",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669841",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872939",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765835",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800424",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882921",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880271",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950570759",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950605612",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836321",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877829",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950376013",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950490555",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503365",
@@ -679,14 +766,17 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950339365",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950401675",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768919",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802982",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838505",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879871",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882847",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950292364",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874309",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833367",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882320",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950532680",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950488422",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950499029",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873463",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883160",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950339006",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457949",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950465530",
@@ -701,6 +791,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396227",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503160",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839328",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880612",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950502712",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950497303",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627102",
@@ -709,6 +800,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833527",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950293955",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838063",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879476",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950631988",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669558",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627101",
@@ -716,12 +808,13 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759159",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950319093",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873459",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799877",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873458",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879770",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950339248",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873339",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875290",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799844",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833575",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879741",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881855",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950294222",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724930",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950564219",
@@ -734,27 +827,29 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367865",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950631771",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950668784",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950733981",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879307",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935034",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950568842",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950594948",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667325",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799355",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950732402",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526241",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950503567",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832490",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882825",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872942",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833581",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841209",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793285",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832070",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802392",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882067",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839282",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841268",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882498",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841552",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882816",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526340",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950701411",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801525",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881265",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833787",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768199",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842187",
@@ -772,7 +867,6 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659817",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950496977",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833767",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838505",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950769202",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950692948",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950627127",
@@ -781,7 +875,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950636979",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950381218",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950404932",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873471"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873471",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935542"
 ],
 "num_credits": 5,
 "module_name": "[IN2107] Advanced Seminar Course",
@@ -791,7 +886,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798503",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878519",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950797600"
 ],
 "num_credits": 5,
@@ -817,7 +912,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763724"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935596"
 ],
 "num_credits": 8,
 "module_name": "[IN2007] Complexity Theory",
@@ -856,7 +951,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798621"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878627"
 ],
 "num_credits": 8,
 "module_name": "[IN2004] Efficient Algorithms and Data Structures II",
@@ -893,7 +988,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799825",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802095"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881767"
 ],
 "num_credits": 6,
 "module_name": "[IN0024] Operations Research",
@@ -920,10 +1015,10 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799080"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879062"
 ],
 "num_credits": 8,
-"module_name": "[IN2228] Computer Vision II: Multiple View Geometry",
+"module_name": "[IN2228] Computer Vision II: Multiple View Geometry (3D Computer Vision)",
 "rule_node_names_by_levels": {
 "59": "Elective Modules Informatics",
 "79": "Computer Graphics and Vision (CGV)",
@@ -933,7 +1028,9 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839984",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839310"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881261",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839310",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880594"
 ],
 "num_credits": 8,
 "module_name": "[IN2390] Advanced Deep Learning for Computer Vision: Visual Computing",
@@ -944,7 +1041,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798640"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878647"
 ],
 "num_credits": 6,
 "module_name": "[IN2018] Augmented Reality",
@@ -989,7 +1086,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801254"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881024"
 ],
 "num_credits": 6,
 "module_name": "[IN2297] Geometry Processing",
@@ -1046,7 +1143,9 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839454",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838932"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880712",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838932",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880230"
 ],
 "num_credits": 6,
 "module_name": "[IN2392] Machine Learning for 3D Geometry",
@@ -1101,9 +1200,11 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950464594",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935371",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838259",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840043"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935370",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840043",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881309"
 ],
 "num_credits": 6,
 "module_name": "[IN2354] 3D Scanning & Motion Capture",
@@ -1114,7 +1215,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798618"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878624"
 ],
 "num_credits": 6,
 "module_name": "[IN2111] 3D User Interfaces",
@@ -1173,7 +1274,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803158"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883063"
 ],
 "num_credits": 5,
 "module_name": "[CIT3230004] Data Processing on Modern Hardware",
@@ -1184,7 +1285,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802816"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882637"
 ],
 "num_credits": 5,
 "module_name": "[CIT3230003] Data Structure Engineering",
@@ -1195,7 +1296,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798819"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878809"
 ],
 "num_credits": 6,
 "module_name": "[IN2118] Database Systems on Modern CPU Architectures",
@@ -1251,7 +1352,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798700"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878696"
 ],
 "num_credits": 6,
 "module_name": "[IN2267] Transaction Systems",
@@ -1285,7 +1386,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798551"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878564"
 ],
 "num_credits": 5,
 "module_name": "[IN2022] Computer Aided Medical Procedures II",
@@ -1307,8 +1408,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799708",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799910"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879626",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879803"
 ],
 "num_credits": 6,
 "module_name": "[IN2393] Machine Learning for Regulatory Genomics",
@@ -1320,7 +1421,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799839",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799333"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879289"
 ],
 "num_credits": 8,
 "module_name": "[IN2322] Protein Prediction I for Computer Scientists",
@@ -1378,7 +1479,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800125"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879993"
 ],
 "num_credits": 5,
 "module_name": "[IN2359] Blockchain-based Systems Engineering",
@@ -1389,8 +1490,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950844323",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950844184"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882758",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882833"
 ],
 "num_credits": 6,
 "module_name": "[CIT423001] DevOps: Engineering for Deployment and Operations",
@@ -1401,7 +1502,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803089"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882993"
 ],
 "num_credits": 3,
 "module_name": "[CIT4230005] Engineering Resilient Cognitive Systems",
@@ -1412,7 +1513,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798548"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878561"
 ],
 "num_credits": 5,
 "module_name": "[IN2084] Advanced Topics of Software Testing",
@@ -1423,7 +1524,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798630"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878637"
 ],
 "num_credits": 5,
 "module_name": "[IN2105] Business Process Technologies and Management",
@@ -1467,7 +1568,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798552"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878565"
 ],
 "num_credits": 8,
 "module_name": "[IN2087] Software Engineering for Business Applications - Master's Course: Web Application Engineering",
@@ -1540,7 +1641,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832087"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878470"
 ],
 "num_credits": 8,
 "module_name": "[IN2049] Logic",
@@ -1552,9 +1653,9 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832407",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832407",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832408"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878628",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878628",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878713"
 ],
 "num_credits": 8,
 "module_name": "[IN2050] Model Checking",
@@ -1566,7 +1667,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799306",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879267",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950187256"
 ],
 "num_credits": 5,
@@ -1676,7 +1777,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800870"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880674"
 ],
 "num_credits": 6,
 "module_name": "[IN2298] Advanced Deep Learning for Physics",
@@ -1688,7 +1789,9 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874174",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842341"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883799",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842341",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883688"
 ],
 "num_credits": 8,
 "module_name": "[CIT433027] Advanced Deep Learning for Robotics",
@@ -1699,7 +1802,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803071"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882968"
 ],
 "num_credits": 3,
 "module_name": "[CIT4230003] Advanced Machine Learning: Deep Generative Models",
@@ -1710,7 +1813,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803329"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883286"
 ],
 "num_credits": 5,
 "module_name": "[CIT4230002] Advanced Natural Language Processing",
@@ -1732,7 +1835,18 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801134"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838535"
+],
+"num_credits": 5,
+"module_name": "[IN2403] Artificial Intelligence in Medicine",
+"rule_node_names_by_levels": {
+"59": "Elective Modules Informatics",
+"79": "Machine Learning and Analytics (MLA)"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880913"
 ],
 "num_credits": 5,
 "module_name": "[IN2408] Artificial Intelligence in Medicine II",
@@ -1743,8 +1857,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802782",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802917"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882592",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882765"
 ],
 "num_credits": 5,
 "module_name": "[CIT4230006] Causal Inference in Time Series",
@@ -1816,7 +1930,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840246"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840246",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881510"
 ],
 "num_credits": 6,
 "module_name": "[IN2346] Introduction to Deep Learning",
@@ -1827,7 +1942,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800554"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880394"
 ],
 "num_credits": 6,
 "module_name": "[IN2395] Legal Data Science and Informatics",
@@ -1862,7 +1977,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950733246"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935465"
 ],
 "num_credits": 5,
 "module_name": "[IN2323] Machine Learning for Graphs and Sequential Data",
@@ -2009,7 +2124,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950834730"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882205"
 ],
 "num_credits": 6,
 "module_name": "[CIT433032] Logic Synthesis and Physical Design",
@@ -2020,7 +2135,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841881"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841881",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883155"
 ],
 "num_credits": 5,
 "module_name": "[CIT433031] Machine Learning for Electronic Design Automation and Manufacturing",
@@ -2054,7 +2170,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950835386"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882344"
 ],
 "num_credits": 3,
 "module_name": "[CIT433034] Advanced Multi-Fingered Robotic Hands: Dextrous Manipulation and Learning AI",
@@ -2089,7 +2205,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800352"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880202"
 ],
 "num_credits": 3,
 "module_name": "[IN2356] Autonomous Driving",
@@ -2111,7 +2227,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798530"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878546"
 ],
 "num_credits": 5,
 "module_name": "[IN2222] Cognitive Systems",
@@ -2122,7 +2238,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799431"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879375"
 ],
 "num_credits": 6,
 "module_name": "[IN2305] Cyber-Physical Systems",
@@ -2145,7 +2261,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798435"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878455"
 ],
 "num_credits": 7,
 "module_name": "[IN2061] Introduction to Digital Signal Processing",
@@ -2179,7 +2295,9 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872664",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872665"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883324",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872665",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883193"
 ],
 "num_credits": 7,
 "module_name": "[CIT433039] Intelligent Robots with a Sense of Smell",
@@ -2236,7 +2354,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798489"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878505"
 ],
 "num_credits": 5,
 "module_name": "[IN2138] Robot Motion Planning",
@@ -2258,7 +2376,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798516"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878531"
 ],
 "num_credits": 3,
 "module_name": "[IN2068] Sensor-based Robotic Manipulation and Locomotion",
@@ -2280,7 +2398,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803413"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883421"
 ],
 "num_credits": 5,
 "module_name": "[CIT3330003] Cryptography",
@@ -2303,7 +2421,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950834900"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882446"
 ],
 "num_credits": 5,
 "module_name": "[CIT333000] Applied Cryptography for Decentralized Systems (ACDS)",
@@ -2384,7 +2502,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802834"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882662"
 ],
 "num_credits": 5,
 "module_name": "[CIT3330002] IT Security 2",
@@ -2475,7 +2593,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798442"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878463"
 ],
 "num_credits": 5,
 "module_name": "[IN2178] Security Engineering",
@@ -2531,7 +2649,18 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799912"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876667"
+],
+"num_credits": 6,
+"module_name": "[CIT433044] Trustworthy Distributed Learning",
+"rule_node_names_by_levels": {
+"59": "Elective Modules Informatics",
+"79": "Security and Privacy (SP)"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879805"
 ],
 "num_credits": 5,
 "module_name": "[IN2345] Algorithms for Uncertainty Quantification",
@@ -2543,7 +2672,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798553"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878566"
 ],
 "num_credits": 8,
 "module_name": "[IN2001] Algorithms for Scientific Computing",
@@ -2567,7 +2696,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800700"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880529"
 ],
 "num_credits": 5,
 "module_name": "[IN2400] Advanced Concepts of Quantum Computing",
@@ -2579,8 +2708,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798436",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798436",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878456",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878456",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798432"
 ],
 "num_credits": 8,
@@ -2605,105 +2734,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799909"
-],
-"num_credits": 5,
-"module_name": "[IN2388] Tensor Networks",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767285"
-],
-"num_credits": 5,
-"module_name": "[IN2311] Turbulent Flow Simulation on HPC-Systems",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799912"
-],
-"num_credits": 5,
-"module_name": "[IN2345] Algorithms for Uncertainty Quantification",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798553"
-],
-"num_credits": 8,
-"module_name": "[IN2001] Algorithms for Scientific Computing",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840144"
-],
-"num_credits": 5,
-"module_name": "[IN2381] Introduction to Quantum Computing",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950800700"
-],
-"num_credits": 5,
-"module_name": "[IN2400] Advanced Concepts of Quantum Computing",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798436",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798436",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798432"
-],
-"num_credits": 8,
-"module_name": "[IN2010] Modelling and Simulation",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839592"
-],
-"num_credits": 8,
-"module_name": "[IN2398] Numerical Algorithms for High Performance Computing",
-"rule_node_names_by_levels": {
-"59": "Elective Modules Informatics",
-"79": "Scientific Computing and High Performance Computing (HPC)",
-"99": "Theory"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799909"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879802"
 ],
 "num_credits": 5,
 "module_name": "[IN2388] Tensor Networks",
@@ -2738,8 +2769,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798460",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798721"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878477",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878717"
 ],
 "num_credits": 5,
 "module_name": "[IN2147] Parallel Programming",
@@ -2786,6 +2817,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840403",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881638",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950266172",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950290992",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950113504",
@@ -2849,7 +2881,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837131"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837131",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878593"
 ],
 "num_credits": 3,
 "module_name": "[IN2093] eLearning - Techniques and Infrastructures",
@@ -2873,7 +2906,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798784"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878775"
 ],
 "num_credits": 5,
 "module_name": "[IN2241] Social Computing",
@@ -2885,8 +2918,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764086",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798783"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837379"
 ],
 "num_credits": 4,
 "module_name": "[SZ03031] Intensive Course German as a Foreign Language A2.1",
@@ -2898,8 +2930,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832684",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798392"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836933"
 ],
 "num_credits": 4,
 "module_name": "[SZ03041] Intensive Course German as a Foreign Language A2.2",
@@ -2924,9 +2955,10 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765436",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838636",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838652",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950848169"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950848169",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883779"
 ],
 "num_credits": 4,
 "module_name": "[SZ0337] German as a Foreign Language A1.1",
@@ -2962,8 +2994,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765807",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802021",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838959",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838531"
 ],
 "num_credits": 4,
@@ -2988,10 +3019,10 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764086",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798783",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837379",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837209",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950848170"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950848170",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882821"
 ],
 "num_credits": 6,
 "module_name": "[SZ0303] German as a Foreign Language A2.1",
@@ -3015,8 +3046,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832684",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798392",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836933",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837303"
 ],
 "num_credits": 6,
@@ -3067,8 +3097,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768587",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803304",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841972",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839582"
 ],
 "num_credits": 4,
@@ -3093,8 +3122,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768008",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802579",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841130",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841829"
 ],
 "num_credits": 4,
@@ -3132,8 +3160,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766786",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801372"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839867"
 ],
 "num_credits": 1,
 "module_name": "[SZ0314] German as a Foreign Language B2+C1: Communication at Work: German for Internship and Job",
@@ -3145,8 +3172,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767871",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802437",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840911",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840068"
 ],
 "num_credits": 3,
@@ -3171,8 +3197,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832695",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802385",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840851",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838653"
 ],
 "num_credits": 3,
@@ -3379,8 +3404,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764641",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799384",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837893",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838705"
 ],
 "num_credits": 3,
@@ -3631,7 +3655,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832589"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950889780"
 ],
 "num_credits": 3,
 "module_name": "[SZ0222] Cantonese A1.1",
@@ -3697,8 +3721,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767026",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801619",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840085",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837311"
 ],
 "num_credits": 3,
@@ -3725,8 +3748,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763808",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798565",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837118",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836950"
 ],
 "num_credits": 3,
@@ -3983,8 +4005,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763897",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798634",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837201",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837616"
 ],
 "num_credits": 3,
@@ -4011,8 +4032,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764308",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799037",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837580",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837153"
 ],
 "num_credits": 3,
@@ -4265,8 +4285,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764500",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799243",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837758",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840670"
 ],
 "num_credits": 3,
@@ -4293,8 +4312,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766943",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801541",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840004",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837842"
 ],
 "num_credits": 3,
@@ -4308,8 +4326,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764924",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799644",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838157",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839680"
 ],
 "num_credits": 3,
@@ -4336,8 +4353,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950766955",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801551",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840017",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837955"
 ],
 "num_credits": 3,
@@ -4443,7 +4459,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832539",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839228",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839945"
 ],
 "num_credits": 3,
@@ -4930,8 +4946,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763970",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798704",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837271",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837591"
 ],
 "num_credits": 3,
@@ -4945,7 +4960,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874944",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950907583",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837680"
 ],
 "num_credits": 3,
@@ -4985,8 +5000,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764286",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799021",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837557",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837618"
 ],
 "num_credits": 3,
@@ -5053,8 +5067,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950764303",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799034",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837575",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837409"
 ],
 "num_credits": 3,
@@ -5081,8 +5094,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950765946",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801250",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839078",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837329"
 ],
 "num_credits": 3,
@@ -5110,8 +5122,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767481",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802051",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840509",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837603"
 ],
 "num_credits": 3,
@@ -5877,6 +5888,17 @@
 ],
 "num_credits": 2,
 "module_name": "[CLA20910] Gender Competence as Core Qualification",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836122"
+],
+"num_credits": 2,
+"module_name": "[CLA20710] Global Diversity Training",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
@@ -7185,7 +7207,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877349"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877349",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883117"
 ],
 "num_credits": 3,
 "module_name": "[ED120053] AND Foundation Seminar",
@@ -7330,7 +7353,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841253"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841253",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882487"
 ],
 "num_credits": 6,
 "module_name": "[MGT001348] Innovation Sprint",
@@ -7366,7 +7390,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838595"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838595",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950936951"
 ],
 "num_credits": 6,
 "module_name": "[WI001141] Principled Entrepreneurial Decisions",
@@ -7585,7 +7610,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950886504"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950886504",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935255"
 ],
 "num_credits": 3,
 "module_name": "[CIT632000] Project week: Phish & Chips \u2013 Cyber Protection for Non-Profit Organisations",
@@ -7721,7 +7747,21 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875487"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836308",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875315"
+],
+"num_credits": 6,
+"module_name": "[MGT000159] Start-up Launchpad - Business Plan Basics",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Further Support Electives",
+"99": "Project Weeks"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875487",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950938192"
 ],
 "num_credits": 3,
 "module_name": "[CIT643002] 1.000+ Project week",
@@ -7846,7 +7886,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950630270"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937180"
 ],
 "num_credits": 6,
 "module_name": "[WI100180] Business Plan - Advanced Course (Business Models, Sales and Finance)",
@@ -7862,17 +7902,6 @@
 ],
 "num_credits": 6,
 "module_name": "[SOT86067] Climate Finance",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Further Support Electives"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838630"
-],
-"num_credits": 6,
-"module_name": "[WI001291] Competition Law and Entrepreneurial Strategies",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Further Support Electives"
@@ -7960,7 +7989,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838127"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838127",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879541"
 ],
 "num_credits": 4,
 "module_name": "[IN9028] Pedagogical Training in Didactics for Tutors",
@@ -7971,7 +8001,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841393"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841393",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882643"
 ],
 "num_credits": 9,
 "module_name": "[CIT431012] Digital Changemaker Course",
@@ -7982,7 +8013,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798463"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878481"
 ],
 "num_credits": 2,
 "module_name": "[IN9006] Entrepreneurship for Small Software-oriented Enterprises",
@@ -8004,7 +8035,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798590"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878599"
 ],
 "num_credits": 4,
 "module_name": "[IN9017] Entrepreneurship",
@@ -8072,7 +8103,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841694"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841694",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882988"
 ],
 "num_credits": 6,
 "module_name": "[MGT001347] Innovation Facilitator",
@@ -8095,7 +8127,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836568"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836568",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878046"
 ],
 "num_credits": 3,
 "module_name": "[WI000285] Innovative Entrepreneurs - Leadership of High-Tech Companies",
@@ -8130,7 +8163,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875813"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875813",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935005"
 ],
 "num_credits": 3,
 "module_name": "[CIT633000] Agentic AI in Business Administration",
@@ -8187,6 +8221,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836786",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878262",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950010809"
 ],
 "num_credits": 4,
@@ -8243,7 +8278,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799916",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879810",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950802060"
 ],
 "num_credits": 6,
@@ -8339,7 +8374,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842116"
 ],
 "num_credits": 3,
-"module_name": "[CIT3640001] Sanit\u00e4tsausbildung",
+"module_name": "[CIT3640001] Paramedic Training",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Further Support Electives"
@@ -8359,6 +8394,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836117",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877682",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876461"
 ],
 "num_credits": 4,
@@ -8370,7 +8406,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799118"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879094"
 ],
 "num_credits": 4,
 "module_name": "[IN9009] Leading Yourself and Others",
@@ -8393,7 +8429,9 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839172",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838754"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880469",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838754",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880077"
 ],
 "num_credits": 3,
 "module_name": "[EI04015] Stage Coaching for Engineers and Scientists",
@@ -8404,10 +8442,22 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836308"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836308",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875315"
 ],
 "num_credits": 6,
 "module_name": "[MGT000159] Start-up Launchpad - Business Plan Basics",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Further Support Electives"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937180"
+],
+"num_credits": 6,
+"module_name": "[MGT100180] Start-up Launchpad Pro - Business Plan Advanced",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Further Support Electives"
@@ -8516,7 +8566,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875742"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875742",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875743"
 ],
 "num_credits": 6,
 "module_name": "[WI000813] Technology Entrepreneurship Lab",
@@ -8527,7 +8578,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839077"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839077",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880350"
 ],
 "num_credits": 6,
 "module_name": "[MW2245] Think. Make. Start.",
@@ -8538,7 +8590,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838683"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838683",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880010"
 ],
 "num_credits": 9,
 "module_name": "[CIT622000] Trendseminar CDTM",
