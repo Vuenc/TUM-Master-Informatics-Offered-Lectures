@@ -28124,6 +28124,42 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Technology, Economy, and Society",
+"id": 950875341,
+"oldestRelatedCourseId": 950000407
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction to Psychology and Human Behavior",
+"id": 950875684,
+"oldestRelatedCourseId": 950759626
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Robot Learning and Decision-Making\t",
+"id": 950877118,
+"oldestRelatedCourseId": 950832465
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Innovative Entrepreneurs - Leadership of High-Tech Companies (WI000285, English)",
 "id": 950878046,
 "oldestRelatedCourseId": 820546378
@@ -28139,6 +28175,18 @@
 "title": "Propositional and First-Order Predicate Logic (Lecture)",
 "id": 950878345,
 "oldestRelatedCourseId": 950026470
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Compiler Construction I (IN2227)",
+"id": 950878415,
+"oldestRelatedCourseId": 950000685
 },
 {
 "courseTypeDto": {
@@ -28580,6 +28628,30 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Quantum Computers and Quantum Secure Communications",
+"id": 950879544,
+"oldestRelatedCourseId": 950488885
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Circuit Design for Security",
+"id": 950879612,
+"oldestRelatedCourseId": 950488868
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Tensor Networks (IN2388)",
 "id": 950879802,
 "oldestRelatedCourseId": 950563825
@@ -28622,6 +28694,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Concepts and Software Design for Cyber-Physical Systems",
+"id": 950879818,
+"oldestRelatedCourseId": 950411489
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -28643,6 +28727,18 @@
 "title": "Autonomous Driving (IN2356)",
 "id": 950880202,
 "oldestRelatedCourseId": 950143760
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Chinese B1.1",
+"id": 950880205,
+"oldestRelatedCourseId": 950183498
 },
 {
 "courseTypeDto": {
@@ -28724,6 +28820,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "HW/SW Codesign",
+"id": 950880825,
+"oldestRelatedCourseId": 950544221
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Artificial Intelligence in Medicine II (IN2408)",
 "id": 950880913,
 "oldestRelatedCourseId": 950636169
@@ -28772,6 +28880,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "A Wounded Planet: Because War Doesn't End at the Frontline (Environmental Lecture Series)",
+"id": 950881326,
+"oldestRelatedCourseId": 950294404
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Introduction to Deep Learning (IN2346)",
 "id": 950881510,
 "oldestRelatedCourseId": 950298738
@@ -28796,9 +28916,57 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Advanced Cryptographic Implementations",
+"id": 950881987,
+"oldestRelatedCourseId": 950488882
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT87317) Ethics of Artificial Intelligence",
+"id": 950882083,
+"oldestRelatedCourseId": 950768944
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT86082) Global Governance of AI - Lecture",
+"id": 950882118,
+"oldestRelatedCourseId": 950833167
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Logic Synthesis and Physical Design",
 "id": 950882205,
 "oldestRelatedCourseId": 950834730
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Foundations and Application of Generative AI (CITHN2014)",
+"id": 950882292,
+"oldestRelatedCourseId": 950804346
 },
 {
 "courseTypeDto": {
@@ -28814,6 +28982,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT86075) Algorithms & Fundamental Rights",
+"id": 950882418,
+"oldestRelatedCourseId": 950832794
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "SS26",
@@ -28823,6 +29003,42 @@
 "title": "Applied Cryptography for Decentralized Systems (CIT333000)",
 "id": 950882446,
 "oldestRelatedCourseId": 950834900
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT86062, SOT86063) AI Regulation & Law",
+"id": 950882538,
+"oldestRelatedCourseId": 950760849
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Data Ethics & Governance (Lecture)",
+"id": 950882543,
+"oldestRelatedCourseId": 950805662
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT86402) Qualitative Methods - Lecture",
+"id": 950882618,
+"oldestRelatedCourseId": 950762311
 },
 {
 "courseTypeDto": {
@@ -28847,6 +29063,18 @@
 "title": "IT Security 2 (CIT3330002)",
 "id": 950882662,
 "oldestRelatedCourseId": 950691533
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Fundamentals of Foundation Models",
+"id": 950882717,
+"oldestRelatedCourseId": 950762459
 },
 {
 "courseTypeDto": {
@@ -28883,6 +29111,18 @@
 "title": "Advanced Machine Learning: Deep Generative Models (CIT4230003)",
 "id": 950882968,
 "oldestRelatedCourseId": 950695272
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Understanding Society",
+"id": 950882980,
+"oldestRelatedCourseId": 950843716
 },
 {
 "courseTypeDto": {
@@ -28946,6 +29186,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT86084) Introduction to Business Law - Lecture",
+"id": 950883406,
+"oldestRelatedCourseId": 950833440
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -28964,9 +29216,57 @@
 "semesterDto": {
 "id": 206
 },
+"title": "(SOT86067) Climate Finance - Lecture",
+"id": 950883567,
+"oldestRelatedCourseId": 950760637
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT86066) Machine Learning and Society (3 ECTS)",
+"id": 950883656,
+"oldestRelatedCourseId": 950760852
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Advanced Deep Learning for Robotics (CIT433027)",
 "id": 950883688,
 "oldestRelatedCourseId": 950761808
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Quantum Information Meets Artificial Intelligence. From Foundations to Applications",
+"id": 950883786,
+"oldestRelatedCourseId": 950761193
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "IoT Security",
+"id": 950883809,
+"oldestRelatedCourseId": 950692636
 },
 {
 "courseTypeDto": {
@@ -28982,6 +29282,30 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Robot Control and Learning",
+"id": 950935011,
+"oldestRelatedCourseId": 950457739
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Advanced Topics in Computational Social Choice (CIT423011)",
+"id": 950935047,
+"oldestRelatedCourseId": 950935047
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -28991,6 +29315,18 @@
 "title": "Scientific Computing in Circuit Simulation (IN2306)",
 "id": 950935073,
 "oldestRelatedCourseId": 950187398
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Protocol Design (IN2333)",
+"id": 950935327,
+"oldestRelatedCourseId": 950259630
 },
 {
 "courseTypeDto": {
@@ -29015,6 +29351,54 @@
 "title": "Complexity Theory (IN2007)",
 "id": 950935596,
 "oldestRelatedCourseId": 821071343
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction to Psychology and Human Behavior",
+"id": 950935962,
+"oldestRelatedCourseId": 950759626
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Embedded Systems and Security",
+"id": 950938055,
+"oldestRelatedCourseId": 950938055
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Psychology of Learning and Instructional Design of AI-based systems",
+"id": 950938086,
+"oldestRelatedCourseId": 950797092
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT86087) Technology and the Public Interest",
+"id": 950938139,
+"oldestRelatedCourseId": 950938139
 }
 ]
 }

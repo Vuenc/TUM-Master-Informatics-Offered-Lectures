@@ -63980,9 +63980,45 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Technology, Economy, and Society",
+"id": 950875341,
+"oldestRelatedCourseId": 950000407
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Complex Analysis [MA2006]",
 "id": 950877632,
 "oldestRelatedCourseId": 820830407
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Building Structures 2",
+"id": 950877633,
+"oldestRelatedCourseId": 950006078
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Material Science II",
+"id": 950877646,
+"oldestRelatedCourseId": 950057065
 },
 {
 "courseTypeDto": {
@@ -64028,9 +64064,33 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Marketing",
+"id": 950877733,
+"oldestRelatedCourseId": 820705858
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Hydraulic Structures and Water Resources Engineering Supplementary Module",
 "id": 950877770,
 "oldestRelatedCourseId": 820887261
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Sensory Analysis of Foods",
+"id": 950877804,
+"oldestRelatedCourseId": 1671496
 },
 {
 "courseTypeDto": {
@@ -64124,6 +64184,30 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Surveying 2",
+"id": 950877994,
+"oldestRelatedCourseId": 820094758
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Electrical Measurement Technology for Computer Scientists",
+"id": 950877995,
+"oldestRelatedCourseId": 840001302
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Human Reliability",
 "id": 950878019,
 "oldestRelatedCourseId": 820098781
@@ -64163,6 +64247,30 @@
 "title": "Innovative Entrepreneurs - Leadership of High-Tech Companies (WI000285, English)",
 "id": 950878046,
 "oldestRelatedCourseId": 820546378
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction to Sociology",
+"id": 950878049,
+"oldestRelatedCourseId": 849981154
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Sociology of work and industrial relations",
+"id": 950878085,
+"oldestRelatedCourseId": 820900968
 },
 {
 "courseTypeDto": {
@@ -64259,6 +64367,18 @@
 "title": "Propositional and First-Order Predicate Logic (Lecture)",
 "id": 950878345,
 "oldestRelatedCourseId": 950026470
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Compiler Construction I (IN2227)",
+"id": 950878415,
+"oldestRelatedCourseId": 950000685
 },
 {
 "courseTypeDto": {
@@ -64394,6 +64514,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Economics II (Macroeconomics) (WI000023 / CS0067) at Campus Straubing",
+"id": 950878488,
+"oldestRelatedCourseId": 840652917
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -64427,6 +64559,18 @@
 "title": "Introduction to ecology",
 "id": 950878520,
 "oldestRelatedCourseId": 950000985
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "CAx 2 - Lecture",
+"id": 950878526,
+"oldestRelatedCourseId": 820844647
 },
 {
 "courseTypeDto": {
@@ -64487,6 +64631,30 @@
 "title": "Technology and Innovation Management: Introduction (WI000820, English)",
 "id": 950878537,
 "oldestRelatedCourseId": 840593102
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Technology and Innovation Management",
+"id": 950878538,
+"oldestRelatedCourseId": 840593102
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Lecture BA - Prof. Birk - Architecture and Timber Construction",
+"id": 950878543,
+"oldestRelatedCourseId": 821003059
 },
 {
 "courseTypeDto": {
@@ -64754,6 +64922,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Nanoelectronics",
+"id": 950878798,
+"oldestRelatedCourseId": 950035740
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "SS26",
@@ -64766,6 +64946,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "History of brewing technology",
+"id": 950878805,
+"oldestRelatedCourseId": 949999782
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -64775,6 +64967,42 @@
 "title": "Database Systems on Modern CPU Architectures (IN2118)",
 "id": 950878809,
 "oldestRelatedCourseId": 950029539
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Theory of Landscape Architecture - LAT",
+"id": 950878972,
+"oldestRelatedCourseId": 950030137
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Applied mechanics 1",
+"id": 950878987,
+"oldestRelatedCourseId": 1671970
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Plant Simulation",
+"id": 950878988,
+"oldestRelatedCourseId": 1672020
 },
 {
 "courseTypeDto": {
@@ -64880,6 +65108,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Discrete Event Systems",
+"id": 950879243,
+"oldestRelatedCourseId": 950260491
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Petri Nets (IN2052)",
 "id": 950879267,
 "oldestRelatedCourseId": 950259719
@@ -64895,6 +65135,30 @@
 "title": "Image and Video Compression",
 "id": 950879279,
 "oldestRelatedCourseId": 950141996
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Control Systems 1",
+"id": 950879387,
+"oldestRelatedCourseId": 950186486
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Mobile Communications",
+"id": 950879389,
+"oldestRelatedCourseId": 950216926
 },
 {
 "courseTypeDto": {
@@ -64970,6 +65234,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Chinese B1.1",
+"id": 950880205,
+"oldestRelatedCourseId": 950183498
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -64991,6 +65267,30 @@
 "title": "Basic Principles of Physical Chemistry (CH4104)",
 "id": 950880280,
 "oldestRelatedCourseId": 950295527
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Systemtheorie",
+"id": 950880288,
+"oldestRelatedCourseId": 950410271
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(POL25104) Data Protection Law",
+"id": 950880294,
+"oldestRelatedCourseId": 950488973
 },
 {
 "courseTypeDto": {
@@ -65066,6 +65366,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Nachrichtentechnik",
+"id": 950880821,
+"oldestRelatedCourseId": 950471568
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "SS26",
@@ -65084,9 +65396,93 @@
 "semesterDto": {
 "id": 206
 },
+"title": "(POL10700) Policy Analysis - fundamentals Lecture",
+"id": 950881127,
+"oldestRelatedCourseId": 950320824
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(POL10800) Policy Analysis - Advanced - Lecture",
+"id": 950881132,
+"oldestRelatedCourseId": 950352205
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Molecular Inorganic Chemistry (CH4103)",
 "id": 950881230,
 "oldestRelatedCourseId": 950295522
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Elektronische Schaltungen",
+"id": 950881260,
+"oldestRelatedCourseId": 950572827
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "A Wounded Planet: Because War Doesn't End at the Frontline (Environmental Lecture Series)",
+"id": 950881326,
+"oldestRelatedCourseId": 950294404
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(POL10900) International Relations - Fundamentals - Lecture",
+"id": 950881354,
+"oldestRelatedCourseId": 950320833
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Digital System Design with VHDL",
+"id": 950881412,
+"oldestRelatedCourseId": 950573374
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Introduction in Signal Processing",
+"id": 950881437,
+"oldestRelatedCourseId": 950218082
 },
 {
 "courseTypeDto": {
@@ -65138,6 +65534,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "(SOT87317) Ethics of Artificial Intelligence",
+"id": 950882083,
+"oldestRelatedCourseId": 950768944
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -65159,6 +65567,18 @@
 "title": "Applied Cryptography for Decentralized Systems (CIT333000)",
 "id": 950882446,
 "oldestRelatedCourseId": 950834900
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Data Ethics & Governance (Lecture)",
+"id": 950882543,
+"oldestRelatedCourseId": 950805662
 },
 {
 "courseTypeDto": {
@@ -65240,9 +65660,45 @@
 "semesterDto": {
 "id": 206
 },
+"title": "(SOT110039) Legal Foundations of Digital Transformation",
+"id": 950883722,
+"oldestRelatedCourseId": 950762560
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Quantum Information Meets Artificial Intelligence. From Foundations to Applications",
+"id": 950883786,
+"oldestRelatedCourseId": 950761193
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Filling and Packaging Machinery",
 "id": 950886471,
 "oldestRelatedCourseId": 950076474
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Protocol Design (IN2333)",
+"id": 950935327,
+"oldestRelatedCourseId": 950259630
 },
 {
 "courseTypeDto": {
@@ -65291,6 +65747,18 @@
 "title": "Applied Regression [MA3409]",
 "id": 950936847,
 "oldestRelatedCourseId": 950641096
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Additive Manufacturing in Construction 1 \u2013 Lecture",
+"id": 950937210,
+"oldestRelatedCourseId": 950876621
 }
 ]
 }
