@@ -25,3 +25,9 @@ python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --
 python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum master-information-systems
 python print_html_table.py --termid $TERMID --curriculum master-information-systems --output "../docs/master-information-systems-$TERMNAME.html"
 python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-information-systems --output "../docs/master-information-systems-all.html"
+
+# Master Mathematics
+python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-mathematics
+python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum master-mathematics
+python print_html_table.py --termid $TERMID --curriculum master-mathematics --output "../docs/master-mathematics-$TERMNAME.html"
+python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-mathematics --output "../docs/master-mathematics-all.html"

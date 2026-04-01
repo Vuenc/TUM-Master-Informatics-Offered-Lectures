@@ -30,6 +30,16 @@ def extract_area_informatics_master(curriculum_path: List[str]) -> str | None:
         return curriculum_path[1]
     return None
 
+def extract_area_mathematics_master(curriculum_path: List[str]) -> str | None:
+    if curriculum_path[0] == "Elective Modules":
+        if (
+            len(curriculum_path) >= 2
+            and curriculum_path[1] == "Mathematical Modules"
+        ):
+            return curriculum_path[3]
+        return curriculum_path[2]
+    return None
+
 
 def extract_area_informatics_bachelor(curriculum_path: List[str]) -> str | None:
     if len(curriculum_path) >= 1 and curriculum_path[0] in [
@@ -95,21 +105,20 @@ curriculums: Dict[str, Curriculum] = {
         extract_area=extract_area_dea,
         extra_columns={},
     ),
-    "master-mathematics": Curriculum(
-        use_theory_nodes=False,
-        heading="Elective Modules in Master Mathematics",
-        all_offered_courses_path="../data/all_offered_courses_mathematics.json",
-        tree_file_path="../data/curriculum_tree_mathematics.json",
-        curriculum_ids=["5244", "4852", "4407"],
-        extract_area=lambda _: None,
-        extra_columns={},
-    ),
     "master-information-systems": Curriculum(
         heading="Lectures in Master Information Systems",
         all_offered_courses_path="../data/all_offered_courses_master_information_systems.json",
         tree_file_path="../data/curriculum_tree_master_information_systems.json",
         curriculum_ids=["4997", "404", "4368", "4716", "4734", "4918", "5013"],
         extract_area=extract_area_master_information_systems,
+        extra_columns={},
+    ),
+    "master-mathematics": Curriculum(
+        heading="Lectures in Master Mathematics",
+        all_offered_courses_path="../data/all_offered_courses_master_mathematics.json",
+        tree_file_path="../data/curriculum_tree_master_mathematics.json",
+        curriculum_ids=["5244", "4852", "4407"],
+        extract_area=extract_area_mathematics_master,
         extra_columns={},
     ),
 }
