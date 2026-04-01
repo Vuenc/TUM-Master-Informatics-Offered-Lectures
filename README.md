@@ -14,6 +14,9 @@ This repo aims to provide a **list of lectures** that are being offered this sem
 - **Information Systems M.Sc.**:
   - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-information-systems-ss26.html) (preliminary, last update: Apr. 1st)
   - [Historical list of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-information-systems-all.html)
+- **Mathematics M.Sc.**:
+  - List of lectures [offered in summer semester 2026](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-mathematics-ss26.html) (preliminary, last update: Apr. 1st)
+  - [Historical list of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-mathematics-all.html)
 
 _This list is not official, might be incomplete or have errors. Use with care!_
 
