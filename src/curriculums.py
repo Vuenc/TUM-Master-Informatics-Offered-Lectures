@@ -4,7 +4,6 @@ from typing import Any, Callable, Dict, List
 
 @dataclass
 class Curriculum:
-    use_theory_nodes: bool
     heading: str
     curriculum_ids: List[str]
     tree_file_path: str
@@ -73,7 +72,6 @@ EXTRA_COLUMNS_INFORMATICS = {"THEO": extract_informatics_theo_column}
 
 curriculums: Dict[str, Curriculum] = {
     "bachelor-informatics": Curriculum(
-        use_theory_nodes=True,
         heading="Lectures in Bachelor Informatics",
         all_offered_courses_path="../data/all_offered_courses_bachelor_informatics.json",
         tree_file_path="../data/curriculum_tree_bachelor_informatics.json",
@@ -82,7 +80,6 @@ curriculums: Dict[str, Curriculum] = {
         extra_columns={},
     ),
     "master-informatics": Curriculum(
-        use_theory_nodes=True,
         heading="Elective Modules in Master Informatics",
         all_offered_courses_path="../data/all_offered_courses_master_informatics.json",
         tree_file_path="../data/curriculum_tree_master_informatics.json",
@@ -91,7 +88,6 @@ curriculums: Dict[str, Curriculum] = {
         extra_columns=EXTRA_COLUMNS_INFORMATICS,
     ),
     "master-dea": Curriculum(
-        use_theory_nodes=False,
         heading="Lectures in Master Data Engineering and Analytics",
         all_offered_courses_path="../data/all_offered_courses_dea.json",
         tree_file_path="../data/curriculum_tree_dea.json",
@@ -109,7 +105,6 @@ curriculums: Dict[str, Curriculum] = {
         extra_columns={},
     ),
     "master-information-systems": Curriculum(
-        use_theory_nodes=False,
         heading="Lectures in Master Information Systems",
         all_offered_courses_path="../data/all_offered_courses_master_information_systems.json",
         tree_file_path="../data/curriculum_tree_master_information_systems.json",

@@ -18,7 +18,6 @@ COURSE_CODE_PARENTHESIS_REGEX = re.compile(r"\s*\((?:[A-Z]+[0-9]+(?:_[A-Z0-9])*|
 
 THEORY_NODE_NAMES = ["Theorie", "Theory"]
 
-# REGISTRATION_BASE_URL = "https://campus.tum.de/tumonline/ee/rest/pages/slc.tm.cp/course-registration/" 
 COURSE_DETAILS_BASE_URL = "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/"
 
 @dataclass
