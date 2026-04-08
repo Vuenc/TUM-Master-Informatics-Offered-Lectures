@@ -217,6 +217,18 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935353",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935356"
+],
+"num_credits": 5,
+"module_name": "[CIT423010] Requirements Engineering",
+"rule_node_names_by_levels": {
+"59": "Elective Courses",
+"79": "Software Engineering"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837663",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950005004"
 ],
@@ -746,17 +758,6 @@
 ],
 "num_credits": 5,
 "module_name": "[EI7356] Network Planning",
-"rule_node_names_by_levels": {
-"59": "Elective Courses",
-"79": "Algorithms"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950338799"
-],
-"num_credits": 8,
-"module_name": "[IN2304] Online and Approximation Algorithms",
 "rule_node_names_by_levels": {
 "59": "Elective Courses",
 "79": "Algorithms"
@@ -2561,6 +2562,18 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935353",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935356"
+],
+"num_credits": 5,
+"module_name": "[CIT423010] Requirements Engineering",
+"rule_node_names_by_levels": {
+"59": "Elective Courses",
+"79": "Information Systems"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842177"
 ],
 "num_credits": 4,
@@ -2931,7 +2944,18 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950773842",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950434002",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801363",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841262",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841262"
+],
+"num_credits": 10,
+"module_name": "[IN2106] Advanced Practical Course",
+"rule_node_names_by_levels": {
+"59": "Elective Courses",
+"79": "Module ohne Zuordnung",
+"99": "Zus\u00e4tzliches (Entwicklungs)praktikum - 1 aus 4"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878552",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950426596",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950177266",
@@ -2949,18 +2973,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841134",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882341",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659784",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595637"
-],
-"num_credits": 10,
-"module_name": "[IN2106] Advanced Practical Course",
-"rule_node_names_by_levels": {
-"59": "Elective Courses",
-"79": "Module ohne Zuordnung",
-"99": "Zus\u00e4tzliches (Entwicklungs)praktikum - 1 aus 4"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595637",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667240",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950526125",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841135",
@@ -3161,7 +3174,17 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833568",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873240",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950632459",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667294",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950667294"
+],
+"num_credits": 5,
+"module_name": "[IN2107] Advanced Seminar Course",
+"rule_node_names_by_levels": {
+"59": "Elective Courses",
+"79": "Module ohne Zuordnung"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950768482",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950660823",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873229",
@@ -3177,17 +3200,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839273",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880563",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950939461",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767455"
-],
-"num_credits": 5,
-"module_name": "[IN2107] Advanced Seminar Course",
-"rule_node_names_by_levels": {
-"59": "Elective Courses",
-"79": "Module ohne Zuordnung"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950767455",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950634183",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950666562",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950640403",
@@ -3523,7 +3536,17 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837119",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878577",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669841",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669841",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669841"
+],
+"num_credits": 5,
+"module_name": "[IN2107] Advanced Seminar Course",
+"rule_node_names_by_levels": {
+"59": "Elective Courses",
+"79": "Module ohne Zuordnung"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872939",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882921",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880271",
@@ -3539,17 +3562,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950396221",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950759786",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950724763",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950290996"
-],
-"num_credits": 5,
-"module_name": "[IN2107] Advanced Seminar Course",
-"rule_node_names_by_levels": {
-"59": "Elective Courses",
-"79": "Module ohne Zuordnung"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950290996",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950769003",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950339365",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950401675",
@@ -5172,17 +5185,7 @@
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950664944",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950571704",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727439"
-],
-"num_credits": 2,
-"module_name": "[CLA20420] Integration of Technology into Society",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727439",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879497"
 ],
 "num_credits": 2,
@@ -6145,17 +6148,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950431055"
-],
-"num_credits": 1,
-"module_name": "[CLA10813] Economic Thinking: Economics",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837306"
 ],
 "num_credits": 3,
@@ -7063,7 +7055,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841529"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841529",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842221"
 ],
 "num_credits": 6,
 "module_name": "[SOT86074] Aligning Generative AI to Social Values (6 ECTS)",

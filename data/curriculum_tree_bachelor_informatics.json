@@ -582,8 +582,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950798509",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799105"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878525",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879083"
 ],
 "num_credits": 5,
 "module_name": "[IN0003] Functional Programming and Verification",
@@ -1675,7 +1675,17 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950731607",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950731606",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950731606"
+],
+"num_credits": 6,
+"module_name": "[IN2371] Fundamentals of Human-Centered Robotics",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "Human Centered Engineering"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950732374"
 ],
 "num_credits": 6,
@@ -2704,6 +2714,47 @@
 "79": "Sprachmodule",
 "99": "Language Courses on Request",
 "119": "[SZ0003-05] French"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669855",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837441",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878835"
+],
+"num_credits": 3,
+"module_name": "[SZ1304] Hebrew A1.1",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Sprachmodule",
+"99": "Language Courses on Request",
+"119": "[SZ0003-13] Hebrew"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838006"
+],
+"num_credits": 3,
+"module_name": "[SZ1305] Hebrew A1.2",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Sprachmodule",
+"99": "Language Courses on Request",
+"119": "[SZ0003-13] Hebrew"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950218232"
+],
+"num_credits": 3,
+"module_name": "[SZ1306] Hebrew A2.1",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Sprachmodule",
+"99": "Language Courses on Request",
+"119": "[SZ0003-13] Hebrew"
 }
 },
 {
@@ -5019,15 +5070,16 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950702239"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840061",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881326"
 ],
-"num_credits": 5,
-"module_name": "[SOT55304] The Future of Data Governance",
+"num_credits": 3,
+"module_name": "[CLA31900] Lecture Series Environment - TUM",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "[SOT60300] Kontextlehre WTG (former Carl von Linde-Akademie)",
 "99": "[SOT60303] Politics & Business",
-"119": "[SOT603035] 5 Credits Modules"
+"119": "[SOT603033] 3 Credits Modules"
 }
 },
 {
@@ -6316,19 +6368,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879243"
-],
-"num_credits": 5,
-"module_name": "[EI0711] Discrete Event Systems",
-"rule_node_names_by_levels": {
-"59": "Application Area",
-"79": "Application Area Electrical Engineering",
-"99": "Elective Modules",
-"119": "Vertiefungslinie Automatisierungstechnik"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880821"
 ],
 "num_credits": 5,
@@ -7101,7 +7140,9 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840694",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839627"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881897",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839627",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880870"
 ],
 "num_credits": 5,
 "module_name": "[ME25666] Introduction to Bioengineering",
@@ -7244,11 +7285,11 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880884",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880965"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879495",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881648"
 ],
 "num_credits": 6,
-"module_name": "[WI000023_E] Economics II - Macroeconomics",
+"module_name": "[WI001057_E] Cost Accounting",
 "rule_node_names_by_levels": {
 "59": "Application Area",
 "79": "Application Area Business Administration",

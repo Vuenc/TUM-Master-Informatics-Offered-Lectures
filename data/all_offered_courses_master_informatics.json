@@ -28124,6 +28124,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "NeuroAI and Machine Learning in Neuroscience \u2013 Lecture (M.Sc.)",
+"id": 950869350,
+"oldestRelatedCourseId": 950869350
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Technology, Economy, and Society",
 "id": 950875341,
 "oldestRelatedCourseId": 950000407
@@ -28295,6 +28307,18 @@
 "title": "Algorithmic Game Theory (IN2239)",
 "id": 950878519,
 "oldestRelatedCourseId": 950029649
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Functional Programming and Verification (IN0003)",
+"id": 950878525,
+"oldestRelatedCourseId": 240990556
 },
 {
 "courseTypeDto": {
@@ -29000,18 +29024,6 @@
 "semesterDto": {
 "id": 206
 },
-"title": "Applied Cryptography for Decentralized Systems (CIT333000)",
-"id": 950882446,
-"oldestRelatedCourseId": 950834900
-},
-{
-"courseTypeDto": {
-"key": "VO"
-},
-"termName": "SS26",
-"semesterDto": {
-"id": 206
-},
 "title": "(SOT86062, SOT86063) AI Regulation & Law",
 "id": 950882538,
 "oldestRelatedCourseId": 950760849
@@ -29330,6 +29342,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Requirements Engineering (CIT423010)",
+"id": 950935353,
+"oldestRelatedCourseId": 950935353
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -29399,6 +29423,18 @@
 "title": "(SOT86087) Technology and the Public Interest",
 "id": 950938139,
 "oldestRelatedCourseId": 950938139
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Machine Learning and Structure: Geometry, Discrete Structure and Algorithms (CIT423013)",
+"id": 950939923,
+"oldestRelatedCourseId": 950939923
 }
 ]
 }

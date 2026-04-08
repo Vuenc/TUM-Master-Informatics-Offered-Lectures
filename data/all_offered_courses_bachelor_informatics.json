@@ -64568,6 +64568,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Functional Programming and Verification (IN0003)",
+"id": 950878525,
+"oldestRelatedCourseId": 240990556
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "CAx 2 - Lecture",
 "id": 950878526,
 "oldestRelatedCourseId": 820844647
@@ -65384,6 +65396,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Introduction to Bioengineering",
+"id": 950880870,
+"oldestRelatedCourseId": 950409637
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Economics II  (WI000023_E, English) (Macroeconomics)",
 "id": 950880884,
 "oldestRelatedCourseId": 950298158
@@ -65555,18 +65579,6 @@
 "title": "Introduction to Data Science and Statistical Thinking - Course Munich [CIT5130002]",
 "id": 950882361,
 "oldestRelatedCourseId": 950758468
-},
-{
-"courseTypeDto": {
-"key": "VO"
-},
-"termName": "SS26",
-"semesterDto": {
-"id": 206
-},
-"title": "Applied Cryptography for Decentralized Systems (CIT333000)",
-"id": 950882446,
-"oldestRelatedCourseId": 950834900
 },
 {
 "courseTypeDto": {

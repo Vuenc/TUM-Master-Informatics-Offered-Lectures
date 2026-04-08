@@ -32324,18 +32324,6 @@
 "semesterDto": {
 "id": 206
 },
-"title": "Applied Cryptography for Decentralized Systems (CIT333000)",
-"id": 950882446,
-"oldestRelatedCourseId": 950834900
-},
-{
-"courseTypeDto": {
-"key": "VO"
-},
-"termName": "SS26",
-"semesterDto": {
-"id": 206
-},
 "title": "(SOT86062, SOT86063) AI Regulation & Law",
 "id": 950882538,
 "oldestRelatedCourseId": 950760849
@@ -32687,6 +32675,18 @@
 "title": "Protocol Design (IN2333)",
 "id": 950935327,
 "oldestRelatedCourseId": 950259630
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Requirements Engineering (CIT423010)",
+"id": 950935353,
+"oldestRelatedCourseId": 950935353
 },
 {
 "courseTypeDto": {

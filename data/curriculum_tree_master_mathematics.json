@@ -4971,8 +4971,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950799490",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950801891"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879428",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881584"
 ],
 "num_credits": 5,
 "module_name": "[PH2196] Fusion Research",
@@ -12763,6 +12763,352 @@
 "59": "Academic Achievements",
 "79": "Interdisciplinary Courses",
 "99": "Elective Modules Soft Skills"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841243",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842123"
+],
+"num_credits": 3,
+"module_name": "[SOT10082] Project Weeks: Data Design Studio for AI-Powered EdTech",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841142"
+],
+"num_credits": 5,
+"module_name": "[SOT10083] Project Weeks: Decision Education",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849037"
+],
+"num_credits": 6,
+"module_name": "[SOT10133] Project Weeks: Towards Inclusive AI Cultural-Companion: Pepper",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882057",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882543",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872167"
+],
+"num_credits": 6,
+"module_name": "[SOT46401] Data Ethics and Governance",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876890"
+],
+"num_credits": 6,
+"module_name": "[SOT86090] Project Week: AI in the Metaverse",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873466"
+],
+"num_credits": 6,
+"module_name": "[MGT001481] Project Week AI Meets Antitrust: AI-Based Detection of Cartel Agreements",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873062"
+],
+"num_credits": 6,
+"module_name": "[SOT86119] Project Week: Regulation of Digital Markets in Africa",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950869393"
+],
+"num_credits": 3,
+"module_name": "[MGT001480] Project Week: GovTech Innovation Lab: Escape the Bureaucratic Jungle",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876297"
+],
+"num_credits": 6,
+"module_name": "[CIT623000] Projektwoche: Responsible, Sustainable and Inclusive Digital Product Creation",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875487",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950938192"
+],
+"num_credits": 3,
+"module_name": "[CIT643002] 1.000+ Project week",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "AI & Digitization"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937198"
+],
+"num_credits": 6,
+"module_name": "[ED120117] Project Week: Design Futuring",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Creativity & Design"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841897",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883184"
+],
+"num_credits": 6,
+"module_name": "[MGT001435] Impact Entrepreneurship for Transformational Change",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Entrepreneurship & Innovation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841253",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882487"
+],
+"num_credits": 6,
+"module_name": "[MGT001348] Innovation Sprint",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Entrepreneurship & Innovation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832296"
+],
+"num_credits": 6,
+"module_name": "[MGT001465] Research in Action: Mastering scientific theory and empirical practice",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Entrepreneurship & Innovation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836308",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875315"
+],
+"num_credits": 6,
+"module_name": "[MGT000159] Start-up Launchpad - Business Plan Basics",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Entrepreneurship & Innovation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833770"
+],
+"num_credits": 3,
+"module_name": "[MGT001444] The Entrepreneur's Playbook - case studies by VCs and founders",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Entrepreneurship & Innovation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841593"
+],
+"num_credits": 3,
+"module_name": "[MHP01001] Project Week: Assessment in Neurological Diseases and Disorders",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Medicine & Health"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841320"
+],
+"num_credits": 4,
+"module_name": "[MHP00002] Project Week: Sensors and Wearables for Automated Detection of Nutrition, Physical Activity, and Sleep",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Medicine & Health"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841589",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841996"
+],
+"num_credits": 4,
+"module_name": "[MHP00008] Project Week: Sustainable Group Travels in Winter for Children and Adolescents",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Medicine & Health"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841143"
+],
+"num_credits": 4,
+"module_name": "[ED160044] Project Weeks: Applied Surgineering",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Medicine & Health"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873992"
+],
+"num_credits": 6,
+"module_name": "[MGT001482] Project Week: Strengthening resilience, embracing diversity: Business and educational perspectives for an active, inclusive, and sustainable full school day",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Society & Communications"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841452"
+],
+"num_credits": 6,
+"module_name": "[SOT10084] Design Challenge: Addressing the Climate Crisis Through Gaming Simulation",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Sustainability & Transformation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950849615"
+],
+"num_credits": 3,
+"module_name": "[ED130115] Particle Based Methods in Engineering",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Sustainability & Transformation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950848865"
+],
+"num_credits": 6,
+"module_name": "[ED150053] Planning for Mobility Justice",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Sustainability & Transformation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842039"
+],
+"num_credits": 6,
+"module_name": "[MGT001446] Project week: Circular Economy Perspectives in Research and Practice",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Sustainability & Transformation"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841992"
+],
+"num_credits": 3,
+"module_name": "[ED150038] Project Weeks: Applied Citizen Participation",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Sustainability & Transformation"
 }
 }
 ]
