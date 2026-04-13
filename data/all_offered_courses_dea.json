@@ -32306,6 +32306,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Foundations and Application of Generative AI (CITHN2014)",
+"id": 950882292,
+"oldestRelatedCourseId": 950804346
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -32702,6 +32714,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Cloud-Based Data Processing (CIT323005)",
+"id": 950935491,
+"oldestRelatedCourseId": 950935491
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -32747,6 +32771,18 @@
 "title": "(SOT86087) Technology and the Public Interest",
 "id": 950938139,
 "oldestRelatedCourseId": 950938139
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Cryptography for Decentralized Systems (CIT333003)",
+"id": 950939243,
+"oldestRelatedCourseId": 950939243
 }
 ]
 }

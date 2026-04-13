@@ -64640,7 +64640,7 @@
 "semesterDto": {
 "id": 206
 },
-"title": "Technology and Innovation Management: Introduction (WI000820, English)",
+"title": "\tTechnology and Innovation Management: Introduction (WI000114, WI000820, English) (Bachelor)",
 "id": 950878537,
 "oldestRelatedCourseId": 840593102
 },
@@ -65726,6 +65726,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Cloud-Based Data Processing (CIT323005)",
+"id": 950935491,
+"oldestRelatedCourseId": 950935491
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "SS26",
@@ -65771,6 +65783,18 @@
 "title": "Additive Manufacturing in Construction 1 \u2013 Lecture",
 "id": 950937210,
 "oldestRelatedCourseId": 950876621
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Cryptography for Decentralized Systems (CIT333003)",
+"id": 950939243,
+"oldestRelatedCourseId": 950939243
 }
 ]
 }
