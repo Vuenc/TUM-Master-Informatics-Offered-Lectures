@@ -1620,6 +1620,21 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937032",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937033"
+],
+"num_credits": 6,
+"module_name": "[CIT413061] Topological Quantum Field Theory",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "Mathematical Modules",
+"99": "A Areas of Concentration",
+"119": "A2 Algebra and Geometry",
+"139": "Modules on Special Topics in Algebra and Geometry"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878454",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878560"
 ],
@@ -1934,8 +1949,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950692727",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950702365"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882726",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882873"
 ],
 "num_credits": 6,
 "module_name": "[MA4801] Mathematical Foundations of Machine Learning",
@@ -2188,11 +2203,26 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950571067",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950636986"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950458540",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950458541"
 ],
-"num_credits": 6,
-"module_name": "[MA5929] Identification of Artificial Neural Networks: from the Analysis of one Neuron to Deep Neural Networks",
+"num_credits": 9,
+"module_name": "[MA5343] Discontinuous Galerkin Methods",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "Mathematical Modules",
+"99": "A Areas of Concentration",
+"119": "A4 Numerical Analysis and Scientific Computing",
+"139": "Modules on Special Topics in Numerical Analysis and Scientific Computing"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937557",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937699"
+],
+"num_credits": 5,
+"module_name": "[CIT413060] High-Dimensional Partial Differential Equations",
 "rule_node_names_by_levels": {
 "59": "Elective Modules",
 "79": "Mathematical Modules",
@@ -2772,8 +2802,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950692727",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950702365"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882726",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882873"
 ],
 "num_credits": 6,
 "module_name": "[MA4801] Mathematical Foundations of Machine Learning",
@@ -3186,6 +3216,21 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937554",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937555"
+],
+"num_credits": 9,
+"module_name": "[CIT413068] Combinatorics",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "Mathematical Modules",
+"99": "B Mathematics Modules in other Fields",
+"119": "B1 Mathematics Modules in other Fields",
+"139": "Mathematics Modules in other Fields"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950797391",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950797392"
 ],
@@ -3216,7 +3261,20 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838813",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838813"
+],
+"num_credits": 9,
+"module_name": "[MA3407] Financial Mathematics 1",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "Mathematical Modules",
+"99": "B Mathematics Modules in other Fields",
+"119": "B1 Mathematics Modules in other Fields",
+"139": "Mathematics Modules in other Fields"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838555"
 ],
 "num_credits": 9,
@@ -3261,20 +3319,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950835816"
-],
-"num_credits": 6,
-"module_name": "[CIT413051] Graph Theory",
-"rule_node_names_by_levels": {
-"59": "Elective Modules",
-"79": "Mathematical Modules",
-"99": "B Mathematics Modules in other Fields",
-"119": "B1 Mathematics Modules in other Fields",
-"139": "Mathematics Modules in other Fields"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950835816",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950835817"
 ],
 "num_credits": 6,
@@ -3339,6 +3384,20 @@
 ],
 "num_credits": 9,
 "module_name": "[MA3406] Insurance Mathematics 2",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "Mathematical Modules",
+"99": "B Mathematics Modules in other Fields",
+"119": "B1 Mathematics Modules in other Fields",
+"139": "Mathematics Modules in other Fields"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950939619"
+],
+"num_credits": 3,
+"module_name": "[CIT413071] Optimal Transport for Stochastic Processes with Applications to Mathematical Finance",
 "rule_node_names_by_levels": {
 "59": "Elective Modules",
 "79": "Mathematical Modules",
@@ -4355,18 +4414,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837092"
-],
-"num_credits": 6,
-"module_name": "[IN2067] Robotics",
-"rule_node_names_by_levels": {
-"59": "Elective Modules",
-"79": "C Mathematical Theories in other Disciplines",
-"99": "C1 Informatics"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950873477",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875389"
 ],
@@ -4621,6 +4668,19 @@
 ],
 "num_credits": 9,
 "module_name": "[PH0008] Theoretical Physics 4A (Statistical Mechanics and Thermodynamics)",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C2 Physics"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950939303",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950939305"
+],
+"num_credits": 8,
+"module_name": "[NAT3068] Algebraic Topology in Physics",
 "rule_node_names_by_levels": {
 "59": "Elective Modules",
 "79": "C Mathematical Theories in other Disciplines",
@@ -5038,6 +5098,19 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878368",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881237"
+],
+"num_credits": 5,
+"module_name": "[PH2019] Molecular Dynamics Simulations",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C2 Physics"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836898",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839424"
 ],
@@ -5094,6 +5167,32 @@
 ],
 "num_credits": 5,
 "module_name": "[PH2036] Plasma Physics 2",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C2 Physics"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880012",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881555"
+],
+"num_credits": 5,
+"module_name": "[NAT3033] Quantum Computing with Superconducting Qubits: From Fabrication to Algorithms",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C2 Physics"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883669",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882690"
+],
+"num_credits": 10,
+"module_name": "[NAT3045] Quantum Error Correction and Fault Tolerance for Computing and Communication",
 "rule_node_names_by_levels": {
 "59": "Elective Modules",
 "79": "C Mathematical Theories in other Disciplines",
@@ -5221,7 +5320,31 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841745",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950936865",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950936867"
+],
+"num_credits": 10,
+"module_name": "[NAT3065] Scattering Amplitudes",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C2 Physics"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841745"
+],
+"num_credits": 10,
+"module_name": "[PH1001] Theoretical Solid State Physics",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C2 Physics"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837361",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839265"
 ],
@@ -6253,7 +6376,18 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840773",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881967",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881967"
+],
+"num_credits": 5,
+"module_name": "[MW2323] Computational Acoustics",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C6 Other Sciences"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838054",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879470"
 ],
@@ -7062,6 +7196,18 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950938020"
+],
+"num_credits": 5,
+"module_name": "[CIT443036] Quantum Theory for Engineers",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C6 Other Sciences"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878655",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837334",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878740",
@@ -7264,7 +7410,18 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878161",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878161"
+],
+"num_credits": 5,
+"module_name": "[MW0595] Turbulent Flows",
+"rule_node_names_by_levels": {
+"59": "Elective Modules",
+"79": "C Mathematical Theories in other Disciplines",
+"99": "C6 Other Sciences"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878999"
 ],
 "num_credits": 5,
@@ -7429,6 +7586,18 @@
 ],
 "num_credits": 5,
 "module_name": "[SG860024] Football Analytics Hackathon",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Project Weeks"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872468"
+],
+"num_credits": 5,
+"module_name": "[MHP00004] Football Analytics Hackathon",
 "rule_node_names_by_levels": {
 "59": "Academic Achievements",
 "79": "Interdisciplinary Courses",
@@ -9198,7 +9367,19 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838055",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879471",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840593",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881804",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881804"
+],
+"num_credits": 3,
+"module_name": "[SZ0488] English - Gateway to English Master's C1",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Language Center",
+"119": "[SZ0003-04] TUM Language Center English"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838426",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879814",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950795872",
@@ -10877,6 +11058,20 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876459",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879124"
+],
+"num_credits": 3,
+"module_name": "[SZ1003] Swedish B1",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Language Center",
+"119": "[SZ0003-10] TUM Language Center Swedish"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950794643"
 ],
 "num_credits": 3,
@@ -11741,6 +11936,19 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950631668",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837314"
+],
+"num_credits": 2,
+"module_name": "[CLA20231] Concepts of Human Being",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Carl-von-Linde-Akademie"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836792"
 ],
 "num_credits": 1,
@@ -11767,24 +11975,13 @@
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727430",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841328",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950773909"
-],
-"num_credits": null,
-"module_name": "[CLA31307] Philosophical Foundations of Mathematics and Computer Science",
-"rule_node_names_by_levels": {
-"59": "Academic Achievements",
-"79": "Interdisciplinary Courses",
-"99": "Elective Modules Carl-von-Linde-Akademie"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950773909",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727432",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793222",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950243110",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950241249"
 ],
-"num_credits": 3,
+"num_credits": null,
 "module_name": "[CLA31307] Philosophical Foundations of Mathematics and Computer Science",
 "rule_node_names_by_levels": {
 "59": "Academic Achievements",
@@ -11995,6 +12192,21 @@
 ],
 "num_credits": 1,
 "module_name": "[CLA11123] How to Produce Your Own Videos",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Carl-von-Linde-Akademie"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838762",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880085",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841208",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950936988"
+],
+"num_credits": 3,
+"module_name": "[CLA31212] Visual Design for a Knowledge Society",
 "rule_node_names_by_levels": {
 "59": "Academic Achievements",
 "79": "Interdisciplinary Courses",
@@ -12961,50 +13173,10 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841593"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872468"
 ],
-"num_credits": 3,
-"module_name": "[MHP01001] Project Week: Assessment in Neurological Diseases and Disorders",
-"rule_node_names_by_levels": {
-"59": "Academic Achievements",
-"79": "Interdisciplinary Courses",
-"99": "Projektwochen",
-"119": "Medicine & Health"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841320"
-],
-"num_credits": 4,
-"module_name": "[MHP00002] Project Week: Sensors and Wearables for Automated Detection of Nutrition, Physical Activity, and Sleep",
-"rule_node_names_by_levels": {
-"59": "Academic Achievements",
-"79": "Interdisciplinary Courses",
-"99": "Projektwochen",
-"119": "Medicine & Health"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841589",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841996"
-],
-"num_credits": 4,
-"module_name": "[MHP00008] Project Week: Sustainable Group Travels in Winter for Children and Adolescents",
-"rule_node_names_by_levels": {
-"59": "Academic Achievements",
-"79": "Interdisciplinary Courses",
-"99": "Projektwochen",
-"119": "Medicine & Health"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841143"
-],
-"num_credits": 4,
-"module_name": "[ED160044] Project Weeks: Applied Surgineering",
+"num_credits": 5,
+"module_name": "[MHP00004] Football Analytics Hackathon",
 "rule_node_names_by_levels": {
 "59": "Academic Achievements",
 "79": "Interdisciplinary Courses",

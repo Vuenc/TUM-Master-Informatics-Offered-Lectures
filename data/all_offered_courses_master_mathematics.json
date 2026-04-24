@@ -62516,6 +62516,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Astro-Particle Physics 2",
+"id": 950877796,
+"oldestRelatedCourseId": 840872163
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Markov Chains [MA2404]",
 "id": 950877832,
 "oldestRelatedCourseId": 820900760
@@ -62792,6 +62804,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Molecular Dynamics Simulations: from Principles to Application",
+"id": 950878368,
+"oldestRelatedCourseId": 950007202
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Aircraft Trajectory Optimization",
 "id": 950878370,
 "oldestRelatedCourseId": 950065196
@@ -63044,7 +63068,7 @@
 "semesterDto": {
 "id": 206
 },
-"title": "Technology and Innovation Management: Introduction (WI000820, English)",
+"title": "\tTechnology and Innovation Management: Introduction (WI000114, WI000820, English) (Bachelor)",
 "id": 950878537,
 "oldestRelatedCourseId": 840593102
 },
@@ -63599,6 +63623,18 @@
 "title": "Blockchain-based Systems Engineering (IN2359)",
 "id": 950879993,
 "oldestRelatedCourseId": 950367087
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Quantum Computing with Superconducting Qubits: From Fabrication to Algorithms",
+"id": 950880012,
+"oldestRelatedCourseId": 950563095
 },
 {
 "courseTypeDto": {
@@ -64244,7 +64280,7 @@
 "semesterDto": {
 "id": 206
 },
-"title": "Mathematical Foundations of Machine Learning [CIT413048]",
+"title": "Mathematical Foundations of Machine Learning [CIT413048, including MA4801]",
 "id": 950882726,
 "oldestRelatedCourseId": 950834215
 },
@@ -64319,6 +64355,18 @@
 "title": "Energy Informatics",
 "id": 950883479,
 "oldestRelatedCourseId": 950660114
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Quantum Error Correction and Fault Tolerance for Computing and Communication",
+"id": 950883669,
+"oldestRelatedCourseId": 950834623
 },
 {
 "courseTypeDto": {
@@ -64508,6 +64556,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Scattering Amplitudes",
+"id": 950936865,
+"oldestRelatedCourseId": 950936865
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Operator Theory [MA5012]",
 "id": 950936945,
 "oldestRelatedCourseId": 950761609
@@ -64532,6 +64592,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Topological Quantum Field Theory [CIT413061]",
+"id": 950937032,
+"oldestRelatedCourseId": 950937032
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Lattice Boltzmann methods [CIT4130009]",
 "id": 950937549,
 "oldestRelatedCourseId": 950694523
@@ -64547,6 +64619,18 @@
 "title": "Geometric Methods for Physics of Magnetized Plasmas",
 "id": 950937551,
 "oldestRelatedCourseId": 950288040
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Combinatorics [CIT413068]",
+"id": 950937554,
+"oldestRelatedCourseId": 950937554
 },
 {
 "courseTypeDto": {
@@ -64628,9 +64712,33 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Algebraic Topology in Physics",
+"id": 950939303,
+"oldestRelatedCourseId": 950939303
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Differential Geometry in Physics",
 "id": 950939551,
 "oldestRelatedCourseId": 950726193
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
+"title": "Optimal Transport for Stochastic Processes with Applications to Mathematical Finance [CIT413071]",
+"id": 950939619,
+"oldestRelatedCourseId": 950939619
 },
 {
 "courseTypeDto": {

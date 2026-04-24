@@ -33572,6 +33572,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "NeuroAI and Machine Learning in Neuroscience \u2013 Lecture (M.Sc.)",
+"id": 950869350,
+"oldestRelatedCourseId": 950869350
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Technology, Economy, and Society",
 "id": 950875341,
 "oldestRelatedCourseId": 950000407

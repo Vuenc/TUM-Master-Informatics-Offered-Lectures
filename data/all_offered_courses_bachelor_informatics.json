@@ -64232,6 +64232,18 @@
 "semesterDto": {
 "id": 206
 },
+"title": "Industrial software development of mechatronic systems and implementation in C++",
+"id": 950878024,
+"oldestRelatedCourseId": 820002749
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "SS26",
+"semesterDto": {
+"id": 206
+},
 "title": "Principles of Patent Law (CH0136)",
 "id": 950878030,
 "oldestRelatedCourseId": 820510545
