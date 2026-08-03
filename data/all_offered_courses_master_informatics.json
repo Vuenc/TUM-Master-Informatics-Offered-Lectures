@@ -29459,6 +29459,834 @@
 "title": "Machine Learning and Structure: Geometry, Discrete Structure and Algorithms (CIT423013)",
 "id": 950939923,
 "oldestRelatedCourseId": 950939923
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Query Optimization (IN2219)",
+"id": 950940284,
+"oldestRelatedCourseId": 821033098
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Numerical Programming (IN0019)",
+"id": 950940303,
+"oldestRelatedCourseId": 240958468
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Program Optimization (IN2053)",
+"id": 950940620,
+"oldestRelatedCourseId": 240795803
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Network Security (IN2101)",
+"id": 950940686,
+"oldestRelatedCourseId": 240905670
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Robotics (IN2067)",
+"id": 950940690,
+"oldestRelatedCourseId": 240911148
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Computer Networking (IN2097)",
+"id": 950940693,
+"oldestRelatedCourseId": 240914026
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Scientific Computing 1 (IN2005)",
+"id": 950940702,
+"oldestRelatedCourseId": 240920662
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Visual Data Analytics (IN2026, IN8019)",
+"id": 950940709,
+"oldestRelatedCourseId": 240925188
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "eLearning - Techniques and Infrastructures (IN2093)",
+"id": 950940710,
+"oldestRelatedCourseId": 240926659
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamental Algorithms (CSE) (IN2157)",
+"id": 950940723,
+"oldestRelatedCourseId": 240938914
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Computer Architecture (IN0004)",
+"id": 950940728,
+"oldestRelatedCourseId": 240941859
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Patterns in Software Engineering (IN2081)",
+"id": 950940729,
+"oldestRelatedCourseId": 240942179
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Business Analytics and Machine Learning (IN2028)",
+"id": 950940738,
+"oldestRelatedCourseId": 240947544
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Efficient Algorithms and Data Structures (IN2003)",
+"id": 950940739,
+"oldestRelatedCourseId": 240948186
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Databases (IN0008)",
+"id": 950940741,
+"oldestRelatedCourseId": 240952278
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Real-Time Systems (IN2060)",
+"id": 950940755,
+"oldestRelatedCourseId": 240965614
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Discrete Structures (IN0015)",
+"id": 950940756,
+"oldestRelatedCourseId": 240967009
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Data Mining and Knowledge Discovery (IN2030)",
+"id": 950940757,
+"oldestRelatedCourseId": 240967808
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Image Synthesis - Realtime-Techniques and global Illumination (IN2015)",
+"id": 950940763,
+"oldestRelatedCourseId": 240979051
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Basic Principles: Operating Systems and System Software (IN0009)",
+"id": 950940769,
+"oldestRelatedCourseId": 240984991
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Principles of Computer Vision (IN2133)",
+"id": 950940777,
+"oldestRelatedCourseId": 240991035
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Computer Architecture (IN2076)",
+"id": 950940783,
+"oldestRelatedCourseId": 240997826
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Semantics (IN2055)",
+"id": 950941030,
+"oldestRelatedCourseId": 950011200
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Virtual Physics: Using Modern Modeling Methodologies for Computer Simulation",
+"id": 950941127,
+"oldestRelatedCourseId": 950026665
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Software Engineering in Industrial Practice (IN2235)",
+"id": 950941404,
+"oldestRelatedCourseId": 950031331
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Game Physics (IN0037)",
+"id": 950941713,
+"oldestRelatedCourseId": 950133131
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Surgical Robotics (IN2292)",
+"id": 950941780,
+"oldestRelatedCourseId": 950140836
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Robot Programming and Control for Human Interaction (IN2308)",
+"id": 950941832,
+"oldestRelatedCourseId": 950161451
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "The finite element method for fluid-structure interaction with open-source software",
+"id": 950941847,
+"oldestRelatedCourseId": 950163673
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Games on Graphs (IN2296)",
+"id": 950941979,
+"oldestRelatedCourseId": 950187321
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Topics of SW Engineering (IN2309, IN2126)",
+"id": 950942355,
+"oldestRelatedCourseId": 950271537
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning (IN2064)",
+"id": 950942367,
+"oldestRelatedCourseId": 950285407
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Data Analysis and Visualization in R (IN2339)",
+"id": 950942369,
+"oldestRelatedCourseId": 950285419
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Deep Learning (IN2346)",
+"id": 950942542,
+"oldestRelatedCourseId": 950298738
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "3D Scanning & Motion Capture (IN2354)",
+"id": 950942690,
+"oldestRelatedCourseId": 950339245
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Natural Language Processing (IN2361)",
+"id": 950943031,
+"oldestRelatedCourseId": 950380449
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computer Vision III: Detection, Segmentation, and Tracking (IN2375)",
+"id": 950943447,
+"oldestRelatedCourseId": 950457054
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Quantum Computing (IN2381)",
+"id": 950943622,
+"oldestRelatedCourseId": 950488182
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Vision (IN2369)",
+"id": 950943708,
+"oldestRelatedCourseId": 950508840
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Formal Methods for Cyber-Physical Systems",
+"id": 950943729,
+"oldestRelatedCourseId": 950526142
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning for 3D Geometry (IN2392)",
+"id": 950943950,
+"oldestRelatedCourseId": 950563831
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Deep Learning for Computer Vision: Visual Computing (IN2390)",
+"id": 950944080,
+"oldestRelatedCourseId": 950595510
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Neuroprosthetics - Artificial Limbs (IN2405)",
+"id": 950944086,
+"oldestRelatedCourseId": 950595741
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Artificial Intelligence in Medicine (IN2403)",
+"id": 950944118,
+"oldestRelatedCourseId": 950596772
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Numerical Algorithms for High Performance Computing (IN2398)",
+"id": 950944467,
+"oldestRelatedCourseId": 950640875
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Artificial Intelligence (IN2406)",
+"id": 950944516,
+"oldestRelatedCourseId": 950659458
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Parallel Programming Systems (IN2365)",
+"id": 950944551,
+"oldestRelatedCourseId": 950660083
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Strategic IT Management (CIT4230000)",
+"id": 950944598,
+"oldestRelatedCourseId": 950661116
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Concepts of Programming Languages (CIT3230000)",
+"id": 950944676,
+"oldestRelatedCourseId": 950663006
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Modeling for System Genetics (CIT4230001)",
+"id": 950944737,
+"oldestRelatedCourseId": 950664461
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Kurs zum:zur Fachsanit\u00e4ter:in",
+"id": 950944744,
+"oldestRelatedCourseId": 950664622
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Cloud Information Systems (CIT3230002)",
+"id": 950944893,
+"oldestRelatedCourseId": 950702083
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Trustworthy Machine Learning Systems (CIT4330017)",
+"id": 950945029,
+"oldestRelatedCourseId": 950726513
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Deep Learning for Robotics (CIT433027)",
+"id": 950945322,
+"oldestRelatedCourseId": 950761808
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "High Performance Query Processing (CIT323001)",
+"id": 950945470,
+"oldestRelatedCourseId": 950793352
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Foundations and Application of Generative AI (CITHN2014)",
+"id": 950945696,
+"oldestRelatedCourseId": 950804346
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Virtual-, Mixed-, and Augmented Reality",
+"id": 950945708,
+"oldestRelatedCourseId": 950804473
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "AI Testing (CIT423002)",
+"id": 950945781,
+"oldestRelatedCourseId": 950806763
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Intelligent Robots with a Sense of Smell (CIT433039)",
+"id": 950945848,
+"oldestRelatedCourseId": 950833183
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Selected Topics in Formal Methods and their Applications (IN3350)",
+"id": 950946237,
+"oldestRelatedCourseId": 950875291
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Agentic AI in Business Administration (CIT633000)",
+"id": 950946288,
+"oldestRelatedCourseId": 950875813
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Responsible, Sustainable and Inclusive Digital Product Creation (CIT623000)",
+"id": 950946308,
+"oldestRelatedCourseId": 950876297
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Selected Topics in Databases and Information Systems (Designing, Specifying and Testing Distributed Data Systems) (IN3100)",
+"id": 950951506,
+"oldestRelatedCourseId": 950641291
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning and Structure: Geometry, Discrete Structure and Algorithms (CIT423013)",
+"id": 950952120,
+"oldestRelatedCourseId": 950939923
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Protein Prediction II for Computer Scientists (IN2291)",
+"id": 950974891,
+"oldestRelatedCourseId": 950974891
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Statistical Foundations of Learning (CIT4230004)",
+"id": 950974988,
+"oldestRelatedCourseId": 950695450
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Algorithms (CIT323004)",
+"id": 950975195,
+"oldestRelatedCourseId": 950975195
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Design Space Exploration using Software Simulators (Heilbronn, CIT433051)",
+"id": 950976582,
+"oldestRelatedCourseId": 950936592
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Automata and Formal Languages (IN2041)",
+"id": 950977416,
+"oldestRelatedCourseId": 950977416
 }
 ]
 }

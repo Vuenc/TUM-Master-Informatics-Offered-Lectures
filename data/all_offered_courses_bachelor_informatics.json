@@ -65807,6 +65807,798 @@
 "title": "Cryptography for Decentralized Systems (CIT333003)",
 "id": 950939243,
 "oldestRelatedCourseId": 950939243
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Experimental Physics 3",
+"id": 950940040,
+"oldestRelatedCourseId": 1673957
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Experimental Physics 1",
+"id": 950940044,
+"oldestRelatedCourseId": 1674203
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Mathematical Supplement to Experimental Physics 1",
+"id": 950940045,
+"oldestRelatedCourseId": 1674204
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Theoretical Physics 2 (Electrodnamics)",
+"id": 950940047,
+"oldestRelatedCourseId": 1674207
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Biology for Chemists (CH0106)",
+"id": 950940083,
+"oldestRelatedCourseId": 950001951
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Experimental Inorganic Chemistry for B.Sc. Chemical Engineering (CH0575)",
+"id": 950940244,
+"oldestRelatedCourseId": 820918735
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Query Optimization (IN2219)",
+"id": 950940284,
+"oldestRelatedCourseId": 821033098
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Numerical Programming (IN0019)",
+"id": 950940303,
+"oldestRelatedCourseId": 240958468
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Quantum Mechanics (CH4108)",
+"id": 950940372,
+"oldestRelatedCourseId": 950002880
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Cell Biology",
+"id": 950940405,
+"oldestRelatedCourseId": 950002649
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Systems Theory in Mechatronics - Lecture",
+"id": 950940490,
+"oldestRelatedCourseId": 950004219
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "General and Inorganic Experimental Chemistry",
+"id": 950940573,
+"oldestRelatedCourseId": 950003912
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Program Optimization (IN2053)",
+"id": 950940620,
+"oldestRelatedCourseId": 240795803
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Network Security (IN2101)",
+"id": 950940686,
+"oldestRelatedCourseId": 240905670
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Robotics (IN2067)",
+"id": 950940690,
+"oldestRelatedCourseId": 240911148
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Computer Networking (IN2097)",
+"id": 950940693,
+"oldestRelatedCourseId": 240914026
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Visual Data Analytics (IN2026, IN8019)",
+"id": 950940709,
+"oldestRelatedCourseId": 240925188
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "eLearning - Techniques and Infrastructures (IN2093)",
+"id": 950940710,
+"oldestRelatedCourseId": 240926659
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Computer Architecture (IN0004)",
+"id": 950940728,
+"oldestRelatedCourseId": 240941859
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Patterns in Software Engineering (IN2081)",
+"id": 950940729,
+"oldestRelatedCourseId": 240942179
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Business Analytics and Machine Learning (IN2028)",
+"id": 950940738,
+"oldestRelatedCourseId": 240947544
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Efficient Algorithms and Data Structures (IN2003)",
+"id": 950940739,
+"oldestRelatedCourseId": 240948186
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Databases (IN0008)",
+"id": 950940741,
+"oldestRelatedCourseId": 240952278
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Real-Time Systems (IN2060)",
+"id": 950940755,
+"oldestRelatedCourseId": 240965614
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Discrete Structures (IN0015)",
+"id": 950940756,
+"oldestRelatedCourseId": 240967009
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Data Mining and Knowledge Discovery (IN2030)",
+"id": 950940757,
+"oldestRelatedCourseId": 240967808
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Image Synthesis - Realtime-Techniques and global Illumination (IN2015)",
+"id": 950940763,
+"oldestRelatedCourseId": 240979051
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Basic Principles: Operating Systems and System Software (IN0009)",
+"id": 950940769,
+"oldestRelatedCourseId": 240984991
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Principles of Computer Vision (IN2133)",
+"id": 950940777,
+"oldestRelatedCourseId": 240991035
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Computer Architecture (IN2076)",
+"id": 950940783,
+"oldestRelatedCourseId": 240997826
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Aircraft Performance",
+"id": 950940815,
+"oldestRelatedCourseId": 950004931
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Physical Chemistry 1 (CH1091/CH7201)",
+"id": 950940868,
+"oldestRelatedCourseId": 950005916
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "General and Inorganic Chemistry, Lecture (CH4101/CH4090a)",
+"id": 950940882,
+"oldestRelatedCourseId": 950003017
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Experimental Physics 1 in English",
+"id": 950940905,
+"oldestRelatedCourseId": 949999824
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Theoretical Physics 4A (Statistical Mechanics and Thermodynamics)",
+"id": 950940935,
+"oldestRelatedCourseId": 950010140
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Semantics (IN2055)",
+"id": 950941030,
+"oldestRelatedCourseId": 950011200
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Chemistry I for BSc. Engineering Science (CH1204)",
+"id": 950941103,
+"oldestRelatedCourseId": 950025755
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Software Engineering in Industrial Practice (IN2235)",
+"id": 950941404,
+"oldestRelatedCourseId": 950031331
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Interactionmethods and -devices (IN0033)",
+"id": 950941504,
+"oldestRelatedCourseId": 950078606
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Material Science I (for MSE)",
+"id": 950941560,
+"oldestRelatedCourseId": 950094998
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction in Flight System Dynamics and Flight Control",
+"id": 950941668,
+"oldestRelatedCourseId": 950162380
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "The finite element method for fluid-structure interaction with open-source software",
+"id": 950941847,
+"oldestRelatedCourseId": 950163673
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Algebra (LG) [MA2103]",
+"id": 950941856,
+"oldestRelatedCourseId": 950164091
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Psychology\t",
+"id": 950941895,
+"oldestRelatedCourseId": 950176814
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Pedagogy",
+"id": 950941896,
+"oldestRelatedCourseId": 950176817
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Games on Graphs (IN2296)",
+"id": 950941979,
+"oldestRelatedCourseId": 950187321
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Experimental Physics 3 in English",
+"id": 950942172,
+"oldestRelatedCourseId": 950242029
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Urban Water Systems Engineering Base Module",
+"id": 950942208,
+"oldestRelatedCourseId": 950243734
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning (IN2064)",
+"id": 950942367,
+"oldestRelatedCourseId": 950285407
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Data Analysis and Visualization in R (IN2339)",
+"id": 950942369,
+"oldestRelatedCourseId": 950285419
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Inorganic Solid State and Organometallic Chemistry (CH4107)",
+"id": 950942663,
+"oldestRelatedCourseId": 950323330
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Basics of Electrical Energy Storage",
+"id": 950942803,
+"oldestRelatedCourseId": 950348209
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Technology and Law (IN9049)",
+"id": 950943006,
+"oldestRelatedCourseId": 950378390
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Lecture Hydraulic and Water Resources Engineering Basic Module",
+"id": 950943264,
+"oldestRelatedCourseId": 950435959
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Quantum Computing (IN2381)",
+"id": 950943622,
+"oldestRelatedCourseId": 950488182
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "IT Sicherheit (IN0042)",
+"id": 950944511,
+"oldestRelatedCourseId": 950659361
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Artificial Intelligence (IN2406)",
+"id": 950944516,
+"oldestRelatedCourseId": 950659458
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Concepts of Programming Languages (CIT3230000)",
+"id": 950944676,
+"oldestRelatedCourseId": 950663006
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Kurs zum:zur Fachsanit\u00e4ter:in",
+"id": 950944744,
+"oldestRelatedCourseId": 950664622
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Cloud Information Systems (CIT3230002)",
+"id": 950944893,
+"oldestRelatedCourseId": 950702083
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "High Performance Query Processing (CIT323001)",
+"id": 950945470,
+"oldestRelatedCourseId": 950793352
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Particle Based Methods in Engineering",
+"id": 950946018,
+"oldestRelatedCourseId": 950849615
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Responsible, Sustainable and Inclusive Digital Product Creation (CIT623000)",
+"id": 950946308,
+"oldestRelatedCourseId": 950876297
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Algorithms (CIT323004)",
+"id": 950975195,
+"oldestRelatedCourseId": 950975195
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Creativity",
+"id": 950976782,
+"oldestRelatedCourseId": 950288113
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Automata and Formal Languages (IN2041)",
+"id": 950977416,
+"oldestRelatedCourseId": 950977416
 }
 ]
 }

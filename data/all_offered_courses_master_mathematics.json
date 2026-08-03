@@ -64751,6 +64751,954 @@
 "title": "GPU Computing",
 "id": 950939938,
 "oldestRelatedCourseId": 950804348
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Theoretical Physics 2 (Electrodnamics)",
+"id": 950940047,
+"oldestRelatedCourseId": 1674207
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Special Functions in Theoretical Physics",
+"id": 950940048,
+"oldestRelatedCourseId": 1674209
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Biology for Chemists (CH0106)",
+"id": 950940083,
+"oldestRelatedCourseId": 950001951
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Basic Prinziples of Macromolecular Chemistry (CH3211)",
+"id": 950940115,
+"oldestRelatedCourseId": 950002094
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Medical Technology 1 - an organ system based approach",
+"id": 950940180,
+"oldestRelatedCourseId": 950002173
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "General Relativity and Cosmology",
+"id": 950940256,
+"oldestRelatedCourseId": 820954761
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Query Optimization (IN2219)",
+"id": 950940284,
+"oldestRelatedCourseId": 821033098
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Nonlinear Dynamics [MA3080]",
+"id": 950940392,
+"oldestRelatedCourseId": 950003049
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Cell Biology",
+"id": 950940405,
+"oldestRelatedCourseId": 950002649
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Network Security (IN2101)",
+"id": 950940686,
+"oldestRelatedCourseId": 240905670
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Robotics (IN2067)",
+"id": 950940690,
+"oldestRelatedCourseId": 240911148
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Scientific Computing 1 (IN2005)",
+"id": 950940702,
+"oldestRelatedCourseId": 240920662
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Visual Data Analytics (IN2026, IN8019)",
+"id": 950940709,
+"oldestRelatedCourseId": 240925188
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamental Algorithms (CSE) (IN2157)",
+"id": 950940723,
+"oldestRelatedCourseId": 240938914
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Computer Architecture (IN0004)",
+"id": 950940728,
+"oldestRelatedCourseId": 240941859
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Patterns in Software Engineering (IN2081)",
+"id": 950940729,
+"oldestRelatedCourseId": 240942179
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Business Analytics and Machine Learning (IN2028)",
+"id": 950940738,
+"oldestRelatedCourseId": 240947544
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Efficient Algorithms and Data Structures (IN2003)",
+"id": 950940739,
+"oldestRelatedCourseId": 240948186
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Data Mining and Knowledge Discovery (IN2030)",
+"id": 950940757,
+"oldestRelatedCourseId": 240967808
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Computer Architecture (IN2076)",
+"id": 950940783,
+"oldestRelatedCourseId": 240997826
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Aircraft Performance",
+"id": 950940815,
+"oldestRelatedCourseId": 950004931
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Theoretical Physics 4A (Statistical Mechanics and Thermodynamics)",
+"id": 950940935,
+"oldestRelatedCourseId": 950010140
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Nuclear, Particle, and Astrophysics 1",
+"id": 950940937,
+"oldestRelatedCourseId": 950010149
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Condensed Matter Physics 1",
+"id": 950940938,
+"oldestRelatedCourseId": 950010151
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Theoretical solid state physics",
+"id": 950940942,
+"oldestRelatedCourseId": 950010164
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Quantum Mechanics 2",
+"id": 950940943,
+"oldestRelatedCourseId": 950010165
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Quantum Field Theory",
+"id": 950940946,
+"oldestRelatedCourseId": 950010267
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Plasma Physics 1",
+"id": 950940969,
+"oldestRelatedCourseId": 950010379
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Physical Biology of the Cell 1 \u2013 mechanics of biological macro molecules",
+"id": 950940987,
+"oldestRelatedCourseId": 950010538
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Biomedical Physics 1",
+"id": 950940991,
+"oldestRelatedCourseId": 950010608
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Magnetohydrodynamic Phenomena - an Introduction",
+"id": 950940995,
+"oldestRelatedCourseId": 950010613
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Semantics (IN2055)",
+"id": 950941030,
+"oldestRelatedCourseId": 950011200
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Virtual Physics: Using Modern Modeling Methodologies for Computer Simulation",
+"id": 950941127,
+"oldestRelatedCourseId": 950026665
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Clusters and Nanoparticles: Fundamentals and Applications in Catalysis (CH3067)",
+"id": 950941591,
+"oldestRelatedCourseId": 950095646
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Symmetry and Group Theory (CH3337)",
+"id": 950941596,
+"oldestRelatedCourseId": 950096013
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Image Processing in Physics",
+"id": 950941748,
+"oldestRelatedCourseId": 950114504
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Modern X-Ray Physics",
+"id": 950941749,
+"oldestRelatedCourseId": 950112088
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Robot Programming and Control for Human Interaction (IN2308)",
+"id": 950941832,
+"oldestRelatedCourseId": 950161451
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Biomedical Physics 2",
+"id": 950941833,
+"oldestRelatedCourseId": 840992467
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Flight Guidance",
+"id": 950941841,
+"oldestRelatedCourseId": 950162176
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "The finite element method for fluid-structure interaction with open-source software",
+"id": 950941847,
+"oldestRelatedCourseId": 950163673
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Algebra (LG) [MA2103]",
+"id": 950941856,
+"oldestRelatedCourseId": 950164091
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Approximate Dynamic Programming and Reinforcement Learning",
+"id": 950941878,
+"oldestRelatedCourseId": 950176293
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Games on Graphs (IN2296)",
+"id": 950941979,
+"oldestRelatedCourseId": 950187321
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Model Reference Adaptive Control",
+"id": 950942146,
+"oldestRelatedCourseId": 950235570
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning (IN2064)",
+"id": 950942367,
+"oldestRelatedCourseId": 950285407
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Data Analysis and Visualization in R (IN2339)",
+"id": 950942369,
+"oldestRelatedCourseId": 950285419
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Deep Learning (IN2346)",
+"id": 950942542,
+"oldestRelatedCourseId": 950298738
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Inorganic Solid State and Organometallic Chemistry (CH4107)",
+"id": 950942663,
+"oldestRelatedCourseId": 950323330
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "3D Scanning & Motion Capture (IN2354)",
+"id": 950942690,
+"oldestRelatedCourseId": 950339245
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Quantum Many-Body Physics",
+"id": 950942743,
+"oldestRelatedCourseId": 950340681
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Statistical Physics",
+"id": 950942782,
+"oldestRelatedCourseId": 950347866
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Natural Language Processing (IN2361)",
+"id": 950943031,
+"oldestRelatedCourseId": 950380449
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Basics in Molecular Biology",
+"id": 950943086,
+"oldestRelatedCourseId": 950468377
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Electronic Structure (CH3333)",
+"id": 950943356,
+"oldestRelatedCourseId": 950438636
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computer Vision III: Detection, Segmentation, and Tracking (IN2375)",
+"id": 950943447,
+"oldestRelatedCourseId": 950457054
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Quantum Computing (IN2381)",
+"id": 950943622,
+"oldestRelatedCourseId": 950488182
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Formal Methods for Cyber-Physical Systems",
+"id": 950943729,
+"oldestRelatedCourseId": 950526142
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Insurance Mathematics 1 [MA3405]",
+"id": 950943837,
+"oldestRelatedCourseId": 950542778
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning for 3D Geometry (IN2392)",
+"id": 950943950,
+"oldestRelatedCourseId": 950563831
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Deep Learning for Computer Vision: Visual Computing (IN2390)",
+"id": 950944080,
+"oldestRelatedCourseId": 950595510
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Artificial Intelligence in Medicine (IN2403)",
+"id": 950944118,
+"oldestRelatedCourseId": 950596772
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Numerical Algorithms for High Performance Computing (IN2398)",
+"id": 950944467,
+"oldestRelatedCourseId": 950640875
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "IT Sicherheit (IN0042)",
+"id": 950944511,
+"oldestRelatedCourseId": 950659361
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Artificial Intelligence (IN2406)",
+"id": 950944516,
+"oldestRelatedCourseId": 950659458
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Modeling for System Genetics (CIT4230001)",
+"id": 950944737,
+"oldestRelatedCourseId": 950664461
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Systems Theory and Modeling - Lecture",
+"id": 950944962,
+"oldestRelatedCourseId": 950724079
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Deep Learning for Robotics (CIT433027)",
+"id": 950945322,
+"oldestRelatedCourseId": 950761808
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Rail Traffic Planning and Management",
+"id": 950945438,
+"oldestRelatedCourseId": 950774189
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Foundations and Application of Generative AI (CITHN2014)",
+"id": 950945696,
+"oldestRelatedCourseId": 950804346
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Selected Topics in Formal Methods and their Applications (IN3350)",
+"id": 950946237,
+"oldestRelatedCourseId": 950875291
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Responsible, Sustainable and Inclusive Digital Product Creation (CIT623000)",
+"id": 950946308,
+"oldestRelatedCourseId": 950876297
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Actuarial  Risk Theory [MA3442]",
+"id": 950946357,
+"oldestRelatedCourseId": 950876863
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Protein Prediction II for Computer Scientists (IN2291)",
+"id": 950974891,
+"oldestRelatedCourseId": 950974891
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Statistical Foundations of Learning (CIT4230004)",
+"id": 950974988,
+"oldestRelatedCourseId": 950695450
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Algorithms (CIT323004)",
+"id": 950975195,
+"oldestRelatedCourseId": 950975195
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Parallel Computing  (CITHN2003)",
+"id": 950975732,
+"oldestRelatedCourseId": 950835950
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Theory and Applications of Simple Lie-Algebras",
+"id": 950976913,
+"oldestRelatedCourseId": 950055849
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Automata and Formal Languages (IN2041)",
+"id": 950977416,
+"oldestRelatedCourseId": 950977416
 }
 ]
 }
