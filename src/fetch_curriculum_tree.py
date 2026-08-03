@@ -9,6 +9,7 @@ from typing import Dict, List, Tuple
 import selenium
 import selenium.webdriver
 import tqdm
+import util
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service
@@ -116,12 +117,13 @@ def wait_until_not_loading(driver):
         expected_conditions.invisibility_of_element_located((By.ID, "id-loader"))
     )
 
-def prepare_driver(curriculum: Curriculum, gecko_driver_path: str):
+def prepare_driver(curriculum: Curriculum, gecko_driver_path: str, use_headless=True):
     global driver
     # Start a headless Firefox instance
     options = webdriver.FirefoxOptions()
     options.set_preference("intl.locale.requested", "en-US") # doesn't help though
-    options.add_argument("-headless")
+    if use_headless:
+        options.add_argument("-headless")
 
     driver = webdriver.Firefox(service=Service(gecko_driver_path),
                                options=options)
@@ -140,12 +142,13 @@ def prepare_driver(curriculum: Curriculum, gecko_driver_path: str):
 
     atexit.register(lambda: driver.close() if driver is not None else ())
 
-def get_page1_url_and_num_pages(curriculum):
+def get_page1_url_and_num_pages(curriculum, term_id: int):
     global driver
     assert isinstance(driver, selenium.webdriver.Firefox)
 
     # # Switch node filter to All (Expanded)
-    driver.get(f"https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr={curriculum.curriculum_ids[0]}&pFilterType=20&pPageNr=&pStpKnotenNr=&pStartSemester=W")
+    academic_year_id = util.term_id_to_curriculum_academic_year(term_id)
+    driver.get(f"https://campus.tum.de/tumonline/wbstpcs.showSpoTree?pStpStpNr={curriculum.curriculum_ids[0]}&pFilterType=20&pPageNr=&pStpKnotenNr=&pStartSemester=W&pSjNr={academic_year_id}")
     wait_until_not_loading(driver)
 
     page1_url = driver.current_url
@@ -162,8 +165,10 @@ def main():
     """)
     parser.add_argument("--curriculum", required=True, default="master-informatics",
                         type=str, help="One of ['master-informatics', 'master-dea']")
+    parser.add_argument('--termid', required=True, type=int, help="A term id in the academic year to start the search at (winter 2022/23 is 197, summer 2023 is 198, etc.)")
     parser.add_argument("--parallel_drivers", default=1,
                         type=int, help="How many browser sessions to start in parallel to process different pages quicker")
+    parser.add_argument("--no-headless", action="store_true", help="Start the browser in visible mode instead of headless mode")
     args = parser.parse_args()
     curriculum = curriculums[args.curriculum]
 
@@ -172,9 +177,9 @@ def main():
 
     thread_pool = None
     try:
-        thread_pool = Pool(args.parallel_drivers, initializer=prepare_driver, initargs=(curriculum, gecko_driver_path))
+        thread_pool = Pool(args.parallel_drivers, initializer=prepare_driver, initargs=(curriculum, gecko_driver_path, not args.no_headless))
         time.sleep(4)
-        [(page1_url, num_pages)] = thread_pool.map(get_page1_url_and_num_pages, [curriculum])
+        [(page1_url, num_pages)] = thread_pool.starmap(get_page1_url_and_num_pages, [(curriculum, args.termid)])
         results = tqdm.tqdm(thread_pool.imap(fetch_curriculum_course_infos,
                         list(zip(range(1, num_pages+1), [page1_url]*num_pages))), desc="Pages")
     finally:

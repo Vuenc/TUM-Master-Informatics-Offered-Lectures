@@ -1,33 +1,33 @@
-TERMID=206
-TERMNAME=ss26
+TERMID=207
+TERMNAME=ws26-27
 FIRSTTERMID=171 # no data before WS09/10
 
 # Bachelor Informatics
 python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum bachelor-informatics
-python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum bachelor-informatics
+python fetch_curriculum_tree.py --termid $TERMID --parallel_drivers 15 --curriculum bachelor-informatics
 python print_html_table.py --termid $TERMID --curriculum bachelor-informatics --output "../docs/bachelor-informatics-$TERMNAME.html"
 python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum bachelor-informatics --output "../docs/bachelor-informatics-all.html"
 
 # Master Informatics
 python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-informatics
-python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum master-informatics
+python fetch_curriculum_tree.py --termid $TERMID --parallel_drivers 15 --curriculum master-informatics
 python print_html_table.py --termid $TERMID --curriculum master-informatics --output "../docs/master-informatics-$TERMNAME.html"
 python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-informatics --output "../docs/master-informatics-all.html"
 
 # DEA
 python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-dea
-python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum master-dea
+python fetch_curriculum_tree.py --termid $TERMID --parallel_drivers 15 --curriculum master-dea
 python print_html_table.py --termid $TERMID --curriculum master-dea --output "../docs/dea-$TERMNAME.html"
 python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-dea --output "../docs/dea-all.html"
 
 # Master Information Systems
 python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-information-systems
-python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum master-information-systems
+python fetch_curriculum_tree.py --termid $TERMID --parallel_drivers 15 --curriculum master-information-systems
 python print_html_table.py --termid $TERMID --curriculum master-information-systems --output "../docs/master-information-systems-$TERMNAME.html"
 python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-information-systems --output "../docs/master-information-systems-all.html"
 
 # Master Mathematics
 python update_course_database.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-mathematics
-python fetch_curriculum_tree.py --parallel_drivers 15 --curriculum master-mathematics
+python fetch_curriculum_tree.py --termid $TERMID --parallel_drivers 15 --curriculum master-mathematics
 python print_html_table.py --termid $TERMID --curriculum master-mathematics --output "../docs/master-mathematics-$TERMNAME.html"
 python print_html_table.py --termid $TERMID --oldtermsfrom $FIRSTTERMID --curriculum master-mathematics --output "../docs/master-mathematics-all.html"

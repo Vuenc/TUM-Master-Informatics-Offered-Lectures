@@ -62,7 +62,7 @@ python update_course_database.py --termid 204 --oldtermsfrom 171 --curriculum ma
 - Fetch the curriculum tree data (update the --curriculum argument accordingly, see `src/curriculums.py` for the supported options.)
 
 ```sh
-python fetch_curriculum_tree.py --parallel_drivers 5 --curriculum master-informatics
+python fetch_curriculum_tree.py --termid 204 --parallel_drivers 5 --curriculum master-informatics
 ```
 
 - Generate the HTML file with the table (update the --curriculum, --termid and --output arguments accordingly)
