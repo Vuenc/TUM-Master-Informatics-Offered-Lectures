@@ -64808,6 +64808,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Plant Physiology",
+"id": 950940130,
+"oldestRelatedCourseId": 1671851
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Medical Technology 1 - an organ system based approach",
 "id": 950940180,
 "oldestRelatedCourseId": 950002173
@@ -64859,6 +64871,18 @@
 "title": "Cell Biology",
 "id": 950940405,
 "oldestRelatedCourseId": 950002649
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introductory Genetics",
+"id": 950940415,
+"oldestRelatedCourseId": 950006426
 },
 {
 "courseTypeDto": {
@@ -65126,6 +65150,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Nonlinear Dynamics and Complex Systems 1",
+"id": 950940998,
+"oldestRelatedCourseId": 950010637
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -65147,6 +65183,54 @@
 "title": "Virtual Physics: Using Modern Modeling Methodologies for Computer Simulation",
 "id": 950941127,
 "oldestRelatedCourseId": 950026665
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Data Analysis",
+"id": 950941131,
+"oldestRelatedCourseId": 950026829
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(POL70044) Business Ethics",
+"id": 950941206,
+"oldestRelatedCourseId": 950088580
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Analysis and design of cellular networks",
+"id": 950941316,
+"oldestRelatedCourseId": 950054933
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Semiconductor Physics",
+"id": 950941512,
+"oldestRelatedCourseId": 950071321
 },
 {
 "courseTypeDto": {
@@ -65195,6 +65279,18 @@
 "title": "Modern X-Ray Physics",
 "id": 950941749,
 "oldestRelatedCourseId": 950112088
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to High-Frequency Engineering",
+"id": 950941772,
+"oldestRelatedCourseId": 950140376
 },
 {
 "courseTypeDto": {
@@ -65288,6 +65384,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Optimization and model analysis",
+"id": 950942023,
+"oldestRelatedCourseId": 950217907
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Model Reference Adaptive Control",
 "id": 950942146,
 "oldestRelatedCourseId": 950235570
@@ -65327,6 +65435,18 @@
 "title": "Introduction to Deep Learning (IN2346)",
 "id": 950942542,
 "oldestRelatedCourseId": 950298738
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Applied Statistics and Econometrics (WZ1705, English)",
+"id": 950942597,
+"oldestRelatedCourseId": 950319113
 },
 {
 "courseTypeDto": {
@@ -65408,6 +65528,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Channel Coding",
+"id": 950943122,
+"oldestRelatedCourseId": 950399283
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Advanced Electronic Structure (CH3333)",
 "id": 950943356,
 "oldestRelatedCourseId": 950438636
@@ -65432,9 +65564,45 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Security in Communications and Storage",
+"id": 950943473,
+"oldestRelatedCourseId": 950458544
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Digital Signal Processing",
+"id": 950943618,
+"oldestRelatedCourseId": 950487831
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Introduction to Quantum Computing (IN2381)",
 "id": 950943622,
 "oldestRelatedCourseId": 950488182
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
+"id": 950943707,
+"oldestRelatedCourseId": 950294404
 },
 {
 "courseTypeDto": {
@@ -65540,6 +65708,30 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Mathematics of Climate and Earth System Science - Lecture",
+"id": 950944612,
+"oldestRelatedCourseId": 950661462
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Neuroscience \u2013 Lecture (M.Sc.)",
+"id": 950944668,
+"oldestRelatedCourseId": 950662823
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Computational Modeling for System Genetics (CIT4230001)",
 "id": 950944737,
 "oldestRelatedCourseId": 950664461
@@ -65579,6 +65771,18 @@
 "title": "Rail Traffic Planning and Management",
 "id": 950945438,
 "oldestRelatedCourseId": 950774189
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning in Energy Management",
+"id": 950945441,
+"oldestRelatedCourseId": 950774292
 },
 {
 "courseTypeDto": {
@@ -65627,6 +65831,18 @@
 "title": "Actuarial  Risk Theory [MA3442]",
 "id": 950946357,
 "oldestRelatedCourseId": 950876863
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "CAMP 1 - AI in Computational Medicine and Surgery (CIT423014)",
+"id": 950974750,
+"oldestRelatedCourseId": 950974750
 },
 {
 "courseTypeDto": {
@@ -65690,6 +65906,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Scientific Computing and Machine Learning 1 (CIT423016)",
+"id": 950977326,
+"oldestRelatedCourseId": 950977326
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -65699,6 +65927,18 @@
 "title": "Automata and Formal Languages (IN2041)",
 "id": 950977416,
 "oldestRelatedCourseId": 950977416
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to quantum chromodynamics",
+"id": 950977504,
+"oldestRelatedCourseId": 950010279
 }
 ]
 }

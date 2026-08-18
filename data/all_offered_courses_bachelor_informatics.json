@@ -65858,6 +65858,30 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Analysis for Computer Science",
+"id": 950940057,
+"oldestRelatedCourseId": 950002001
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Technical Thermodynamics",
+"id": 950940082,
+"oldestRelatedCourseId": 950004076
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -65927,6 +65951,18 @@
 "title": "Cell Biology",
 "id": 950940405,
 "oldestRelatedCourseId": 950002649
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introductory Genetics",
+"id": 950940415,
+"oldestRelatedCourseId": 950006426
 },
 {
 "courseTypeDto": {
@@ -66212,6 +66248,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Biomathematics",
+"id": 950940887,
+"oldestRelatedCourseId": 950005796
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Experimental Physics 1 in English",
 "id": 950940905,
 "oldestRelatedCourseId": 949999824
@@ -66260,6 +66308,66 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Information Systems and Decision Support",
+"id": 950941105,
+"oldestRelatedCourseId": 950025851
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Medicine I",
+"id": 950941114,
+"oldestRelatedCourseId": 950026025
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(POL70044) Business Ethics",
+"id": 950941206,
+"oldestRelatedCourseId": 950088580
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "From Invention to Patent (Protection and Commercialization of Research Results)",
+"id": 950941247,
+"oldestRelatedCourseId": 950037534
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Modeling and Simulation with Ordinary Differential Equations (BSc. Engineering Science)) [MA9803]",
+"id": 950941258,
+"oldestRelatedCourseId": 950039756
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Software Engineering in Industrial Practice (IN2235)",
 "id": 950941404,
 "oldestRelatedCourseId": 950031331
@@ -66299,6 +66407,18 @@
 "title": "Introduction in Flight System Dynamics and Flight Control",
 "id": 950941668,
 "oldestRelatedCourseId": 950162380
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Power Transmission",
+"id": 950941763,
+"oldestRelatedCourseId": 950140070
 },
 {
 "courseTypeDto": {
@@ -66458,6 +66578,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Optoelectronics",
+"id": 950943556,
+"oldestRelatedCourseId": 950468265
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -66467,6 +66599,18 @@
 "title": "Introduction to Quantum Computing (IN2381)",
 "id": 950943622,
 "oldestRelatedCourseId": 950488182
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
+"id": 950943707,
+"oldestRelatedCourseId": 950294404
 },
 {
 "courseTypeDto": {
@@ -66491,6 +66635,18 @@
 "title": "Fundamentals of Artificial Intelligence (IN2406)",
 "id": 950944516,
 "oldestRelatedCourseId": 950659458
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Neuroscience \u2013 Lecture (M.Sc.)",
+"id": 950944668,
+"oldestRelatedCourseId": 950662823
 },
 {
 "courseTypeDto": {
@@ -66554,6 +66710,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Modeling and Simulation with Ordinary Differential Equations (Ottobrunn) [MA9803]",
+"id": 950946241,
+"oldestRelatedCourseId": 950875340
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -66563,6 +66731,30 @@
 "title": "Responsible, Sustainable and Inclusive Digital Product Creation (CIT623000)",
 "id": 950946308,
 "oldestRelatedCourseId": 950876297
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Microelectronics",
+"id": 950946351,
+"oldestRelatedCourseId": 950876856
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Designing Games for Resilience & Survival in Times of Polycrisis (CIT623001)",
+"id": 950975173,
+"oldestRelatedCourseId": 950975173
 },
 {
 "courseTypeDto": {

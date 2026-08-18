@@ -762,8 +762,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837935",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837897"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942023",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942024"
 ],
 "num_credits": 5,
 "module_name": "[MW2249] Optimization and Model Analysis",
@@ -1220,8 +1220,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944737",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944738"
 ],
-"num_credits": 6,
-"module_name": "[CIT4230001] Computational Modeling for System Genetics",
+"num_credits": 5,
+"module_name": "[IN3420] Selected Topics in Digital Biology and Digital Medicine",
 "rule_node_names_by_levels": {
 "59": "Elective Courses",
 "79": "Digital Biology and Digital Medicine"
@@ -1229,21 +1229,11 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950463267"
-],
-"num_credits": 6,
-"module_name": "[IN2319] Computational Physiology for Medical Image Computing",
-"rule_node_names_by_levels": {
-"59": "Elective Courses",
-"79": "Digital Biology and Digital Medicine"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950463267",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837101"
 ],
 "num_credits": 6,
-"module_name": "[IN2021] Computer Aided Medical Procedures",
+"module_name": "[IN2319] Computational Physiology for Medical Image Computing",
 "rule_node_names_by_levels": {
 "59": "Elective Courses",
 "79": "Digital Biology and Digital Medicine"
@@ -1576,8 +1566,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841340",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842149"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944667",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944668"
 ],
 "num_credits": 5,
 "module_name": "[LS20056] Computational Neuroscience",
@@ -1866,8 +1856,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877119",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877118"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945832"
 ],
 "num_credits": 5,
 "module_name": "[CIT433037] Advanced Robot Learning and Decision-Making",
@@ -2017,7 +2006,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941832",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840689"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942968"
 ],
 "num_credits": 5,
 "module_name": "[IN2308] Programming and Control for Human-Robot Interaction",
@@ -2279,7 +2268,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839008"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943473"
 ],
 "num_credits": 5,
 "module_name": "[EI71060] Security in Communications and Storage",
@@ -2506,17 +2495,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950833428"
-],
-"num_credits": 2,
-"module_name": "[CIT323002] AI Governance",
-"rule_node_names_by_levels": {
-"59": "Elective Courses",
-"79": "Information Systems"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879993"
 ],
 "num_credits": 5,
@@ -2528,21 +2506,11 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944516"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944516",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837186"
 ],
 "num_credits": 6,
 "module_name": "[IN2406] Fundamentals of Artificial Intelligence",
-"rule_node_names_by_levels": {
-"59": "Elective Courses",
-"79": "Information Systems"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837186"
-],
-"num_credits": 3,
-"module_name": "[IN2079] IT-Consulting",
 "rule_node_names_by_levels": {
 "59": "Elective Courses",
 "79": "Information Systems"
@@ -2678,8 +2646,8 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940769",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837563",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837562"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941216",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941215"
 ],
 "num_credits": 6,
 "module_name": "[IN0009] Basic Principles: Operating Systems and System Software",
@@ -2895,7 +2863,10 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950456592",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941265",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882110",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945454"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945454",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457042",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950466229",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950734254"
 ],
 "num_credits": 10,
 "module_name": "[IN2106] Advanced Practical Course",
@@ -2907,9 +2878,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950457042",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950466229",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950734254",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950344529",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950659372",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950398287",
@@ -3401,7 +3369,11 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950498079",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950934751",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950934744",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950298744"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950298744",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950434607",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950465421",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595709",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950456517"
 ],
 "num_credits": 5,
 "module_name": "[IN2107] Advanced Seminar Course",
@@ -3412,10 +3384,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950434607",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950465421",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950595709",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950456517",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950574909",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950691927",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950367631",
@@ -3895,11 +3863,12 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839661",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880909"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950411645",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840130",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881387"
 ],
 "num_credits": 3,
-"module_name": "[SZ0346] German as a Foreign Language C1.2: Communicating Professionally in Science and Business",
+"module_name": "[SZ0330] German for Engineers B2",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Language Courses",
@@ -4732,8 +4701,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837657",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879103"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940910"
 ],
 "num_credits": 3,
 "module_name": "[CLA30257] Big Band",
@@ -4755,7 +4723,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763818"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977108",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977108"
 ],
 "num_credits": 2,
 "module_name": "[CLA20803] Cognitive Science: Thinking, Perceiving, and Knowing",
@@ -4766,34 +4735,13 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950763818"
-],
-"num_credits": 3,
-"module_name": "[CLA30803] Cognitive Science: Thinking, Perceiving, and Knowing",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950631145",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669926"
-],
-"num_credits": 1,
-"module_name": "[CLA10555] Communication and Facilitation in Project Teams",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
-}
-},
-{
-"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950669926",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838171",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879586"
 ],
 "num_credits": 1,
-"module_name": "[CLA10509] Creative Problem Solving",
+"module_name": "[CLA10555] Communication and Facilitation in Project Teams",
 "rule_node_names_by_levels": {
 "59": "Support Electives",
 "79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
@@ -4835,8 +4783,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836910",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878371"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941444"
 ],
 "num_credits": 2,
 "module_name": "[CLA20705] Diversity and Conflict Management",
@@ -4882,7 +4829,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840762"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941883"
 ],
 "num_credits": 2,
 "module_name": "[CLA21209] Introduction to Scientific Working",
@@ -4904,8 +4851,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837804",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879247",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941717",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842121"
 ],
 "num_credits": 2,
@@ -4917,9 +4863,9 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875283",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945962",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879255",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840540",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943099",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950463538"
 ],
 "num_credits": 2,
@@ -4932,7 +4878,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879255",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840540"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943099"
 ],
 "num_credits": 3,
 "module_name": "[CLA31314] Introduction to Philosophical Thinking",
@@ -4966,7 +4912,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950884493"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944754"
 ],
 "num_credits": 5,
 "module_name": "[SOT65201] Developing a Game Prototype. Reflecting Science, Technology and Society through Game Design",
@@ -5075,7 +5021,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950884493"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944754"
 ],
 "num_credits": 3,
 "module_name": "[SOT63201] Game Jam. Reflecting Science, Technology and Society through Game Design",
@@ -5121,8 +5067,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837621",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879067"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941555"
 ],
 "num_credits": 2,
 "module_name": "[CLA20910] Gender Competence as Core Qualification",
@@ -5133,8 +5078,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836122",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877686"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941445"
 ],
 "num_credits": 2,
 "module_name": "[CLA20710] Global Diversity Training",
@@ -5145,7 +5089,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837916"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941726"
 ],
 "num_credits": 2,
 "module_name": "[CLA21008] Fundamental Principles of Globalisation",
@@ -5178,8 +5122,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837312",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878723"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941066"
 ],
 "num_credits": 2,
 "module_name": "[CLA20221] Acting under Ignorance",
@@ -5190,8 +5133,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837312",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878723"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941066"
 ],
 "num_credits": 3,
 "module_name": "[CLA30221] Acting under Ignorance",
@@ -5202,8 +5144,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836781",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878257"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941234"
 ],
 "num_credits": 1,
 "module_name": "[CLA10524] The Asian Challenge",
@@ -5214,8 +5155,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837281",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878706"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941554"
 ],
 "num_credits": 2,
 "module_name": "[CLA21213] Individual Change Management",
@@ -5229,6 +5169,8 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950664944",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950571704",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727439",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875963",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883702",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879497"
 ],
 "num_credits": 2,
@@ -5263,8 +5205,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837658",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879104"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940911"
 ],
 "num_credits": 3,
 "module_name": "[CLA30258] Jazz Project",
@@ -5275,7 +5216,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839679"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941716"
 ],
 "num_credits": 2,
 "module_name": "[CLA21010] Collective Agency in Sociotechnical Systems",
@@ -5286,7 +5227,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839679"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941716"
 ],
 "num_credits": 3,
 "module_name": "[CLA31010] Collective Agency in Sociotechnical Systems",
@@ -5297,10 +5238,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875122",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878761",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838290",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879696"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940913",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944009"
 ],
 "num_credits": 1,
 "module_name": "[CLA10269] Communication and Personality",
@@ -5311,12 +5250,9 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841590",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841591",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950885253",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950885252",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950842423",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883792"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945533",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945532",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945604"
 ],
 "num_credits": 2,
 "module_name": "[CLA20267] Communication and Presentation",
@@ -5327,10 +5263,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841590",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841591",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950885253",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950885252"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945533",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945532"
 ],
 "num_credits": 3,
 "module_name": "[CLA30267] Communication and Presentation",
@@ -5363,10 +5297,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838046",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838047",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879464",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879463"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942031",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942032"
 ],
 "num_credits": 1,
 "module_name": "[CLA11313] Conflict Management and Conducting Discussions",
@@ -5377,14 +5309,9 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837389",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837387",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837388",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875123",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878783",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878784",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878782",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882024"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941015",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941016",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945963"
 ],
 "num_credits": 3,
 "module_name": "[WZ0812] Cultural Competence: Choir and Orchestra",
@@ -5395,9 +5322,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840183",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881446",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937535",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977880",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805246",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805244",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950769548"
@@ -5411,11 +5336,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874289",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837751",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879192",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950938534",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879193"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941720",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941721"
 ],
 "num_credits": 1,
 "module_name": "[CLA11207] Understanding Art 1: Art Reception infront of Originals in Museums in Munich",
@@ -5536,8 +5458,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841194",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882411",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950036768"
 ],
 "num_credits": 2,
@@ -5561,7 +5481,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950631668",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837314"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941067"
 ],
 "num_credits": 2,
 "module_name": "[CLA20231] Concepts of Human Being",
@@ -5573,7 +5493,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950631668",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837314"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941067"
 ],
 "num_credits": 1,
 "module_name": "[CLA10231] Concepts of Human Being",
@@ -5586,7 +5506,7 @@
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950070456",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950093513",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837917",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950946328",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879350"
 ],
 "num_credits": 2,
@@ -5600,7 +5520,7 @@
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950070456",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950093513",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837917",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950946328",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879350"
 ],
 "num_credits": 1,
@@ -5679,7 +5599,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836792"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941556"
 ],
 "num_credits": 1,
 "module_name": "[CLA10714] Human Resources Development",
@@ -5690,8 +5610,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837954",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879373"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941805"
 ],
 "num_credits": 2,
 "module_name": "[CLA21114] Perspectives of Technology Assessment",
@@ -5702,7 +5621,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841192"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977776"
 ],
 "num_credits": 2,
 "module_name": "[CLA21115] Philosophy of Human-Machine Interaction",
@@ -5775,17 +5694,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950603623"
-],
-"num_credits": 3,
-"module_name": "[CLA30811] Understanding Politics 1: Theories of Power",
-"rule_node_names_by_levels": {
-"59": "Support Electives",
-"79": "Studiengangs\u00fcbergreifende Angebote der Carl von Linde-Akademie"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950662699",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727440",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950597744"
@@ -5799,7 +5707,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837205"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941463"
 ],
 "num_credits": 1,
 "module_name": "[CLA10716] Positions of Modern Design",
@@ -5833,8 +5741,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840061",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881326"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943707"
 ],
 "num_credits": 1,
 "module_name": "[CLA11317] Interdisciplinary Lecture Series Environment: Politics and Society",
@@ -5857,11 +5764,9 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950769547",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840664",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840662",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840663",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881863",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881862"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950946141",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944194",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944195"
 ],
 "num_credits": 2,
 "module_name": "[CLA21901] Roles. Clich\u00e9s. Visions. Science and Technology in the View of Literature and Theater",
@@ -5872,7 +5777,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937290"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977894"
 ],
 "num_credits": 1,
 "module_name": "[CLA10348] Become Successful Through Writing",
@@ -5886,7 +5791,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876880",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883551",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950843603",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841864"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944755"
 ],
 "num_credits": 2,
 "module_name": "[CLA20552] Self-Written, Newly Read - A Literary Writers' Lab",
@@ -5898,37 +5803,30 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950377788",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838761",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950935901",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950978130",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950182450",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840754",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881957",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941741",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950597742",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950635427",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950182452",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950343200",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950214958",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838030",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950938181",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942327",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950133388",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838572",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879912",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837958",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950938049",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879139",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941886",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941884",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950978096",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950726354",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950217756",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875532",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883841",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945902",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950144269",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839456",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872179",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880716",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837752",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879195",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941744",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950569956",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950604860",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838344",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943110",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950144268",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950699490",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950628703",
@@ -5938,8 +5836,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950139423",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950144279",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950405901",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839074",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880349",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941885",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950182964"
 ],
 "num_credits": 1,
@@ -5951,7 +5848,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836044"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941327"
 ],
 "num_credits": 1,
 "module_name": "[CLA10718] Speech Training for University Life",
@@ -5985,8 +5882,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839794",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839975",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881251",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943668",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950318783"
 ],
 "num_credits": 2,
@@ -6009,8 +5905,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836888",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878351"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940912"
 ],
 "num_credits": 1,
 "module_name": "[CLA10412] Technical Writing (Engineer Your Text!)",
@@ -6056,7 +5951,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937379",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977355",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836944"
 ],
 "num_credits": 2,
@@ -6068,7 +5963,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937379",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977355",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836944"
 ],
 "num_credits": 3,
@@ -6103,8 +5998,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836115",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950877672"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941427"
 ],
 "num_credits": 3,
 "module_name": "[CLA90331] TUMInspiration - Student Projects",
@@ -6115,7 +6009,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837604",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941206",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950321223"
 ],
 "num_credits": 3,
@@ -6127,8 +6021,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837647",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879093"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941069"
 ],
 "num_credits": 1,
 "module_name": "[CLA10445] Approaches to Negotiation",
@@ -6139,8 +6032,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839747",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881019"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941722"
 ],
 "num_credits": 1,
 "module_name": "[CLA11123] How to Produce Your Own Videos",
@@ -6189,7 +6081,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837306"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941247"
 ],
 "num_credits": 3,
 "module_name": "[CLA30622] From Invention to Patent",
@@ -6211,8 +6103,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840061",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881326"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943707"
 ],
 "num_credits": 3,
 "module_name": "[CLA31900] Lecture Series Environment - TUM",
@@ -6313,8 +6204,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836945",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878424"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950946491"
 ],
 "num_credits": 1,
 "module_name": "[CLA10450] When Engineers Become Managers",
@@ -6325,8 +6215,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836946",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950878425"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940915"
 ],
 "num_credits": 1,
 "module_name": "[CLA10626] Communicating Science",
@@ -6758,6 +6647,17 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793297"
+],
+"num_credits": 4,
+"module_name": "[MGT001443] Project Week 2024/25: Conflicts in Mining Critical Materials: Compromising in Sustainability Strategies",
+"rule_node_names_by_levels": {
+"59": "Support Electives",
+"79": "Project Weeks"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950834059"
 ],
 "num_credits": 12,
@@ -6948,12 +6848,10 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840662",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840663",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881863",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881862",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944194",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944195",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950769547",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840664"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950946141"
 ],
 "num_credits": 2,
 "module_name": "[CLA21901] Roles. Clich\u00e9s. Visions. Science and Technology in the View of Literature and Theater",
@@ -7664,8 +7562,17 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839077",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880350"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941969"
+],
+"num_credits": 6,
+"module_name": "[MW2245] Think. Make. Start.",
+"rule_node_names_by_levels": {
+"59": "Support Electives"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941969"
 ],
 "num_credits": 6,
 "module_name": "[MW2245] Think. Make. Start.",
@@ -7685,8 +7592,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875771",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875589"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944389"
 ],
 "num_credits": 3,
 "module_name": "[SOT53200] Responsibility in the Engineering Profession",

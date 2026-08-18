@@ -35264,6 +35264,30 @@
 "semesterDto": {
 "id": 207
 },
+"title": "(POL70044) Business Ethics",
+"id": 950941206,
+"oldestRelatedCourseId": 950088580
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "From Invention to Patent (Protection and Commercialization of Research Results)",
+"id": 950941247,
+"oldestRelatedCourseId": 950037534
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Software Engineering in Industrial Practice (IN2235)",
 "id": 950941404,
 "oldestRelatedCourseId": 950031331
@@ -35348,6 +35372,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Optimization and model analysis",
+"id": 950942023,
+"oldestRelatedCourseId": 950217907
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Advanced Topics of SW Engineering (IN2309, IN2126)",
 "id": 950942355,
 "oldestRelatedCourseId": 950271537
@@ -35420,9 +35456,33 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Security in Communications and Storage",
+"id": 950943473,
+"oldestRelatedCourseId": 950458544
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Introduction to Quantum Computing (IN2381)",
 "id": 950943622,
 "oldestRelatedCourseId": 950488182
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
+"id": 950943707,
+"oldestRelatedCourseId": 950294404
 },
 {
 "courseTypeDto": {
@@ -35552,6 +35612,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Computational Neuroscience \u2013 Lecture (M.Sc.)",
+"id": 950944668,
+"oldestRelatedCourseId": 950662823
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Advanced Concepts of Programming Languages (CIT3230000)",
 "id": 950944676,
 "oldestRelatedCourseId": 950663006
@@ -35654,6 +35726,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Advanced Robot Learning and Decision-Making\t",
+"id": 950945832,
+"oldestRelatedCourseId": 950832465
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -35678,6 +35762,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computer-assisted Interventions and Therapy (CIT423008)",
+"id": 950949586,
+"oldestRelatedCourseId": 950949586
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -35690,6 +35786,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "CAMP 1 - AI in Computational Medicine and Surgery (CIT423014)",
+"id": 950974750,
+"oldestRelatedCourseId": 950974750
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -35699,6 +35807,30 @@
 "title": "Protein Prediction II for Computer Scientists (IN2291)",
 "id": 950974891,
 "oldestRelatedCourseId": 950974891
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Multimodal AI in Medicine (CIT423009)",
+"id": 950974901,
+"oldestRelatedCourseId": 950974901
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Trustworthy AI in Medicine (CIT423007)",
+"id": 950974903,
+"oldestRelatedCourseId": 950974903
 },
 {
 "courseTypeDto": {
@@ -35723,6 +35855,18 @@
 "title": "Advanced Algorithms (CIT323004)",
 "id": 950975195,
 "oldestRelatedCourseId": 950975195
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Scientific Computing and Machine Learning 1 (CIT423016)",
+"id": 950977326,
+"oldestRelatedCourseId": 950977326
 },
 {
 "courseTypeDto": {
