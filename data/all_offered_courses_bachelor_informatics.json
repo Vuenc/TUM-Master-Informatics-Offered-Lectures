@@ -65864,6 +65864,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Optomechatronical Measurement Systems",
+"id": 950940051,
+"oldestRelatedCourseId": 950006467
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Analysis for Computer Science",
 "id": 950940057,
 "oldestRelatedCourseId": 950002001
@@ -65894,6 +65906,78 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Building Structures 1",
+"id": 950940085,
+"oldestRelatedCourseId": 950006078
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Control of Electrical Drives Part I - Modelling of the Drive Components",
+"id": 950940090,
+"oldestRelatedCourseId": 950001980
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Basic Elements of Spatial Planning",
+"id": 950940105,
+"oldestRelatedCourseId": 950002521
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Medical Imaging Technology",
+"id": 950940170,
+"oldestRelatedCourseId": 950002545
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "CAx 1",
+"id": 950940182,
+"oldestRelatedCourseId": 950002222
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Sociological Basics: Modern Societies in the Age of Digitalization",
+"id": 950940235,
+"oldestRelatedCourseId": 820900968
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -65903,6 +65987,18 @@
 "title": "Experimental Inorganic Chemistry for B.Sc. Chemical Engineering (CH0575)",
 "id": 950940244,
 "oldestRelatedCourseId": 820918735
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Nonlinear Optimization: Advanced [MA3503]",
+"id": 950940245,
+"oldestRelatedCourseId": 820921781
 },
 {
 "courseTypeDto": {
@@ -65924,6 +66020,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Foundations of Business Administration 2 (WI000729, German): Garching",
+"id": 950940294,
+"oldestRelatedCourseId": 950001217
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Numerical Programming (IN0019)",
 "id": 950940303,
 "oldestRelatedCourseId": 240958468
@@ -65936,9 +66044,69 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Numerics of Differential Equations",
+"id": 950940369,
+"oldestRelatedCourseId": 950002866
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Introduction to Quantum Mechanics (CH4108)",
 "id": 950940372,
 "oldestRelatedCourseId": 950002880
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Software Ergonomics",
+"id": 950940377,
+"oldestRelatedCourseId": 950002954
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Business Law 1 (WI000027, German)",
+"id": 950940379,
+"oldestRelatedCourseId": 950002956
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Industrial Plants",
+"id": 950940387,
+"oldestRelatedCourseId": 1672025
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Biochemistry 1: Fundamentals of Biochemistry",
+"id": 950940403,
+"oldestRelatedCourseId": 950002643
 },
 {
 "courseTypeDto": {
@@ -65972,9 +66140,33 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Engineering Mechanics for Technology Management",
+"id": 950940450,
+"oldestRelatedCourseId": 840336651
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Systems Theory in Mechatronics - Lecture",
 "id": 950940490,
 "oldestRelatedCourseId": 950004219
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Energy Monitoring",
+"id": 950940564,
+"oldestRelatedCourseId": 950003760
 },
 {
 "courseTypeDto": {
@@ -65999,6 +66191,30 @@
 "title": "Program Optimization (IN2053)",
 "id": 950940620,
 "oldestRelatedCourseId": 240795803
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Functional Analysis",
+"id": 950940653,
+"oldestRelatedCourseId": 950005103
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Structural design of glass constructions",
+"id": 950940685,
+"oldestRelatedCourseId": 950004773
 },
 {
 "courseTypeDto": {
@@ -66083,6 +66299,18 @@
 "title": "Patterns in Software Engineering (IN2081)",
 "id": 950940729,
 "oldestRelatedCourseId": 240942179
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Lecture Architectural Design and Construction - Basics",
+"id": 950940731,
+"oldestRelatedCourseId": 950005514
 },
 {
 "courseTypeDto": {
@@ -66212,9 +66440,69 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Industrial Automation 1",
+"id": 950940792,
+"oldestRelatedCourseId": 950004745
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Digital System Design with VHDL and System C",
+"id": 950940800,
+"oldestRelatedCourseId": 849914093
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Aircraft Performance",
 "id": 950940815,
 "oldestRelatedCourseId": 950004931
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Production Ergonomics",
+"id": 950940822,
+"oldestRelatedCourseId": 950004941
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Sociology",
+"id": 950940855,
+"oldestRelatedCourseId": 849981154
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Food Microbiology",
+"id": 950940861,
+"oldestRelatedCourseId": 950005794
 },
 {
 "courseTypeDto": {
@@ -66260,6 +66548,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Alcohol free beverages",
+"id": 950940897,
+"oldestRelatedCourseId": 949999690
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Experimental Physics 1 in English",
 "id": 950940905,
 "oldestRelatedCourseId": 949999824
@@ -66278,15 +66578,51 @@
 },
 {
 "courseTypeDto": {
-"key": "VI"
+"key": "VO"
 },
 "termName": "WS26",
 "semesterDto": {
 "id": 207
 },
-"title": "Semantics (IN2055)",
-"id": 950941030,
-"oldestRelatedCourseId": 950011200
+"title": "Modul 12P: Building Technology - basics",
+"id": 950940964,
+"oldestRelatedCourseId": 950010358
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Digital Methods in Architecture: CAAD",
+"id": 950940970,
+"oldestRelatedCourseId": 950010381
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Beverage Technology",
+"id": 950941018,
+"oldestRelatedCourseId": 950010894
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "International brewing methods",
+"id": 950941059,
+"oldestRelatedCourseId": 950011742
 },
 {
 "courseTypeDto": {
@@ -66332,6 +66668,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Lecture Series: Urban Design - Designing Urban Transformation",
+"id": 950941175,
+"oldestRelatedCourseId": 950030002
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "(POL70044) Business Ethics",
 "id": 950941206,
 "oldestRelatedCourseId": 950088580
@@ -66362,6 +66710,30 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Consumer Behavior (WI000739, English)",
+"id": 950941275,
+"oldestRelatedCourseId": 950044785
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Architektur-Management + Recht: Basic Applied Planning Legislation",
+"id": 950941315,
+"oldestRelatedCourseId": 950054904
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -66371,6 +66743,30 @@
 "title": "Software Engineering in Industrial Practice (IN2235)",
 "id": 950941404,
 "oldestRelatedCourseId": 950031331
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Algebra 2 [MA5120]",
+"id": 950941470,
+"oldestRelatedCourseId": 950075070
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Entrepreneurship for Students of Information Systems (WI000969, English): (Entrepreneurship in a Digital Age)",
+"id": 950941490,
+"oldestRelatedCourseId": 950077811
 },
 {
 "courseTypeDto": {
@@ -66416,9 +66812,45 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Digitaltechnik",
+"id": 950941675,
+"oldestRelatedCourseId": 950120783
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Basics of electrical machines",
+"id": 950941737,
+"oldestRelatedCourseId": 950133776
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Fundamentals of Power Transmission",
 "id": 950941763,
 "oldestRelatedCourseId": 950140070
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Robot Control",
+"id": 950941769,
+"oldestRelatedCourseId": 950113626
 },
 {
 "courseTypeDto": {
@@ -66476,9 +66908,33 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Hydrology Basic Module",
+"id": 950941965,
+"oldestRelatedCourseId": 950215781
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Games on Graphs (IN2296)",
 "id": 950941979,
 "oldestRelatedCourseId": 950187321
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Principles of Economics (WI001056_1, English)",
+"id": 950942101,
+"oldestRelatedCourseId": 950220849
 },
 {
 "courseTypeDto": {
@@ -66512,6 +66968,42 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Semiconductor Sensors",
+"id": 950942258,
+"oldestRelatedCourseId": 950260220
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Financial Accounting (WI001059_E, English)",
+"id": 950942351,
+"oldestRelatedCourseId": 950271212
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Economics I (WI000021_E, English) (Microeconomics) - Lecture",
+"id": 950942352,
+"oldestRelatedCourseId": 950271214
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Machine Learning (IN2064)",
 "id": 950942367,
 "oldestRelatedCourseId": 950285407
@@ -66524,9 +67016,21 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Data Analysis and Visualization in R (IN2339)",
-"id": 950942369,
-"oldestRelatedCourseId": 950285419
+"title": "(POL10100) Introduction to Empirical Methods for the Social Sciences - Lecture",
+"id": 950942456,
+"oldestRelatedCourseId": 950294825
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Deep Learning (IN2346)",
+"id": 950942542,
+"oldestRelatedCourseId": 950298738
 },
 {
 "courseTypeDto": {
@@ -66566,6 +67070,54 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Circuit Theory",
+"id": 950943016,
+"oldestRelatedCourseId": 950379301
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Transport Planning - Basics",
+"id": 950943107,
+"oldestRelatedCourseId": 950577407
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Road, Railway and Airfield Construction Basic Module Lecture",
+"id": 950943116,
+"oldestRelatedCourseId": 950456118
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Traffic Engineering Basic Bachelor Course",
+"id": 950943141,
+"oldestRelatedCourseId": 950577408
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -66575,6 +67127,42 @@
 "title": "Lecture Hydraulic and Water Resources Engineering Basic Module",
 "id": 950943264,
 "oldestRelatedCourseId": 950435959
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Stage Coaching for Engineers and Scientists",
+"id": 950943306,
+"oldestRelatedCourseId": 950428273
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Signal Theory",
+"id": 950943400,
+"oldestRelatedCourseId": 950439937
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Biomedical Engineering - Introduction to Cell Biology",
+"id": 950943481,
+"oldestRelatedCourseId": 950458858
 },
 {
 "courseTypeDto": {
@@ -66611,6 +67199,54 @@
 "title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
 "id": 950943707,
 "oldestRelatedCourseId": 950294404
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Analysis 3 [MA0003]",
+"id": 950943834,
+"oldestRelatedCourseId": 950542745
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Schaltungstheorie Semestrale",
+"id": 950943935,
+"oldestRelatedCourseId": 950562698
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Labs in Satellite Geodesy",
+"id": 950944213,
+"oldestRelatedCourseId": 950599461
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Applied Regression [MA3409]",
+"id": 950944469,
+"oldestRelatedCourseId": 950641096
 },
 {
 "courseTypeDto": {
@@ -66692,9 +67328,57 @@
 "semesterDto": {
 "id": 207
 },
+"title": "(SOT82531) Legal Principles of Artificial Intelligence - Lecture",
+"id": 950945100,
+"oldestRelatedCourseId": 950728426
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Investment and Financial Management: Introduction to Corporate Finance (WI000219_E, English)",
+"id": 950945436,
+"oldestRelatedCourseId": 950774129
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Investment and Financial Management: Introduction to Financial Markets (WI000219_E, English)",
+"id": 950945437,
+"oldestRelatedCourseId": 950774138
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "High Performance Query Processing (CIT323001)",
 "id": 950945470,
 "oldestRelatedCourseId": 950793352
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Discrete Optimization [CIT413041]",
+"id": 950945637,
+"oldestRelatedCourseId": 950797289
 },
 {
 "courseTypeDto": {
@@ -66740,9 +67424,33 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Additive Manufacturing in Construction 1 \u2013 Lecture",
+"id": 950946330,
+"oldestRelatedCourseId": 950876621
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Microelectronics",
 "id": 950946351,
 "oldestRelatedCourseId": 950876856
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Intelligence",
+"id": 950951704,
+"oldestRelatedCourseId": 950132383
 },
 {
 "courseTypeDto": {
@@ -66770,6 +67478,30 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Projective Geometry",
+"id": 950975520,
+"oldestRelatedCourseId": 950054914
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Differential Geometry",
+"id": 950975922,
+"oldestRelatedCourseId": 950095507
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -66791,6 +67523,30 @@
 "title": "Automata and Formal Languages (IN2041)",
 "id": 950977416,
 "oldestRelatedCourseId": 950977416
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "ProjectWeeks: Data Design Studio for AI-Powered EdTech",
+"id": 951006989,
+"oldestRelatedCourseId": 950793359
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "A Practical Introduction to Data Science (CIT323007)",
+"id": 951006995,
+"oldestRelatedCourseId": 951006995
 }
 ]
 }

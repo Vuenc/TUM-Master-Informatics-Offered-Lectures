@@ -64820,9 +64820,45 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Autonomous Vehicles: Development and Simulation (Modul ED150048 (old MW2352), in presence)",
+"id": 950940141,
+"oldestRelatedCourseId": 820256530
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Energy and Economy",
+"id": 950940164,
+"oldestRelatedCourseId": 950002495
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Medical Technology 1 - an organ system based approach",
 "id": 950940180,
 "oldestRelatedCourseId": 950002173
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Nonlinear Optimization: Advanced [MA3503]",
+"id": 950940245,
+"oldestRelatedCourseId": 820921781
 },
 {
 "courseTypeDto": {
@@ -64844,9 +64880,45 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Quantitative Genetics and Selection",
+"id": 950940265,
+"oldestRelatedCourseId": 1671917
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Query Optimization (IN2219)",
 "id": 950940284,
 "oldestRelatedCourseId": 821033098
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Numerics of Differential Equations",
+"id": 950940369,
+"oldestRelatedCourseId": 950002866
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Pedagogic and Developmental psychology  (ED0302, ED0385)",
+"id": 950940376,
+"oldestRelatedCourseId": 950002952
 },
 {
 "courseTypeDto": {
@@ -64868,6 +64940,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Vehicle Concepts: Development and Simulation  (Modul MW1586, in presence)\t",
+"id": 950940404,
+"oldestRelatedCourseId": 950002646
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Cell Biology",
 "id": 950940405,
 "oldestRelatedCourseId": 950002649
@@ -64880,9 +64964,117 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Basics of Automotive Technology (Modul MW1586, in presence)",
+"id": 950940412,
+"oldestRelatedCourseId": 950003518
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Introductory Genetics",
 "id": 950940415,
 "oldestRelatedCourseId": 950006426
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Biology Minor Part 1",
+"id": 950940487,
+"oldestRelatedCourseId": 950011700
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of numerical fluid mechanics",
+"id": 950940497,
+"oldestRelatedCourseId": 240504255
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Mathematical Models in Biology 1",
+"id": 950940502,
+"oldestRelatedCourseId": 950003321
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Particle-Simulation Methods for Fluid Dynamics",
+"id": 950940550,
+"oldestRelatedCourseId": 240667624
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Banking and Risk Management (WI000092, english)",
+"id": 950940606,
+"oldestRelatedCourseId": 950031004
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Management Accounting (WI000233, German)",
+"id": 950940622,
+"oldestRelatedCourseId": 950003192
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Functional Analysis",
+"id": 950940653,
+"oldestRelatedCourseId": 950005103
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fluid mechanics 2 (MW1910)",
+"id": 950940678,
+"oldestRelatedCourseId": 240897349
 },
 {
 "courseTypeDto": {
@@ -65012,6 +65204,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Asset Management (WI000231, English)",
+"id": 950940778,
+"oldestRelatedCourseId": 950005546
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Advanced Computer Architecture (IN2076)",
 "id": 950940783,
 "oldestRelatedCourseId": 240997826
@@ -65024,9 +65228,45 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Unsteady Aerodynamics I - Airfoils",
+"id": 950940805,
+"oldestRelatedCourseId": 249919772
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Aircraft Performance",
 "id": 950940815,
 "oldestRelatedCourseId": 950004931
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Technische Thermodynamik",
+"id": 950940853,
+"oldestRelatedCourseId": 249974428
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Aerodynamics of Ground Vehicles",
+"id": 950940862,
+"oldestRelatedCourseId": 849986575
 },
 {
 "courseTypeDto": {
@@ -65120,6 +65360,30 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Rotorcraft Engineering - Preliminary Design",
+"id": 950940979,
+"oldestRelatedCourseId": 950010482
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Renewable Energy Technology I",
+"id": 950940982,
+"oldestRelatedCourseId": 950010504
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Physical Biology of the Cell 1 \u2013 mechanics of biological macro molecules",
 "id": 950940987,
 "oldestRelatedCourseId": 950010538
@@ -65168,9 +65432,33 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Semantics (IN2055)",
-"id": 950941030,
-"oldestRelatedCourseId": 950011200
+"title": "Nonlinear Control Systems",
+"id": 950941019,
+"oldestRelatedCourseId": 950010920
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Project Management (WI000264, English)",
+"id": 950941057,
+"oldestRelatedCourseId": 950011683
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Teaching and learning in educational contexts",
+"id": 950941061,
+"oldestRelatedCourseId": 950011769
 },
 {
 "courseTypeDto": {
@@ -65204,6 +65492,30 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Fixed Income Markets",
+"id": 950941202,
+"oldestRelatedCourseId": 950035638
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Probability Theory [MA2409]",
+"id": 950941204,
+"oldestRelatedCourseId": 950035670
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "(POL70044) Business Ethics",
 "id": 950941206,
 "oldestRelatedCourseId": 950088580
@@ -65219,6 +65531,54 @@
 "title": "Analysis and design of cellular networks",
 "id": 950941316,
 "oldestRelatedCourseId": 950054933
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Large Deviations",
+"id": 950941328,
+"oldestRelatedCourseId": 950055851
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Algebra 2 [MA5120]",
+"id": 950941470,
+"oldestRelatedCourseId": 950075070
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Logistics and Operations Strategy (WI000976, English) (Limited places)",
+"id": 950941492,
+"oldestRelatedCourseId": 950077872
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Stochastic Modeling and Optimization (WI000977, English) (Limited places)",
+"id": 950941493,
+"oldestRelatedCourseId": 950077873
 },
 {
 "courseTypeDto": {
@@ -65258,6 +65618,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Basic Principles and international Aspects of Corporate Management (WI001028, German)",
+"id": 950941633,
+"oldestRelatedCourseId": 950099155
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -65291,6 +65663,18 @@
 "title": "Introduction to High-Frequency Engineering",
 "id": 950941772,
 "oldestRelatedCourseId": 950140376
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Simulation of Quantum Devices",
+"id": 950941830,
+"oldestRelatedCourseId": 950155227
 },
 {
 "courseTypeDto": {
@@ -65384,9 +65768,33 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Computational Neuroscience: A Lecture Series from Models to Applications",
+"id": 950942014,
+"oldestRelatedCourseId": 950217413
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Optimization and model analysis",
 "id": 950942023,
 "oldestRelatedCourseId": 950217907
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Principles of Economics (WI001056_1, English)",
+"id": 950942101,
+"oldestRelatedCourseId": 950220849
 },
 {
 "courseTypeDto": {
@@ -65408,9 +65816,9 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Machine Learning (IN2064)",
-"id": 950942367,
-"oldestRelatedCourseId": 950285407
+"title": "Fundamentals of Energy Modelling",
+"id": 950942152,
+"oldestRelatedCourseId": 950235723
 },
 {
 "courseTypeDto": {
@@ -65420,9 +65828,45 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Data Analysis and Visualization in R (IN2339)",
-"id": 950942369,
-"oldestRelatedCourseId": 950285419
+"title": "Energy Markets I (WI000946, English)",
+"id": 950942155,
+"oldestRelatedCourseId": 950235879
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Acoustics",
+"id": 950942266,
+"oldestRelatedCourseId": 950260800
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Information Theory",
+"id": 950942364,
+"oldestRelatedCourseId": 950285264
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning (IN2064)",
+"id": 950942367,
+"oldestRelatedCourseId": 950285407
 },
 {
 "courseTypeDto": {
@@ -65435,6 +65879,30 @@
 "title": "Introduction to Deep Learning (IN2346)",
 "id": 950942542,
 "oldestRelatedCourseId": 950298738
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Neuroprosthetics",
+"id": 950942546,
+"oldestRelatedCourseId": 950311922
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Statistical Learning [MA4802]",
+"id": 950942590,
+"oldestRelatedCourseId": 950321260
 },
 {
 "courseTypeDto": {
@@ -65468,9 +65936,45 @@
 "semesterDto": {
 "id": 207
 },
+"title": "QCD in Accelerator Experiments",
+"id": 950942679,
+"oldestRelatedCourseId": 950338128
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "3D Scanning & Motion Capture (IN2354)",
 "id": 950942690,
 "oldestRelatedCourseId": 950339245
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Grundlagen der IT-Sicherheit",
+"id": 950942735,
+"oldestRelatedCourseId": 950340620
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Secure Implementation of Cryptographic Algorithms",
+"id": 950942739,
+"oldestRelatedCourseId": 950340651
 },
 {
 "courseTypeDto": {
@@ -65504,9 +66008,69 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Private Equity (WI001187, English)",
+"id": 950942843,
+"oldestRelatedCourseId": 950349257
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Quantum information theory",
+"id": 950942981,
+"oldestRelatedCourseId": 950377168
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Robot and Swarm Navigation",
+"id": 950942987,
+"oldestRelatedCourseId": 950377441
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Autonomous Vehicles: Artificial Intelligence (Modul ED150049 (old MW2378), online)",
+"id": 950943017,
+"oldestRelatedCourseId": 950379316
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Natural Language Processing (IN2361)",
 "id": 950943031,
 "oldestRelatedCourseId": 950380449
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Controlling (WI001083, German)",
+"id": 950943051,
+"oldestRelatedCourseId": 950375334
 },
 {
 "courseTypeDto": {
@@ -65522,6 +66086,30 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Multi-criteria Optimization and Decision Analysis for Embedded Systems Design",
+"id": 950943097,
+"oldestRelatedCourseId": 950398882
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Food Economics (WI000948, English)",
+"id": 950943102,
+"oldestRelatedCourseId": 950369665
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -65531,6 +66119,18 @@
 "title": "Channel Coding",
 "id": 950943122,
 "oldestRelatedCourseId": 950399283
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Applied Multi-Messenger Astronomy 1",
+"id": 950943168,
+"oldestRelatedCourseId": 950407418
 },
 {
 "courseTypeDto": {
@@ -65570,6 +66170,54 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Meteorology, Climatology and Hydrology",
+"id": 950943482,
+"oldestRelatedCourseId": 950458966
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Applied climatology and climate change",
+"id": 950943483,
+"oldestRelatedCourseId": 950458967
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Fundamentals of Mathematical Statistics [MA5441]",
+"id": 950943504,
+"oldestRelatedCourseId": 950466832
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Environmental Sensing and Modeling",
+"id": 950943518,
+"oldestRelatedCourseId": 950467224
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -65600,6 +66248,66 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Optimal Control and Decision Making",
+"id": 950943628,
+"oldestRelatedCourseId": 950543460
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Quantum Networks",
+"id": 950943646,
+"oldestRelatedCourseId": 950504105
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Mathematical methods for uncertainty quantification in hydrology MOOC",
+"id": 950943677,
+"oldestRelatedCourseId": 950534841
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Traffic Flow Theory",
+"id": 950943687,
+"oldestRelatedCourseId": 950506746
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Traffic Control Basics",
+"id": 950943688,
+"oldestRelatedCourseId": 950506751
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
 "id": 950943707,
 "oldestRelatedCourseId": 950294404
@@ -65615,6 +66323,30 @@
 "title": "Formal Methods for Cyber-Physical Systems",
 "id": 950943729,
 "oldestRelatedCourseId": 950526142
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Copyright (WI001257, German)",
+"id": 950943816,
+"oldestRelatedCourseId": 950542344
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Analysis 3 [MA0003]",
+"id": 950943834,
+"oldestRelatedCourseId": 950542745
 },
 {
 "courseTypeDto": {
@@ -65660,9 +66392,69 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Introduction to Deep Reinforcement Learning (MGT001299, English) (Lecture)",
+"id": 950944097,
+"oldestRelatedCourseId": 950595908
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Artificial Intelligence in Medicine (IN2403)",
 "id": 950944118,
 "oldestRelatedCourseId": 950596772
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Financial Mathematics 1 [MA3407]",
+"id": 950944205,
+"oldestRelatedCourseId": 950599303
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Methods for Single-Cell Biology [MA5617]",
+"id": 950944238,
+"oldestRelatedCourseId": 950599825
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Trademarks & Brands (MGT001322, German)",
+"id": 950944331,
+"oldestRelatedCourseId": 950626393
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Methods for Nanoelectronics: Semiclassical Models",
+"id": 950944448,
+"oldestRelatedCourseId": 950640148
 },
 {
 "courseTypeDto": {
@@ -65675,6 +66467,42 @@
 "title": "Numerical Algorithms for High Performance Computing (IN2398)",
 "id": 950944467,
 "oldestRelatedCourseId": 950640875
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computer Vision 1",
+"id": 950944468,
+"oldestRelatedCourseId": 950640916
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Applied Regression [MA3409]",
+"id": 950944469,
+"oldestRelatedCourseId": 950641096
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Machine Learning",
+"id": 950944503,
+"oldestRelatedCourseId": 950659098
 },
 {
 "courseTypeDto": {
@@ -65732,9 +66560,9 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Computational Modeling for System Genetics (CIT4230001)",
-"id": 950944737,
-"oldestRelatedCourseId": 950664461
+"title": "Discrete Differential Geometry [MA5205]",
+"id": 950944884,
+"oldestRelatedCourseId": 950695088
 },
 {
 "courseTypeDto": {
@@ -65756,9 +66584,57 @@
 "semesterDto": {
 "id": 207
 },
+"title": "(SOT86611) Sustainability Politics and Policy",
+"id": 950945068,
+"oldestRelatedCourseId": 950727466
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Computational Plasma Physics [MA4304]",
+"id": 950945121,
+"oldestRelatedCourseId": 950728786
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Advanced Deep Learning for Robotics (CIT433027)",
 "id": 950945322,
 "oldestRelatedCourseId": 950761808
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Investment and Financial Management: Introduction to Corporate Finance (WI000219_E, English)",
+"id": 950945436,
+"oldestRelatedCourseId": 950774129
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Investment and Financial Management: Introduction to Financial Markets (WI000219_E, English)",
+"id": 950945437,
+"oldestRelatedCourseId": 950774138
 },
 {
 "courseTypeDto": {
@@ -65786,6 +66662,42 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Foundations of Modern Robotics",
+"id": 950945539,
+"oldestRelatedCourseId": 950795177
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Discrete Optimization [CIT413041]",
+"id": 950945637,
+"oldestRelatedCourseId": 950797289
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Einf\u00fchrung in die Wahrscheinlichkeitstheorie und Statistik [MA0009]",
+"id": 950945677,
+"oldestRelatedCourseId": 950804138
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -65795,6 +66707,18 @@
 "title": "Foundations and Application of Generative AI (CITHN2014)",
 "id": 950945696,
 "oldestRelatedCourseId": 950804346
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Engineering Dynamics (MW2098)",
+"id": 950946194,
+"oldestRelatedCourseId": 950874516
 },
 {
 "courseTypeDto": {
@@ -65828,9 +66752,33 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Trustworthy Distributed Learning",
+"id": 950946333,
+"oldestRelatedCourseId": 950876667
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Actuarial  Risk Theory [MA3442]",
 "id": 950946357,
 "oldestRelatedCourseId": 950876863
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Multilinear Algebra [CIT413063]",
+"id": 950946425,
+"oldestRelatedCourseId": 950884459
 },
 {
 "courseTypeDto": {
@@ -65876,6 +66824,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Designing Games for Resilience & Survival in Times of Polycrisis (CIT623001)",
+"id": 950975173,
+"oldestRelatedCourseId": 950975173
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Advanced Algorithms (CIT323004)",
 "id": 950975195,
 "oldestRelatedCourseId": 950975195
@@ -65888,9 +66848,57 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Projective Geometry",
+"id": 950975520,
+"oldestRelatedCourseId": 950054914
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Parallel Computing  (CITHN2003)",
 "id": 950975732,
 "oldestRelatedCourseId": 950835950
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Opportunity Hunters - Thinking Like an Entrepreneur (MGT001526, English)",
+"id": 950975740,
+"oldestRelatedCourseId": 950975740
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Opportunity Hunters Pro - Thinking Like Innovative Entrepreneurs (MGT001527, English)",
+"id": 950975741,
+"oldestRelatedCourseId": 950975741
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Differential Geometry",
+"id": 950975922,
+"oldestRelatedCourseId": 950095507
 },
 {
 "courseTypeDto": {
@@ -65924,6 +66932,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "BioMEMS & Microfluidics",
+"id": 950977386,
+"oldestRelatedCourseId": 950242545
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Automata and Formal Languages (IN2041)",
 "id": 950977416,
 "oldestRelatedCourseId": 950977416
@@ -65939,6 +66959,90 @@
 "title": "Introduction to quantum chromodynamics",
 "id": 950977504,
 "oldestRelatedCourseId": 950010279
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Probabilistic Techniques and Algorithms in Data Analysis [MA4803]",
+"id": 950978742,
+"oldestRelatedCourseId": 950288411
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Random Graphs and Networks [MA5436]",
+"id": 950978768,
+"oldestRelatedCourseId": 950636407
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Nonconvex Global Optimization [CIT4130019]",
+"id": 950979088,
+"oldestRelatedCourseId": 950735791
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "ProjectWeeks: Data Design Studio for AI-Powered EdTech",
+"id": 951006989,
+"oldestRelatedCourseId": 950793359
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "A Practical Introduction to Data Science (CIT323007)",
+"id": 951006995,
+"oldestRelatedCourseId": 951006995
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Mathematical Ecology [MA5602]",
+"id": 951007074,
+"oldestRelatedCourseId": 951007074
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning for Human Genetics (CIT423019)",
+"id": 951007138,
+"oldestRelatedCourseId": 951007138
 }
 ]
 }

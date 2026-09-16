@@ -29498,6 +29498,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Business Law 1 (WI000027, German)",
+"id": 950940379,
+"oldestRelatedCourseId": 950002956
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -29744,18 +29756,6 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Semantics (IN2055)",
-"id": 950941030,
-"oldestRelatedCourseId": 950011200
-},
-{
-"courseTypeDto": {
-"key": "VI"
-},
-"termName": "WS26",
-"semesterDto": {
-"id": 207
-},
 "title": "Virtual Physics: Using Modern Modeling Methodologies for Computer Simulation",
 "id": 950941127,
 "oldestRelatedCourseId": 950026665
@@ -29816,6 +29816,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Information Theoretic Security",
+"id": 950941766,
+"oldestRelatedCourseId": 950140137
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Introduction to Surgical Robotics (IN2292)",
 "id": 950941780,
 "oldestRelatedCourseId": 950140836
@@ -29858,6 +29870,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Principles of Economics (WI001056_1, English)",
+"id": 950942101,
+"oldestRelatedCourseId": 950220849
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -29888,9 +29912,9 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Data Analysis and Visualization in R (IN2339)",
-"id": 950942369,
-"oldestRelatedCourseId": 950285419
+"title": "Ringvorlesung Systemsicherheit",
+"id": 950942458,
+"oldestRelatedCourseId": 950294859
 },
 {
 "courseTypeDto": {
@@ -29924,9 +29948,57 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Secure Implementation of Cryptographic Algorithms",
+"id": 950942739,
+"oldestRelatedCourseId": 950340651
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Physical Unclonable Functions",
+"id": 950942959,
+"oldestRelatedCourseId": 950368566
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Natural Language Processing (IN2361)",
 "id": 950943031,
 "oldestRelatedCourseId": 950380449
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Concepts and Software Design for Cyber-Physical Systems",
+"id": 950943256,
+"oldestRelatedCourseId": 950411489
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Stage Coaching for Engineers and Scientists",
+"id": 950943306,
+"oldestRelatedCourseId": 950428273
 },
 {
 "courseTypeDto": {
@@ -29972,6 +30044,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Optimal Control and Decision Making",
+"id": 950943628,
+"oldestRelatedCourseId": 950543460
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
 "id": 950943707,
 "oldestRelatedCourseId": 950294404
@@ -30002,6 +30086,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "HW/SW Codesign",
+"id": 950943899,
+"oldestRelatedCourseId": 950544221
+},
+{
+"courseTypeDto": {
 "key": "VO"
 },
 "termName": "WS26",
@@ -30011,6 +30107,18 @@
 "title": "Machine Learning for 3D Geometry (IN2392)",
 "id": 950943950,
 "oldestRelatedCourseId": 950563831
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Competition Law and Entrepreneurial Strategies (WI001291, English)",
+"id": 950944011,
+"oldestRelatedCourseId": 950574049
 },
 {
 "courseTypeDto": {
@@ -30122,18 +30230,6 @@
 },
 {
 "courseTypeDto": {
-"key": "VO"
-},
-"termName": "WS26",
-"semesterDto": {
-"id": 207
-},
-"title": "Computational Modeling for System Genetics (CIT4230001)",
-"id": 950944737,
-"oldestRelatedCourseId": 950664461
-},
-{
-"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -30143,6 +30239,18 @@
 "title": "Kurs zum:zur Fachsanit\u00e4ter:in",
 "id": 950944744,
 "oldestRelatedCourseId": 950664622
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Software for Quantum Computing",
+"id": 950944863,
+"oldestRelatedCourseId": 950693822
 },
 {
 "courseTypeDto": {
@@ -30188,6 +30296,42 @@
 "semesterDto": {
 "id": 207
 },
+"title": "(SOT86611) Sustainability Politics and Policy",
+"id": 950945068,
+"oldestRelatedCourseId": 950727466
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(SOT82531) Legal Principles of Artificial Intelligence - Lecture",
+"id": 950945100,
+"oldestRelatedCourseId": 950728426
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(SOT86060, SOT86061) Data Regulation & Law",
+"id": 950945293,
+"oldestRelatedCourseId": 950760847
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Advanced Deep Learning for Robotics (CIT433027)",
 "id": 950945322,
 "oldestRelatedCourseId": 950761808
@@ -30212,6 +30356,30 @@
 "semesterDto": {
 "id": 207
 },
+"title": "(SOT86097, SOT86074) Aligning Generative AI to Social Values",
+"id": 950945586,
+"oldestRelatedCourseId": 950796371
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Psychology of Learning and Instructional Design of AI-based systems",
+"id": 950945619,
+"oldestRelatedCourseId": 950797092
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Foundations and Application of Generative AI (CITHN2014)",
 "id": 950945696,
 "oldestRelatedCourseId": 950804346
@@ -30224,9 +30392,33 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Machine Learning for Design Automation and Manufacturing",
+"id": 950945706,
+"oldestRelatedCourseId": 950804448
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Virtual-, Mixed-, and Augmented Reality",
 "id": 950945708,
 "oldestRelatedCourseId": 950804473
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(SOT86080, SOT86102) Risk & Crisis Communication",
+"id": 950945730,
+"oldestRelatedCourseId": 950804751
 },
 {
 "courseTypeDto": {
@@ -30263,6 +30455,18 @@
 "title": "Intelligent Robots with a Sense of Smell (CIT433039)",
 "id": 950945848,
 "oldestRelatedCourseId": 950833183
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Embedded Systems and Security",
+"id": 950945898,
+"oldestRelatedCourseId": 950945898
 },
 {
 "courseTypeDto": {
@@ -30314,6 +30518,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Trustworthy Distributed Learning",
+"id": 950946333,
+"oldestRelatedCourseId": 950876667
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -30338,6 +30554,30 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Psychology and Human Behavior",
+"id": 950951792,
+"oldestRelatedCourseId": 950759626
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Introduction to Psychology and Human Behavior",
+"id": 950951793,
+"oldestRelatedCourseId": 950759626
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -30347,6 +30587,18 @@
 "title": "CAMP 1 - AI in Computational Medicine and Surgery (CIT423014)",
 "id": 950974750,
 "oldestRelatedCourseId": 950974750
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(SOT86087) Technology and the Public Interest - Lecture",
+"id": 950974818,
+"oldestRelatedCourseId": 950974818
 },
 {
 "courseTypeDto": {
@@ -30380,7 +30632,7 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Trustworthy AI in Medicine (CIT423007)",
+"title": "Trustworthy AI for Medicine (CIT423007)",
 "id": 950974903,
 "oldestRelatedCourseId": 950974903
 },
@@ -30395,6 +30647,18 @@
 "title": "Statistical Foundations of Learning (CIT4230004)",
 "id": 950974988,
 "oldestRelatedCourseId": 950695450
+},
+{
+"courseTypeDto": {
+"key": "VI"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Designing Games for Resilience & Survival in Times of Polycrisis (CIT623001)",
+"id": 950975173,
+"oldestRelatedCourseId": 950975173
 },
 {
 "courseTypeDto": {
@@ -30419,6 +30683,18 @@
 "title": "Design Space Exploration using Software Simulators (Heilbronn, CIT433051)",
 "id": 950976582,
 "oldestRelatedCourseId": 950936592
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning for Multi-Robot Exploration (CIT433058)",
+"id": 950977230,
+"oldestRelatedCourseId": 950977230
 },
 {
 "courseTypeDto": {
@@ -30455,6 +30731,54 @@
 "title": "Machine Learning and Structure: Geometry, Discrete Structure and Algorithms (CIT423021)",
 "id": 950977895,
 "oldestRelatedCourseId": 950977895
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Healthcare Entrepreneurship Expert Sessions",
+"id": 950978202,
+"oldestRelatedCourseId": 950936393
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "ProjectWeeks: Data Design Studio for AI-Powered EdTech",
+"id": 951006989,
+"oldestRelatedCourseId": 950793359
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "A Practical Introduction to Data Science (CIT323007)",
+"id": 951006995,
+"oldestRelatedCourseId": 951006995
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Machine Learning for Human Genetics (CIT423019)",
+"id": 951007138,
+"oldestRelatedCourseId": 951007138
 }
 ]
 }
