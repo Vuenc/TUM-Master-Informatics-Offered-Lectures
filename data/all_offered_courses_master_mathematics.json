@@ -65072,6 +65072,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Neurobiology",
+"id": 950940662,
+"oldestRelatedCourseId": 950005324
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Fluid mechanics 2 (MW1910)",
 "id": 950940678,
 "oldestRelatedCourseId": 240897349
@@ -65408,6 +65420,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Astro Particle Physics 1",
+"id": 950940994,
+"oldestRelatedCourseId": 950010611
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Magnetohydrodynamic Phenomena - an Introduction",
 "id": 950940995,
 "oldestRelatedCourseId": 950010613
@@ -65516,18 +65540,6 @@
 "semesterDto": {
 "id": 207
 },
-"title": "(POL70044) Business Ethics",
-"id": 950941206,
-"oldestRelatedCourseId": 950088580
-},
-{
-"courseTypeDto": {
-"key": "VO"
-},
-"termName": "WS26",
-"semesterDto": {
-"id": 207
-},
 "title": "Analysis and design of cellular networks",
 "id": 950941316,
 "oldestRelatedCourseId": 950054933
@@ -65543,6 +65555,18 @@
 "title": "Large Deviations",
 "id": 950941328,
 "oldestRelatedCourseId": 950055851
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Mathematical Continuum Mechanics",
+"id": 950941334,
+"oldestRelatedCourseId": 950055926
 },
 {
 "courseTypeDto": {
@@ -65915,6 +65939,18 @@
 "title": "Applied Statistics and Econometrics (WZ1705, English)",
 "id": 950942597,
 "oldestRelatedCourseId": 950319113
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "TUM Data Innovation Lab [MA8113], [CIT\u202f413067]",
+"id": 950942659,
+"oldestRelatedCourseId": 950322906
 },
 {
 "courseTypeDto": {
@@ -66308,7 +66344,7 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
+"title": "Burn, Baby, Burn: Fueling the Climate Crisis (Environmental Lecture Series)",
 "id": 950943707,
 "oldestRelatedCourseId": 950294404
 },
@@ -66902,6 +66938,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Algebraic Topology [CIT413039]",
+"id": 950976167,
+"oldestRelatedCourseId": 950797387
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -67043,6 +67091,18 @@
 "title": "Machine Learning for Human Genetics (CIT423019)",
 "id": 951007138,
 "oldestRelatedCourseId": 951007138
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(POL70044) Business Ethics (Master)",
+"id": 951008420,
+"oldestRelatedCourseId": 951008420
 }
 ]
 }

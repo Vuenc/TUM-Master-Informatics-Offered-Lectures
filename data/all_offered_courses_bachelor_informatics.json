@@ -66164,6 +66164,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Economics I (Microeconomics) (WI000021) at Campus Straubing",
+"id": 950940547,
+"oldestRelatedCourseId": 950003374
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Energy Monitoring",
 "id": 950940564,
 "oldestRelatedCourseId": 950003760
@@ -66464,6 +66476,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Molecular Biotechnology (lecture)",
+"id": 950940813,
+"oldestRelatedCourseId": 950005046
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Aircraft Performance",
 "id": 950940815,
 "oldestRelatedCourseId": 950004931
@@ -66608,6 +66632,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Technology, Nature, and Society",
+"id": 950941004,
+"oldestRelatedCourseId": 950010706
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "Fundamentals of Beverage Technology",
 "id": 950941018,
 "oldestRelatedCourseId": 950010894
@@ -66680,18 +66716,6 @@
 "semesterDto": {
 "id": 207
 },
-"title": "(POL70044) Business Ethics",
-"id": 950941206,
-"oldestRelatedCourseId": 950088580
-},
-{
-"courseTypeDto": {
-"key": "VO"
-},
-"termName": "WS26",
-"semesterDto": {
-"id": 207
-},
 "title": "From Invention to Patent (Protection and Commercialization of Research Results)",
 "id": 950941247,
 "oldestRelatedCourseId": 950037534
@@ -66707,6 +66731,18 @@
 "title": "Modeling and Simulation with Ordinary Differential Equations (BSc. Engineering Science)) [MA9803]",
 "id": 950941258,
 "oldestRelatedCourseId": 950039756
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Theory of Architecture and Design (Architectural exhibition as a critical form. From Hermann Muthesius to Rem Koolhaas)",
+"id": 950941261,
+"oldestRelatedCourseId": 950039853
 },
 {
 "courseTypeDto": {
@@ -67190,13 +67226,25 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Principles of Presentation",
+"id": 950943640,
+"oldestRelatedCourseId": 950490858
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
 "semesterDto": {
 "id": 207
 },
-"title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
+"title": "Burn, Baby, Burn: Fueling the Climate Crisis (Environmental Lecture Series)",
 "id": 950943707,
 "oldestRelatedCourseId": 950294404
 },
@@ -67547,6 +67595,18 @@
 "title": "A Practical Introduction to Data Science (CIT323007)",
 "id": 951006995,
 "oldestRelatedCourseId": 951006995
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(POL70044) Business Ethics (Master)",
+"id": 951008420,
+"oldestRelatedCourseId": 951008420
 }
 ]
 }

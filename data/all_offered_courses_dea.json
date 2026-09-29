@@ -33062,6 +33062,18 @@
 },
 {
 "courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "Technology, Nature, and Society",
+"id": 950941004,
+"oldestRelatedCourseId": 950010706
+},
+{
+"courseTypeDto": {
 "key": "VI"
 },
 "termName": "WS26",
@@ -33083,18 +33095,6 @@
 "title": "Probability Theory [MA2409]",
 "id": 950941204,
 "oldestRelatedCourseId": 950035670
-},
-{
-"courseTypeDto": {
-"key": "VO"
-},
-"termName": "WS26",
-"semesterDto": {
-"id": 207
-},
-"title": "(POL70044) Business Ethics",
-"id": 950941206,
-"oldestRelatedCourseId": 950088580
 },
 {
 "courseTypeDto": {
@@ -33308,6 +33308,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "TUM Data Innovation Lab [MA8113], [CIT\u202f413067]",
+"id": 950942659,
+"oldestRelatedCourseId": 950322906
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "3D Scanning & Motion Capture (IN2354)",
 "id": 950942690,
 "oldestRelatedCourseId": 950339245
@@ -33464,7 +33476,7 @@
 "semesterDto": {
 "id": 207
 },
-"title": "Living with the Future: How Our Choices Echo Ahead (Ringvorlesung Umwelt)",
+"title": "Burn, Baby, Burn: Fueling the Climate Crisis (Environmental Lecture Series)",
 "id": 950943707,
 "oldestRelatedCourseId": 950294404
 },
@@ -33836,6 +33848,18 @@
 "semesterDto": {
 "id": 207
 },
+"title": "Introduction to Open Data - Open Science",
+"id": 950945754,
+"oldestRelatedCourseId": 950805472
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
 "title": "AI Testing (CIT423002)",
 "id": 950945781,
 "oldestRelatedCourseId": 950806763
@@ -34127,6 +34151,18 @@
 "title": "Machine Learning for Human Genetics (CIT423019)",
 "id": 951007138,
 "oldestRelatedCourseId": 951007138
+},
+{
+"courseTypeDto": {
+"key": "VO"
+},
+"termName": "WS26",
+"semesterDto": {
+"id": 207
+},
+"title": "(POL70044) Business Ethics (Master)",
+"id": 951008420,
+"oldestRelatedCourseId": 951008420
 }
 ]
 }

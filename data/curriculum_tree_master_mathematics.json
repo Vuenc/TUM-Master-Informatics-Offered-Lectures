@@ -76,7 +76,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837413",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941334",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837428"
 ],
 "num_credits": 9,
@@ -934,7 +934,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950975520",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950803654"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950975521"
 ],
 "num_credits": 9,
 "module_name": "[MA3203] Projective Geometry 1",
@@ -980,7 +980,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941470",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837626"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941471"
 ],
 "num_credits": 9,
 "module_name": "[MA5120] Algebra 2",
@@ -1220,7 +1220,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950797387",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950976167",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950797388"
 ],
 "num_credits": 9,
@@ -1686,7 +1686,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836752",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941329",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941328"
 ],
 "num_credits": 5,
@@ -2389,8 +2389,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840627",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950881835"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942659"
 ],
 "num_credits": 10,
 "module_name": "[MA8113] TUM Data Innovation Lab",
@@ -2405,7 +2404,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940245",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836234"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940247"
 ],
 "num_credits": 5,
 "module_name": "[MA3503] Nonlinear Optimization",
@@ -2987,7 +2986,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950946357",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876867"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950946359"
 ],
 "num_credits": 5,
 "module_name": "[MA3442] Actuarial Risk Theory",
@@ -3284,7 +3283,7 @@
 {
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943837",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950839482"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943901"
 ],
 "num_credits": 9,
 "module_name": "[MA3405] Insurance Mathematics 1",
@@ -4603,8 +4602,8 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950836952",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838170"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940994",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942632"
 ],
 "num_credits": 5,
 "module_name": "[PH2073] Astro Particle Physics 1",
@@ -6020,7 +6019,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950874871"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940662"
 ],
 "num_credits": 3,
 "module_name": "[WZ2457] Neurobiology",
@@ -6950,8 +6949,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841038",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882252"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945064"
 ],
 "num_credits": 6,
 "module_name": "[SOT56307] Philosophy of Artificial Intelligence: Key Readings",
@@ -7686,7 +7684,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840937"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945714"
 ],
 "num_credits": 6,
 "module_name": "[ED120118] Project Week: New Technologies for Design Research",
@@ -7839,6 +7837,18 @@
 ],
 "num_credits": 6,
 "module_name": "[MGT000159] Start-up Launchpad - Business Plan Basics",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Project Weeks"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977245"
+],
+"num_credits": 3,
+"module_name": "[ED120119] Urban Transitions Lab. Co-Designing Sustainable Change",
 "rule_node_names_by_levels": {
 "59": "Academic Achievements",
 "79": "Interdisciplinary Courses",
@@ -8161,6 +8171,21 @@
 ],
 "num_credits": 3,
 "module_name": "[SZ0356] German as a Foreign Language B2.1 - Start at Companies",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Language Center",
+"119": "TUM Language Center German as a Foreign Language"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840851",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882048",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950944109"
+],
+"num_credits": 3,
+"module_name": "[SZ0340] German as a Foreign Language B2.2",
 "rule_node_names_by_levels": {
 "59": "Academic Achievements",
 "79": "Interdisciplinary Courses",
@@ -9069,8 +9094,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950844839",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950978538",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945959",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876657",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950876641"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945953"
 ],
 "num_credits": 2,
 "module_name": "[SZ04112] English - English Shorts: Mini Topics in the English Language B2-C2",
@@ -9180,21 +9204,6 @@
 ],
 "num_credits": 3,
 "module_name": "[SZ0414] English - Intercultural Communication C1",
-"rule_node_names_by_levels": {
-"59": "Academic Achievements",
-"79": "Interdisciplinary Courses",
-"99": "Elective Modules Language Center",
-"119": "[SZ0003-04] TUM Language Center English"
-}
-},
-{
-"urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950404909",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940955",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950950354"
-],
-"num_credits": 3,
-"module_name": "[SZ0425] English - Introduction to Academic Writing C1",
 "rule_node_names_by_levels": {
 "59": "Academic Achievements",
 "79": "Interdisciplinary Courses",
@@ -10398,20 +10407,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950832543",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941357"
-],
-"num_credits": 3,
-"module_name": "[SZ1701] Norwegian A1",
-"rule_node_names_by_levels": {
-"59": "Academic Achievements",
-"79": "Interdisciplinary Courses",
-"99": "Elective Modules Language Center",
-"119": "[SZ0003-17] TUM Language Center Norwegan"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941460"
 ],
 "num_credits": 3,
@@ -10902,6 +10897,47 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950976843",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977501"
+],
+"num_credits": 3,
+"module_name": "[SZ1237] Spanish A1.1",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Language Center",
+"119": "[SZ0003-12] TUM Language Center Spanish"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977503"
+],
+"num_credits": 6,
+"module_name": "[SZ1239] Spanish A1.1 + A1.2",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Language Center",
+"119": "[SZ0003-12] TUM Language Center Spanish"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950976844",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977502"
+],
+"num_credits": 3,
+"module_name": "[SZ1238] Spanish A1.2",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Language Center",
+"119": "[SZ0003-12] TUM Language Center Spanish"
+}
+},
+{
+"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950734075"
 ],
 "num_credits": 3,
@@ -10976,6 +11012,19 @@
 ],
 "num_credits": 3,
 "module_name": "[SZ1229] Spanish B1 - Grammar Training",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Elective Modules Language Center",
+"119": "[SZ0003-12] TUM Language Center Spanish"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950937882"
+],
+"num_credits": 3,
+"module_name": "[SZ1236] Spanish B1 - Tandem",
 "rule_node_names_by_levels": {
 "59": "Academic Achievements",
 "79": "Interdisciplinary Courses",
@@ -11472,6 +11521,7 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840762",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941883"
 ],
 "num_credits": 2,
@@ -11486,7 +11536,7 @@
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945962",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879255",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943099",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950840540",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950463538"
 ],
 "num_credits": 2,
@@ -11573,18 +11623,6 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941554"
-],
-"num_credits": 2,
-"module_name": "[CLA21213] Individual Change Management",
-"rule_node_names_by_levels": {
-"59": "Academic Achievements",
-"79": "Interdisciplinary Courses",
-"99": "Elective Modules Carl-von-Linde-Akademie"
-}
-},
-{
-"urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950940911"
 ],
 "num_credits": 3,
@@ -11649,6 +11687,7 @@
 },
 {
 "urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950942561",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950977880",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805246",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950805244",
@@ -11721,8 +11760,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950773909",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727432",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950793222",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950243110",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950241249"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950976144"
 ],
 "num_credits": null,
 "module_name": "[CLA31307] Philosophical Foundations of Mathematics and Computer Science",
@@ -11895,7 +11933,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950837721"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/951008241"
 ],
 "num_credits": 2,
 "module_name": "[CLA20720] Technology in everyday life",
@@ -11931,8 +11969,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950838762",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950880085",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950943815",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950841208",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950936988"
 ],
@@ -12045,7 +12082,7 @@
 },
 {
 "urls": [
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950941206",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/951008420",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950321223"
 ],
 "num_credits": 3,
@@ -12370,8 +12407,7 @@
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950664944",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950571704",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950727439",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950875963",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950883702",
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950945960",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950879497"
 ],
 "num_credits": 2,
@@ -12726,7 +12762,7 @@
 "urls": [
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882057",
 "https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950882543",
-"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950872167"
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950946032"
 ],
 "num_credits": 6,
 "module_name": "[SOT46401] Data Ethics and Governance",
@@ -12774,6 +12810,19 @@
 "79": "Interdisciplinary Courses",
 "99": "Projektwochen",
 "119": "Society & Communications"
+}
+},
+{
+"urls": [
+"https://campus.tum.de/tumonline/pages/slc.tm.cp/course/950974643"
+],
+"num_credits": 6,
+"module_name": "[SOT56603] Actors, Environments and Technologies \u2013 Experimenting with Ways of Knowing and Doing STS",
+"rule_node_names_by_levels": {
+"59": "Academic Achievements",
+"79": "Interdisciplinary Courses",
+"99": "Projektwochen",
+"119": "Sustainability & Transformation"
 }
 },
 {
