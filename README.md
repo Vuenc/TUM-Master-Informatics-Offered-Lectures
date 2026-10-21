@@ -3,19 +3,19 @@
 This repo aims to provide a **list of lectures** that are being offered this semester grouped by area of specialization for various TUM CIT degree progams:
 
 - **Informatics B.Sc.**:
-  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/bachelor-informatics-ws26-27.html) ***(Preliminary, not all courses out yet!)***
+  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/bachelor-informatics-ws26-27.html) ***(last updated: Sept. 29)***
   - [Historical list of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/bachelor-informatics-all.html)
 - **Informatics M.Sc.**:
-  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-informatics-ws26-27.html) ***(Preliminary, not all courses out yet!)***
+  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-informatics-ws26-27.html) ***(last updated: Sept. 29)***
   - [Historical list of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-informatics-all.html)
 - **DEA M.Sc.**:
-  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-ws26-27.html) ***(Preliminary, not all courses out yet!)***
+  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-ws26-27.html) ***(last updated: Sept. 29)***
   - [Historical list of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/dea-all.html)
 - **Information Systems M.Sc.**:
-  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-information-systems-ws26-27.html) ***(Preliminary, not all courses out yet!)***
+  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-information-systems-ws26-27.html) ***(last updated: Sept. 29)***
   - [Historical list of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-information-systems-all.html)
 - **Mathematics M.Sc.**:
-  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-mathematics-ws26-27.html)  ***(Preliminary, not all courses out yet!)***
+  - [List of lectures offered in **winter semester 2026/27**](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-mathematics-ws26-27.html)  ***(last updated: Sept. 29)***
   - [Historical list of all courses and when last offered](https://vuenc.github.io/TUM-Master-Informatics-Offered-Lectures/master-mathematics-all.html)
 
 _This list is not official, might be incomplete or have errors. Use with care!_
